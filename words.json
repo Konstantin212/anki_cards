@@ -1,0 +1,7954 @@
+[
+  {
+    "word": "Übersetzer",
+    "full": "der Übersetzer, -",
+    "translation": "перекладач",
+    "forms": "",
+    "examples": [
+      [
+        "Meine Tochter möchte als Übersetzerin arbeiten.",
+        "Моя донька хоче працювати перекладачкою."
+      ]
+    ]
+  },
+  {
+    "word": "ab*schließen",
+    "full": "",
+    "translation": "завершувати, закінчувати (навчання); замикати",
+    "forms": "Perfekt: er hat abgeschlossen · Präteritum: er schloss ab",
+    "examples": [
+      [
+        "Sie hat ihr Studium 2019 abgeschlossen.",
+        "Вона закінчила навчання у 2019 році."
+      ],
+      [
+        "Bitte schließ die Tür ab, wenn du gehst.",
+        "Будь ласка, замкни двері, коли йдеш."
+      ]
+    ]
+  },
+  {
+    "word": "an*fangen",
+    "full": "",
+    "translation": "починати",
+    "forms": "Perfekt: er hat angefangen · Präteritum: er fing an",
+    "examples": [
+      [
+        "Der Film fängt um acht Uhr an.",
+        "Фільм починається о восьмій годині."
+      ],
+      [
+        "Ich habe gestern einen neuen Job angefangen.",
+        "Учора я почав нову роботу."
+      ]
+    ]
+  },
+  {
+    "word": "backen",
+    "full": "",
+    "translation": "пекти",
+    "forms": "Perfekt: er hat gebacken · Präteritum: er backte",
+    "examples": [
+      [
+        "Meine Oma backt jeden Sonntag einen Kuchen.",
+        "Моя бабуся щонеділі пече пиріг."
+      ]
+    ]
+  },
+  {
+    "word": "beginnen",
+    "full": "",
+    "translation": "починати(ся), розпочинати",
+    "forms": "Perfekt: er hat begonnen · Präteritum: er begann",
+    "examples": [
+      [
+        "Der Unterricht beginnt um neun Uhr.",
+        "Заняття починаються о дев'ятій годині."
+      ]
+    ]
+  },
+  {
+    "word": "bekommen",
+    "full": "",
+    "translation": "отримувати, одержувати",
+    "forms": "Perfekt: er hat bekommen · Präteritum: er bekam",
+    "examples": [
+      [
+        "Ich habe endlich eine neue Stelle bekommen.",
+        "Я нарешті отримав нову посаду."
+      ]
+    ]
+  },
+  {
+    "word": "bieten",
+    "full": "",
+    "translation": "пропонувати, надавати",
+    "forms": "Perfekt: er hat geboten · Präteritum: er bot",
+    "examples": [
+      [
+        "Die Firma bietet gute Arbeitsbedingungen.",
+        "Компанія пропонує хороші умови праці."
+      ]
+    ]
+  },
+  {
+    "word": "bleiben",
+    "full": "",
+    "translation": "залишатися",
+    "forms": "Perfekt: er ist geblieben · Präteritum: er blieb",
+    "examples": [
+      [
+        "Heute bleibe ich zu Hause.",
+        "Сьогодні я залишаюся вдома."
+      ]
+    ]
+  },
+  {
+    "word": "essen",
+    "full": "",
+    "translation": "їсти",
+    "forms": "Perfekt: er hat gegessen · Präteritum: er aß",
+    "examples": [
+      [
+        "Zum Frühstück esse ich gern Müsli.",
+        "На сніданок я люблю їсти мюслі."
+      ]
+    ]
+  },
+  {
+    "word": "fahren",
+    "full": "",
+    "translation": "їхати, керувати (автомобілем)",
+    "forms": "Perfekt: er ist gefahren · Präteritum: er fuhr",
+    "examples": [
+      [
+        "Wir fahren im Sommer nach Italien.",
+        "Влітку ми їдемо до Італії."
+      ]
+    ]
+  },
+  {
+    "word": "fangen",
+    "full": "",
+    "translation": "ловити",
+    "forms": "Perfekt: er hat gefangen · Präteritum: er fing",
+    "examples": [
+      [
+        "Der Junge hat einen großen Fisch gefangen.",
+        "Хлопчик спіймав велику рибу."
+      ]
+    ]
+  },
+  {
+    "word": "fliegen",
+    "full": "",
+    "translation": "літати, летіти",
+    "forms": "Perfekt: er ist geflogen · Präteritum: er flog",
+    "examples": [
+      [
+        "Nächste Woche fliege ich nach Berlin.",
+        "Наступного тижня я лечу до Берліна."
+      ]
+    ]
+  },
+  {
+    "word": "geben",
+    "full": "",
+    "translation": "давати",
+    "forms": "Perfekt: er hat gegeben · Präteritum: er gab",
+    "examples": [
+      [
+        "Kannst du mir bitte das Salz geben?",
+        "Можеш, будь ласка, дати мені сіль?"
+      ]
+    ]
+  },
+  {
+    "word": "gehen",
+    "full": "",
+    "translation": "йти, ходити",
+    "forms": "Perfekt: er ist gegangen · Präteritum: er ging",
+    "examples": [
+      [
+        "Ich gehe jeden Morgen zu Fuß zur Arbeit.",
+        "Я щоранку ходжу на роботу пішки."
+      ]
+    ]
+  },
+  {
+    "word": "gewinnen",
+    "full": "",
+    "translation": "вигравати, перемагати",
+    "forms": "Perfekt: er hat gewonnen · Präteritum: er gewann",
+    "examples": [
+      [
+        "Unsere Mannschaft hat das Spiel gewonnen.",
+        "Наша команда виграла матч."
+      ]
+    ]
+  },
+  {
+    "word": "halten",
+    "full": "",
+    "translation": "тримати; проводити (лекцію)",
+    "forms": "Perfekt: er hat gehalten · Präteritum: er hielt",
+    "examples": [
+      [
+        "Der Professor hält heute eine Vorlesung.",
+        "Професор сьогодні читає лекцію."
+      ]
+    ]
+  },
+  {
+    "word": "heißen",
+    "full": "",
+    "translation": "зватися, називатися",
+    "forms": "Perfekt: er hat geheißen · Präteritum: er hieß",
+    "examples": [
+      [
+        "Wie heißen Sie?",
+        "Як вас звати?"
+      ]
+    ]
+  },
+  {
+    "word": "helfen",
+    "full": "",
+    "translation": "допомагати",
+    "forms": "Perfekt: er hat geholfen · Präteritum: er half",
+    "examples": [
+      [
+        "Kannst du mir bitte helfen?",
+        "Можеш мені, будь ласка, допомогти?"
+      ]
+    ]
+  },
+  {
+    "word": "kommen",
+    "full": "",
+    "translation": "приходити, прибувати",
+    "forms": "Perfekt: er ist gekommen · Präteritum: er kam",
+    "examples": [
+      [
+        "Woher kommen Sie?",
+        "Звідки ви (родом)?"
+      ]
+    ]
+  },
+  {
+    "word": "lesen",
+    "full": "",
+    "translation": "читати",
+    "forms": "Perfekt: er hat gelesen · Präteritum: er las",
+    "examples": [
+      [
+        "Abends lese ich gern ein Buch.",
+        "Увечері я люблю читати книжку."
+      ]
+    ]
+  },
+  {
+    "word": "nehmen",
+    "full": "",
+    "translation": "брати",
+    "forms": "Perfekt: er hat genommen · Präteritum: er nahm",
+    "examples": [
+      [
+        "Ich nehme den Bus zur Arbeit.",
+        "Я їжджу на роботу автобусом."
+      ]
+    ]
+  },
+  {
+    "word": "ein*nehmen",
+    "full": "",
+    "translation": "приймати (ліки)",
+    "forms": "Perfekt: er hat eingenommen · Präteritum: er nahm ein",
+    "examples": [
+      [
+        "Er nimmt zweimal am Tag eine Tablette ein.",
+        "Він приймає таблетку двічі на день."
+      ]
+    ]
+  },
+  {
+    "word": "schießen",
+    "full": "",
+    "translation": "стріляти; забивати (гол)",
+    "forms": "Perfekt: er hat geschossen · Präteritum: er schoss",
+    "examples": [
+      [
+        "Der Spieler hat ein Tor geschossen.",
+        "Гравець забив гол."
+      ]
+    ]
+  },
+  {
+    "word": "schlafen",
+    "full": "",
+    "translation": "спати",
+    "forms": "Perfekt: er hat geschlafen · Präteritum: er schlief",
+    "examples": [
+      [
+        "Ich habe letzte Nacht schlecht geschlafen.",
+        "Минулої ночі я погано спав."
+      ]
+    ]
+  },
+  {
+    "word": "schreiben",
+    "full": "",
+    "translation": "писати",
+    "forms": "Perfekt: er hat geschrieben · Präteritum: er schrieb",
+    "examples": [
+      [
+        "Ich schreibe meiner Freundin eine E-Mail.",
+        "Я пишу подрузі електронного листа."
+      ]
+    ]
+  },
+  {
+    "word": "sein",
+    "full": "",
+    "translation": "бути",
+    "forms": "Perfekt: er ist gewesen · Präteritum: er war",
+    "examples": [
+      [
+        "Ich bin gestern im Kino gewesen.",
+        "Учора я був у кіно."
+      ]
+    ]
+  },
+  {
+    "word": "singen",
+    "full": "",
+    "translation": "співати",
+    "forms": "Perfekt: er hat gesungen · Präteritum: er sang",
+    "examples": [
+      [
+        "Die Kinder singen ein Lied.",
+        "Діти співають пісню."
+      ]
+    ]
+  },
+  {
+    "word": "stehen",
+    "full": "",
+    "translation": "стояти",
+    "forms": "Perfekt: er hat gestanden · Präteritum: er stand",
+    "examples": [
+      [
+        "Das Auto steht vor dem Haus.",
+        "Машина стоїть перед будинком."
+      ]
+    ]
+  },
+  {
+    "word": "auf*stehen",
+    "full": "",
+    "translation": "вставати, прокидатися",
+    "forms": "Perfekt: er ist aufgestanden · Präteritum: er stand auf",
+    "examples": [
+      [
+        "Ich stehe jeden Tag um sieben Uhr auf.",
+        "Я встаю щодня о сьомій годині."
+      ],
+      [
+        "Am Wochenende stehe ich später auf.",
+        "У вихідні я встаю пізніше."
+      ]
+    ]
+  },
+  {
+    "word": "sprechen",
+    "full": "",
+    "translation": "говорити, розмовляти",
+    "forms": "Perfekt: er hat gesprochen · Präteritum: er sprach",
+    "examples": [
+      [
+        "Sprechen Sie Deutsch?",
+        "Ви розмовляєте німецькою?"
+      ]
+    ]
+  },
+  {
+    "word": "trinken",
+    "full": "",
+    "translation": "пити",
+    "forms": "Perfekt: er hat getrunken · Präteritum: er trank",
+    "examples": [
+      [
+        "Morgens trinke ich einen Kaffee.",
+        "Уранці я п'ю каву."
+      ]
+    ]
+  },
+  {
+    "word": "um*ziehen",
+    "full": "",
+    "translation": "переїжджати (на нове місце)",
+    "forms": "Perfekt: er ist umgezogen · Präteritum: er zog um",
+    "examples": [
+      [
+        "Wir ziehen nächsten Monat nach München um.",
+        "Наступного місяця ми переїжджаємо до Мюнхена."
+      ]
+    ]
+  },
+  {
+    "word": "vergessen",
+    "full": "",
+    "translation": "забувати",
+    "forms": "Perfekt: er hat vergessen · Präteritum: er vergaß",
+    "examples": [
+      [
+        "Ich habe meinen Schlüssel vergessen.",
+        "Я забув свій ключ."
+      ]
+    ]
+  },
+  {
+    "word": "sich an*ziehen",
+    "full": "",
+    "translation": "вдягатися",
+    "forms": "Perfekt: er hat sich angezogen · Präteritum: er zog sich an",
+    "examples": [
+      [
+        "Das Kind zieht sich schon allein an.",
+        "Дитина вже вдягається сама."
+      ]
+    ]
+  },
+  {
+    "word": "sich ärgern",
+    "full": "",
+    "translation": "сердитися, дратуватися",
+    "forms": "Perfekt: er hat sich geärgert · Präteritum: er ärgerte sich",
+    "examples": [
+      [
+        "Er ärgert sich über den Stau.",
+        "Він сердиться через затор."
+      ]
+    ]
+  },
+  {
+    "word": "sich bedanken",
+    "full": "",
+    "translation": "дякувати",
+    "forms": "Perfekt: er hat sich bedankt · Präteritum: er bedankte sich",
+    "examples": [
+      [
+        "Ich möchte mich für die Hilfe bedanken.",
+        "Я хочу подякувати за допомогу."
+      ]
+    ]
+  },
+  {
+    "word": "sich befinden",
+    "full": "",
+    "translation": "знаходитися, перебувати",
+    "forms": "Perfekt: er hat sich befunden · Präteritum: er befand sich",
+    "examples": [
+      [
+        "Das Hotel befindet sich im Zentrum.",
+        "Готель знаходиться в центрі."
+      ]
+    ]
+  },
+  {
+    "word": "sich beschweren",
+    "full": "",
+    "translation": "скаржитися",
+    "forms": "Perfekt: er hat sich beschwert · Präteritum: er beschwerte sich",
+    "examples": [
+      [
+        "Der Gast beschwert sich über das Zimmer.",
+        "Гість скаржиться на номер."
+      ]
+    ]
+  },
+  {
+    "word": "sich beeilen",
+    "full": "",
+    "translation": "поспішати, квапитися",
+    "forms": "Perfekt: er hat sich beeilt · Präteritum: er beeilte sich",
+    "examples": [
+      [
+        "Beeil dich, der Zug fährt gleich!",
+        "Поквапся, потяг зараз відходить!"
+      ]
+    ]
+  },
+  {
+    "word": "sich duschen",
+    "full": "",
+    "translation": "приймати душ",
+    "forms": "Perfekt: er hat sich geduscht · Präteritum: er duschte sich",
+    "examples": [
+      [
+        "Ich dusche mich jeden Morgen kalt.",
+        "Я щоранку приймаю холодний душ."
+      ]
+    ]
+  },
+  {
+    "word": "sich erinnern",
+    "full": "",
+    "translation": "пам'ятати, згадувати",
+    "forms": "Perfekt: er hat sich erinnert · Präteritum: er erinnerte sich",
+    "examples": [
+      [
+        "Ich erinnere mich gern an den Urlaub.",
+        "Я із задоволенням згадую відпустку."
+      ]
+    ]
+  },
+  {
+    "word": "sich erkälten",
+    "full": "",
+    "translation": "застуджуватися",
+    "forms": "Perfekt: er hat sich erkältet · Präteritum: er erkältete sich",
+    "examples": [
+      [
+        "Zieh dich warm an, sonst erkältest du dich.",
+        "Вдягнися тепло, бо застудишся."
+      ]
+    ]
+  },
+  {
+    "word": "sich freuen",
+    "full": "",
+    "translation": "радіти",
+    "forms": "Perfekt: er hat sich gefreut · Präteritum: er freute sich",
+    "examples": [
+      [
+        "Ich freue mich auf das Wochenende.",
+        "Я з нетерпінням чекаю вихідних."
+      ]
+    ]
+  },
+  {
+    "word": "sich föhnen",
+    "full": "",
+    "translation": "сушити волосся феном",
+    "forms": "Perfekt: er hat sich geföhnt · Präteritum: er föhnte sich",
+    "examples": [
+      [
+        "Nach dem Duschen föhnt sie sich die Haare.",
+        "Після душу вона сушить волосся феном."
+      ]
+    ]
+  },
+  {
+    "word": "sich interessieren",
+    "full": "",
+    "translation": "цікавитися",
+    "forms": "Perfekt: er hat sich interessiert · Präteritum: er interessierte sich",
+    "examples": [
+      [
+        "Ich interessiere mich für Geschichte.",
+        "Я цікавлюся історією."
+      ]
+    ]
+  },
+  {
+    "word": "sich kämmen",
+    "full": "",
+    "translation": "розчісуватися",
+    "forms": "Perfekt: er hat sich gekämmt · Präteritum: er kämmte sich",
+    "examples": [
+      [
+        "Er kämmt sich vor dem Spiegel.",
+        "Він розчісується перед дзеркалом."
+      ]
+    ]
+  },
+  {
+    "word": "sich schminken",
+    "full": "",
+    "translation": "фарбуватися, робити макіяж",
+    "forms": "Perfekt: er hat sich geschminkt · Präteritum: er schminkte sich",
+    "examples": [
+      [
+        "Sie schminkt sich jeden Morgen.",
+        "Вона робить макіяж щоранку."
+      ]
+    ]
+  },
+  {
+    "word": "sich streiten",
+    "full": "",
+    "translation": "сваритися",
+    "forms": "Perfekt: er hat sich gestritten · Präteritum: er stritt sich",
+    "examples": [
+      [
+        "Die Brüder streiten sich oft.",
+        "Брати часто сваряться."
+      ]
+    ]
+  },
+  {
+    "word": "sich treffen",
+    "full": "",
+    "translation": "зустрічатися",
+    "forms": "Perfekt: er hat sich getroffen · Präteritum: er traf sich",
+    "examples": [
+      [
+        "Wir treffen uns morgen im Café.",
+        "Ми зустрічаємося завтра в кафе."
+      ]
+    ]
+  },
+  {
+    "word": "sich um*ziehen",
+    "full": "",
+    "translation": "переодягатися",
+    "forms": "Perfekt: er hat sich umgezogen · Präteritum: er zog sich um",
+    "examples": [
+      [
+        "Nach der Arbeit zieht er sich um.",
+        "Після роботи він переодягається."
+      ]
+    ]
+  },
+  {
+    "word": "sich unterhalten",
+    "full": "",
+    "translation": "розмовляти, спілкуватися",
+    "forms": "Perfekt: er hat sich unterhalten · Präteritum: er unterhielt sich",
+    "examples": [
+      [
+        "Wir haben uns lange unterhalten.",
+        "Ми довго розмовляли."
+      ]
+    ]
+  },
+  {
+    "word": "sich verlieben",
+    "full": "",
+    "translation": "закохуватися",
+    "forms": "Perfekt: er hat sich verliebt · Präteritum: er verliebte sich",
+    "examples": [
+      [
+        "Er hat sich in eine Kollegin verliebt.",
+        "Він закохався в колегу."
+      ]
+    ]
+  },
+  {
+    "word": "sich vor*stellen",
+    "full": "",
+    "translation": "представлятися; уявляти собі",
+    "forms": "Perfekt: er hat sich vorgestellt · Präteritum: er stellte sich vor",
+    "examples": [
+      [
+        "Darf ich mich vorstellen?",
+        "Дозвольте відрекомендуватися."
+      ]
+    ]
+  },
+  {
+    "word": "auf*wachsen",
+    "full": "",
+    "translation": "рости, дорослішати",
+    "forms": "Perfekt: er ist aufgewachsen · Präteritum: er wuchs auf",
+    "examples": [
+      [
+        "Er ist auf dem Land aufgewachsen.",
+        "Він виріс на селі."
+      ]
+    ]
+  },
+  {
+    "word": "brennen",
+    "full": "",
+    "translation": "горіти",
+    "forms": "Perfekt: es hat gebrannt · Präteritum: es brannte",
+    "examples": [
+      [
+        "Vorsicht, die Kerze brennt noch!",
+        "Обережно, свічка ще горить!"
+      ]
+    ]
+  },
+  {
+    "word": "bringen",
+    "full": "",
+    "translation": "приносити, приводити",
+    "forms": "Perfekt: er hat gebracht · Präteritum: er brachte",
+    "examples": [
+      [
+        "Kannst du mir bitte ein Glas Wasser bringen?",
+        "Можеш, будь ласка, принести мені склянку води?"
+      ]
+    ]
+  },
+  {
+    "word": "denken",
+    "full": "",
+    "translation": "думати",
+    "forms": "Perfekt: er hat gedacht · Präteritum: er dachte",
+    "examples": [
+      [
+        "Ich denke oft an meine Familie.",
+        "Я часто думаю про свою родину."
+      ]
+    ]
+  },
+  {
+    "word": "erhalten",
+    "full": "",
+    "translation": "отримувати, одержувати",
+    "forms": "Perfekt: er hat erhalten · Präteritum: er erhielt",
+    "examples": [
+      [
+        "Sie hat gestern eine wichtige Nachricht erhalten.",
+        "Учора вона отримала важливе повідомлення."
+      ]
+    ]
+  },
+  {
+    "word": "fern*sehen",
+    "full": "",
+    "translation": "дивитися телевізор",
+    "forms": "Perfekt: er hat ferngesehen · Präteritum: er sah fern",
+    "examples": [
+      [
+        "Abends sehe ich gern fern.",
+        "Увечері я люблю дивитися телевізор."
+      ]
+    ]
+  },
+  {
+    "word": "finden",
+    "full": "",
+    "translation": "знаходити; вважати",
+    "forms": "Perfekt: er hat gefunden · Präteritum: er fand",
+    "examples": [
+      [
+        "Ich finde diesen Film sehr interessant.",
+        "Я вважаю цей фільм дуже цікавим."
+      ]
+    ]
+  },
+  {
+    "word": "kennen",
+    "full": "",
+    "translation": "знати (бути знайомим)",
+    "forms": "Perfekt: er hat gekannt · Präteritum: er kannte",
+    "examples": [
+      [
+        "Kennst du diese Frau?",
+        "Ти знаєш цю жінку?"
+      ]
+    ]
+  },
+  {
+    "word": "nennen",
+    "full": "",
+    "translation": "називати",
+    "forms": "Perfekt: er hat genannt · Präteritum: er nannte",
+    "examples": [
+      [
+        "Die Eltern nannten ihren Sohn Max.",
+        "Батьки назвали свого сина Максом."
+      ]
+    ]
+  },
+  {
+    "word": "sitzen",
+    "full": "",
+    "translation": "сидіти",
+    "forms": "Perfekt: er hat gesessen · Präteritum: er saß",
+    "examples": [
+      [
+        "Wir sitzen im Garten und trinken Kaffee.",
+        "Ми сидимо в саду й п'ємо каву."
+      ]
+    ]
+  },
+  {
+    "word": "statt*finden",
+    "full": "",
+    "translation": "відбуватися",
+    "forms": "Perfekt: sie hat stattgefunden · Präteritum: sie fand statt",
+    "examples": [
+      [
+        "Das Konzert findet am Samstag statt.",
+        "Концерт відбувається в суботу."
+      ]
+    ]
+  },
+  {
+    "word": "teil*nehmen",
+    "full": "",
+    "translation": "брати участь",
+    "forms": "Perfekt: er hat teilgenommen · Präteritum: er nahm teil",
+    "examples": [
+      [
+        "Ich nehme an dem Seminar teil.",
+        "Я беру участь у семінарі."
+      ]
+    ]
+  },
+  {
+    "word": "treffen",
+    "full": "",
+    "translation": "зустрічати",
+    "forms": "Perfekt: er hat getroffen · Präteritum: er traf",
+    "examples": [
+      [
+        "Ich habe gestern einen alten Freund getroffen.",
+        "Учора я зустрів старого друга."
+      ]
+    ]
+  },
+  {
+    "word": "wissen",
+    "full": "",
+    "translation": "знати",
+    "forms": "Perfekt: er hat gewusst · Präteritum: er wusste",
+    "examples": [
+      [
+        "Ich weiß die Antwort nicht.",
+        "Я не знаю відповіді."
+      ]
+    ]
+  },
+  {
+    "word": "achten",
+    "full": "",
+    "translation": "звертати увагу; шанувати",
+    "forms": "Perfekt: er hat geachtet · Präteritum: er achtete",
+    "examples": [
+      [
+        "Sie achtet sehr auf Ordnung.",
+        "Вона дуже стежить за порядком."
+      ]
+    ]
+  },
+  {
+    "word": "sich beschäftigen",
+    "full": "",
+    "translation": "займатися (чимось)",
+    "forms": "Perfekt: er hat sich beschäftigt · Präteritum: er beschäftigte sich",
+    "examples": [
+      [
+        "Er beschäftigt sich mit Geschichte.",
+        "Він займається історією."
+      ]
+    ]
+  },
+  {
+    "word": "bevorzugen",
+    "full": "",
+    "translation": "надавати перевагу",
+    "forms": "Perfekt: er hat bevorzugt · Präteritum: er bevorzugte",
+    "examples": [
+      [
+        "Ich bevorzuge Tee statt Kaffee.",
+        "Я віддаю перевагу чаю замість кави."
+      ]
+    ]
+  },
+  {
+    "word": "sich fürchten",
+    "full": "",
+    "translation": "боятися",
+    "forms": "Perfekt: er hat sich gefürchtet · Präteritum: er fürchtete sich",
+    "examples": [
+      [
+        "Das Kind fürchtet sich vor dem Hund.",
+        "Дитина боїться собаки."
+      ]
+    ]
+  },
+  {
+    "word": "träumen",
+    "full": "",
+    "translation": "мріяти; бачити сон",
+    "forms": "Perfekt: er hat geträumt · Präteritum: er träumte",
+    "examples": [
+      [
+        "Sie träumt von einer Reise nach Japan.",
+        "Вона мріє про подорож до Японії."
+      ]
+    ]
+  },
+  {
+    "word": "verschwenden",
+    "full": "",
+    "translation": "марнувати",
+    "forms": "Perfekt: er hat verschwendet · Präteritum: er verschwendete",
+    "examples": [
+      [
+        "Du verschwendest zu viel Zeit am Handy.",
+        "Ти марнуєш забагато часу в телефоні."
+      ]
+    ]
+  },
+  {
+    "word": "verzichten",
+    "full": "",
+    "translation": "відмовлятися (від чогось)",
+    "forms": "Perfekt: er hat verzichtet · Präteritum: er verzichtete",
+    "examples": [
+      [
+        "Ich verzichte auf Zucker im Kaffee.",
+        "Я відмовляюся від цукру в каві."
+      ]
+    ]
+  },
+  {
+    "word": "ab*nehmen",
+    "full": "",
+    "translation": "худнути; зменшуватися; знімати",
+    "forms": "Perfekt: er hat abgenommen · Präteritum: er nahm ab",
+    "examples": [
+      [
+        "Er hat in drei Monaten zehn Kilo abgenommen.",
+        "За три місяці він схуд на десять кілограмів."
+      ]
+    ]
+  },
+  {
+    "word": "auf*laden",
+    "full": "",
+    "translation": "заряджати",
+    "forms": "Perfekt: er hat aufgeladen · Präteritum: er lud auf",
+    "examples": [
+      [
+        "Ich muss mein Handy aufladen.",
+        "Мені треба зарядити телефон."
+      ]
+    ]
+  },
+  {
+    "word": "erscheinen",
+    "full": "",
+    "translation": "з'являтися; виходити (про книгу)",
+    "forms": "Perfekt: es ist erschienen · Präteritum: es erschien",
+    "examples": [
+      [
+        "Sein neues Buch erscheint im Herbst.",
+        "Його нова книжка виходить восени."
+      ]
+    ]
+  },
+  {
+    "word": "erfinden",
+    "full": "",
+    "translation": "винаходити",
+    "forms": "Perfekt: er hat erfunden · Präteritum: er erfand",
+    "examples": [
+      [
+        "Wer hat das Telefon erfunden?",
+        "Хто винайшов телефон?"
+      ]
+    ]
+  },
+  {
+    "word": "unterbieten",
+    "full": "",
+    "translation": "збивати ціну, пропонувати нижчу ціну",
+    "forms": "Perfekt: er hat unterboten · Präteritum: er unterbot",
+    "examples": [
+      [
+        "Die Firma unterbietet die Preise der Konkurrenz.",
+        "Компанія збиває ціни конкурентів."
+      ]
+    ]
+  },
+  {
+    "word": "unterbrechen",
+    "full": "",
+    "translation": "переривати",
+    "forms": "Perfekt: er hat unterbrochen · Präteritum: er unterbrach",
+    "examples": [
+      [
+        "Bitte unterbrich mich nicht!",
+        "Будь ласка, не перебивай мене!"
+      ]
+    ]
+  },
+  {
+    "word": "verschlafen",
+    "full": "",
+    "translation": "проспати",
+    "forms": "Perfekt: er hat verschlafen · Präteritum: er verschlief",
+    "examples": [
+      [
+        "Heute Morgen habe ich verschlafen.",
+        "Сьогодні вранці я проспав."
+      ]
+    ]
+  },
+  {
+    "word": "aus*schalten",
+    "full": "",
+    "translation": "вимикати",
+    "forms": "Perfekt: er hat ausgeschaltet · Präteritum: er schaltete aus",
+    "examples": [
+      [
+        "Schalte bitte das Licht aus.",
+        "Вимкни, будь ласка, світло."
+      ]
+    ]
+  },
+  {
+    "word": "benutzen",
+    "full": "",
+    "translation": "користуватися",
+    "forms": "Perfekt: er hat benutzt · Präteritum: er benutzte",
+    "examples": [
+      [
+        "Ich benutze mein Fahrrad jeden Tag.",
+        "Я користуюся велосипедом щодня."
+      ]
+    ]
+  },
+  {
+    "word": "berichten",
+    "full": "",
+    "translation": "повідомляти, розповідати",
+    "forms": "Perfekt: er hat berichtet · Präteritum: er berichtete",
+    "examples": [
+      [
+        "Die Zeitung berichtet über den Unfall.",
+        "Газета повідомляє про аварію."
+      ]
+    ]
+  },
+  {
+    "word": "beschützen",
+    "full": "",
+    "translation": "захищати, оберігати",
+    "forms": "Perfekt: er hat beschützt · Präteritum: er beschützte",
+    "examples": [
+      [
+        "Die Mutter beschützt ihre Kinder.",
+        "Мати захищає своїх дітей."
+      ]
+    ]
+  },
+  {
+    "word": "erhöhen",
+    "full": "",
+    "translation": "підвищувати",
+    "forms": "Perfekt: er hat erhöht · Präteritum: er erhöhte",
+    "examples": [
+      [
+        "Der Staat erhöht die Steuern.",
+        "Держава підвищує податки."
+      ]
+    ]
+  },
+  {
+    "word": "erklären",
+    "full": "",
+    "translation": "пояснювати",
+    "forms": "Perfekt: er hat erklärt · Präteritum: er erklärte",
+    "examples": [
+      [
+        "Der Lehrer erklärt die Grammatik.",
+        "Учитель пояснює граматику."
+      ]
+    ]
+  },
+  {
+    "word": "eröffnen",
+    "full": "",
+    "translation": "відкривати (виставку, заклад)",
+    "forms": "Perfekt: er hat eröffnet · Präteritum: er eröffnete",
+    "examples": [
+      [
+        "Der Bürgermeister eröffnet die Ausstellung.",
+        "Мер відкриває виставку."
+      ]
+    ]
+  },
+  {
+    "word": "ertönen",
+    "full": "",
+    "translation": "лунати, звучати",
+    "forms": "Perfekt: es ist ertönt · Präteritum: es ertönte",
+    "examples": [
+      [
+        "Plötzlich ertönte laute Musik.",
+        "Раптом залунала гучна музика."
+      ]
+    ]
+  },
+  {
+    "word": "planen",
+    "full": "",
+    "translation": "планувати",
+    "forms": "Perfekt: er hat geplant · Präteritum: er plante",
+    "examples": [
+      [
+        "Wir planen eine Reise nach Spanien.",
+        "Ми плануємо подорож до Іспанії."
+      ]
+    ]
+  },
+  {
+    "word": "prüfen",
+    "full": "",
+    "translation": "перевіряти",
+    "forms": "Perfekt: er hat geprüft · Präteritum: er prüfte",
+    "examples": [
+      [
+        "Der Techniker prüft das Gerät.",
+        "Технік перевіряє прилад."
+      ]
+    ]
+  },
+  {
+    "word": "sanieren",
+    "full": "",
+    "translation": "оздоровлювати (бюджет); реставрувати",
+    "forms": "Perfekt: er hat saniert · Präteritum: er sanierte",
+    "examples": [
+      [
+        "Die Regierung will den Haushalt sanieren.",
+        "Уряд хоче оздоровити бюджет."
+      ]
+    ]
+  },
+  {
+    "word": "streiken",
+    "full": "",
+    "translation": "страйкувати",
+    "forms": "Perfekt: er hat gestreikt · Präteritum: er streikte",
+    "examples": [
+      [
+        "Die Arbeiter streiken für höhere Löhne.",
+        "Робітники страйкують за вищі зарплати."
+      ]
+    ]
+  },
+  {
+    "word": "untersuchen",
+    "full": "",
+    "translation": "досліджувати; обстежувати",
+    "forms": "Perfekt: er hat untersucht · Präteritum: er untersuchte",
+    "examples": [
+      [
+        "Der Arzt untersucht den Patienten.",
+        "Лікар обстежує пацієнта."
+      ]
+    ]
+  },
+  {
+    "word": "verbrauchen",
+    "full": "",
+    "translation": "споживати, витрачати",
+    "forms": "Perfekt: er hat verbraucht · Präteritum: er verbrauchte",
+    "examples": [
+      [
+        "Das Auto verbraucht zu viel Benzin.",
+        "Автомобіль споживає забагато бензину."
+      ]
+    ]
+  },
+  {
+    "word": "sich verdoppeln",
+    "full": "",
+    "translation": "подвоюватися",
+    "forms": "Perfekt: er hat sich verdoppelt · Präteritum: er verdoppelte sich",
+    "examples": [
+      [
+        "Die Zahl der Besucher hat sich verdoppelt.",
+        "Кількість відвідувачів подвоїлася."
+      ]
+    ]
+  },
+  {
+    "word": "verheimlichen",
+    "full": "",
+    "translation": "приховувати",
+    "forms": "Perfekt: er hat verheimlicht · Präteritum: er verheimlichte",
+    "examples": [
+      [
+        "Er hat uns die Wahrheit verheimlicht.",
+        "Він приховав від нас правду."
+      ]
+    ]
+  },
+  {
+    "word": "vermissen",
+    "full": "",
+    "translation": "сумувати за",
+    "forms": "Perfekt: er hat vermisst · Präteritum: er vermisste",
+    "examples": [
+      [
+        "Ich vermisse meine Freunde.",
+        "Я сумую за друзями."
+      ]
+    ]
+  },
+  {
+    "word": "Ich heiße …",
+    "full": "",
+    "translation": "Мене звати …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Mein Name ist …",
+    "full": "",
+    "translation": "Моє ім'я …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich komme aus …",
+    "full": "",
+    "translation": "Я (родом) з …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich wohne in …",
+    "full": "",
+    "translation": "Я живу в …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin von Beruf …",
+    "full": "",
+    "translation": "Я за фахом …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich arbeite bei … als …",
+    "full": "",
+    "translation": "Я працюю в … на посаді …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "In meiner Freizeit …",
+    "full": "",
+    "translation": "У вільний час я …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das Thema der Grafik ist …",
+    "full": "",
+    "translation": "Тема графіка — …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Man kann in der Grafik sehen, dass …",
+    "full": "",
+    "translation": "На графіку видно, що …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Die Grafik zeigt, dass …",
+    "full": "",
+    "translation": "Графік показує, що …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "An erster Stelle steht …",
+    "full": "",
+    "translation": "На першому місці стоїть …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Am beliebtesten ist …",
+    "full": "",
+    "translation": "Найпопулярніше — …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Danach folgt …",
+    "full": "",
+    "translation": "Далі йде …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich entscheide mich für …",
+    "full": "",
+    "translation": "Я обираю …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bevorzuge …, weil ich mich für … interessiere.",
+    "full": "",
+    "translation": "Я віддаю перевагу …, бо цікавлюся …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich finde … sehr interessant, deshalb …",
+    "full": "",
+    "translation": "Я вважаю … дуже цікавим, тому …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich finde das Bild sehr schön.",
+    "full": "",
+    "translation": "Мені ця картина дуже подобається.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das Bild inspiriert mich.",
+    "full": "",
+    "translation": "Картина надихає мене.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das Bild beruhigt mich.",
+    "full": "",
+    "translation": "Картина заспокоює мене.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Wenn ich das Bild sehe, denke ich an …",
+    "full": "",
+    "translation": "Коли я дивлюся на картину, я думаю про …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Herzlichen Dank für die Einladung.",
+    "full": "",
+    "translation": "Щиро дякую за запрошення.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich komme gerne.",
+    "full": "",
+    "translation": "Я з радістю прийду.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich nehme gern an … teil.",
+    "full": "",
+    "translation": "Я із задоволенням візьму участь у …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich freue mich schon auf …",
+    "full": "",
+    "translation": "Я вже з нетерпінням чекаю …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Leider kann ich nicht kommen.",
+    "full": "",
+    "translation": "На жаль, я не зможу прийти.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Leider bin ich am … verhindert.",
+    "full": "",
+    "translation": "На жаль, … я буду зайнятий.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin der Meinung, dass …",
+    "full": "",
+    "translation": "Я вважаю, що …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Meiner Meinung nach …",
+    "full": "",
+    "translation": "На мою думку, …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich glaube, dass …",
+    "full": "",
+    "translation": "Я думаю, що …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin ganz deiner Meinung.",
+    "full": "",
+    "translation": "Я цілком згоден з тобою.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das finde ich auch.",
+    "full": "",
+    "translation": "Я теж так вважаю.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin damit einverstanden.",
+    "full": "",
+    "translation": "Я з цим згоден.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin dafür.",
+    "full": "",
+    "translation": "Я — за.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin ganz anderer Meinung.",
+    "full": "",
+    "translation": "Я зовсім іншої думки.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich kann dir nicht zustimmen.",
+    "full": "",
+    "translation": "Я не можу з тобою погодитися.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin damit nicht einverstanden.",
+    "full": "",
+    "translation": "Я з цим не згоден.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin dagegen.",
+    "full": "",
+    "translation": "Я — проти.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Bundestag",
+    "full": "der Bundestag",
+    "translation": "Бундестаг (парламент Німеччини)",
+    "forms": "",
+    "examples": [
+      [
+        "Der Bundestag hat das neue Gesetz beschlossen.",
+        "Бундестаг ухвалив новий закон."
+      ]
+    ]
+  },
+  {
+    "word": "Grundgesetz",
+    "full": "das Grundgesetz",
+    "translation": "Основний закон (конституція Німеччини)",
+    "forms": "",
+    "examples": [
+      [
+        "Die Grundrechte stehen im Grundgesetz.",
+        "Основні права записані в Основному законі."
+      ]
+    ]
+  },
+  {
+    "word": "Verfassung",
+    "full": "die Verfassung, -en",
+    "translation": "конституція",
+    "forms": "",
+    "examples": [
+      [
+        "Die Verfassung garantiert die Meinungsfreiheit.",
+        "Конституція гарантує свободу слова."
+      ]
+    ]
+  },
+  {
+    "word": "Bundeshaushalt",
+    "full": "der Bundeshaushalt",
+    "translation": "державний бюджет",
+    "forms": "",
+    "examples": [
+      [
+        "Der Bundeshaushalt wird jedes Jahr neu beschlossen.",
+        "Державний бюджет щороку ухвалюють наново."
+      ]
+    ]
+  },
+  {
+    "word": "Bundeswehr",
+    "full": "die Bundeswehr",
+    "translation": "бундесвер (збройні сили Німеччини)",
+    "forms": "",
+    "examples": [
+      [
+        "Er arbeitet bei der Bundeswehr.",
+        "Він служить у бундесвері."
+      ]
+    ]
+  },
+  {
+    "word": "Bundeskanzler",
+    "full": "der Bundeskanzler, - / die Bundeskanzlerin, -nen",
+    "translation": "федеральний канцлер",
+    "forms": "",
+    "examples": [
+      [
+        "Der Bundeskanzler hält eine Rede.",
+        "Федеральний канцлер виголошує промову."
+      ]
+    ]
+  },
+  {
+    "word": "Koalition",
+    "full": "die Koalition, -en",
+    "translation": "коаліція",
+    "forms": "",
+    "examples": [
+      [
+        "Zwei Parteien bilden eine Koalition.",
+        "Дві партії утворюють коаліцію."
+      ]
+    ]
+  },
+  {
+    "word": "Opposition",
+    "full": "die Opposition, -en",
+    "translation": "опозиція",
+    "forms": "",
+    "examples": [
+      [
+        "Die Opposition kritisiert die Regierung.",
+        "Опозиція критикує уряд."
+      ]
+    ]
+  },
+  {
+    "word": "Knopf",
+    "full": "der Knopf, Knöpfe",
+    "translation": "кнопка; ґудзик",
+    "forms": "",
+    "examples": [
+      [
+        "Drück auf den grünen Knopf.",
+        "Натисни на зелену кнопку."
+      ]
+    ]
+  },
+  {
+    "word": "Taste",
+    "full": "die Taste, -n",
+    "translation": "клавіша",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Taste funktioniert nicht.",
+        "Ця клавіша не працює."
+      ]
+    ]
+  },
+  {
+    "word": "Schalter",
+    "full": "der Schalter, -",
+    "translation": "вимикач; віконце (у банку/касі)",
+    "forms": "",
+    "examples": [
+      [
+        "Der Schalter für das Licht ist neben der Tür.",
+        "Вимикач світла — біля дверей."
+      ]
+    ]
+  },
+  {
+    "word": "an*schließen",
+    "full": "",
+    "translation": "підключати",
+    "forms": "Perfekt: er hat angeschlossen · Präteritum: er schloss an",
+    "examples": [
+      [
+        "Er schließt den Drucker an den Computer an.",
+        "Він підключає принтер до комп'ютера."
+      ]
+    ]
+  },
+  {
+    "word": "programmieren",
+    "full": "",
+    "translation": "програмувати",
+    "forms": "Perfekt: er hat programmiert · Präteritum: er programmierte",
+    "examples": [
+      [
+        "Sie programmiert eine App.",
+        "Вона програмує застосунок."
+      ]
+    ]
+  },
+  {
+    "word": "bedienen",
+    "full": "",
+    "translation": "обслуговувати; керувати (приладом)",
+    "forms": "Perfekt: er hat bedient · Präteritum: er bediente",
+    "examples": [
+      [
+        "Kannst du diese Maschine bedienen?",
+        "Ти вмієш керувати цією машиною?"
+      ]
+    ]
+  },
+  {
+    "word": "ein*schalten",
+    "full": "",
+    "translation": "вмикати",
+    "forms": "Perfekt: er hat eingeschaltet · Präteritum: er schaltete ein",
+    "examples": [
+      [
+        "Schalte bitte den Fernseher ein.",
+        "Увімкни, будь ласка, телевізор."
+      ]
+    ]
+  },
+  {
+    "word": "verwenden",
+    "full": "",
+    "translation": "використовувати",
+    "forms": "Perfekt: er hat verwendet · Präteritum: er verwendete",
+    "examples": [
+      [
+        "Ich verwende diese App jeden Tag.",
+        "Я використовую цей застосунок щодня."
+      ]
+    ]
+  },
+  {
+    "word": "ab*waschen",
+    "full": "",
+    "translation": "мити (посуд)",
+    "forms": "Perfekt: er hat abgewaschen · Präteritum: er wusch ab",
+    "examples": [
+      [
+        "Ich wasche nach dem Essen das Geschirr ab.",
+        "Після їжі я мию посуд."
+      ]
+    ]
+  },
+  {
+    "word": "bei*treten",
+    "full": "",
+    "translation": "вступати (до спілки, організації)",
+    "forms": "Perfekt: er ist beigetreten · Präteritum: er trat bei",
+    "examples": [
+      [
+        "Er ist einem Sportverein beigetreten.",
+        "Він вступив до спортивного клубу."
+      ]
+    ]
+  },
+  {
+    "word": "schneiden",
+    "full": "",
+    "translation": "різати",
+    "forms": "Perfekt: er hat geschnitten · Präteritum: er schnitt",
+    "examples": [
+      [
+        "Ich schneide das Gemüse in kleine Stücke.",
+        "Я ріжу овочі на маленькі шматочки."
+      ]
+    ]
+  },
+  {
+    "word": "streichen",
+    "full": "",
+    "translation": "фарбувати (стіни); мазати",
+    "forms": "Perfekt: er hat gestrichen · Präteritum: er strich",
+    "examples": [
+      [
+        "Wir streichen die Wände weiß.",
+        "Ми фарбуємо стіни в білий колір."
+      ]
+    ]
+  },
+  {
+    "word": "versprechen",
+    "full": "",
+    "translation": "обіцяти",
+    "forms": "Perfekt: er hat versprochen · Präteritum: er versprach",
+    "examples": [
+      [
+        "Ich verspreche dir, pünktlich zu sein.",
+        "Я обіцяю тобі бути вчасно."
+      ]
+    ]
+  },
+  {
+    "word": "wachsen",
+    "full": "",
+    "translation": "рости",
+    "forms": "Perfekt: es ist gewachsen · Präteritum: es wuchs",
+    "examples": [
+      [
+        "Im Garten wächst frisches Gemüse.",
+        "У саду росте свіжа городина."
+      ]
+    ]
+  },
+  {
+    "word": "wahr*nehmen",
+    "full": "",
+    "translation": "сприймати, помічати",
+    "forms": "Perfekt: er hat wahrgenommen · Präteritum: er nahm wahr",
+    "examples": [
+      [
+        "Ich nehme einen seltsamen Geruch wahr.",
+        "Я відчуваю дивний запах."
+      ]
+    ]
+  },
+  {
+    "word": "waschen",
+    "full": "",
+    "translation": "мити, прати",
+    "forms": "Perfekt: er hat gewaschen · Präteritum: er wusch",
+    "examples": [
+      [
+        "Sie wäscht am Wochenende die Wäsche.",
+        "Вона пере білизну на вихідних."
+      ]
+    ]
+  },
+  {
+    "word": "an*bauen",
+    "full": "",
+    "translation": "вирощувати (культуру); прибудовувати",
+    "forms": "Perfekt: er hat angebaut · Präteritum: er baute an",
+    "examples": [
+      [
+        "Er baut in seinem Garten Gemüse an.",
+        "Він вирощує овочі у своєму саду."
+      ]
+    ]
+  },
+  {
+    "word": "auf*räumen",
+    "full": "",
+    "translation": "прибирати",
+    "forms": "Perfekt: er hat aufgeräumt · Präteritum: er räumte auf",
+    "examples": [
+      [
+        "Ich räume mein Zimmer auf.",
+        "Я прибираю у своїй кімнаті."
+      ]
+    ]
+  },
+  {
+    "word": "beurteilen",
+    "full": "",
+    "translation": "оцінювати, судити",
+    "forms": "Perfekt: er hat beurteilt · Präteritum: er beurteilte",
+    "examples": [
+      [
+        "Der Lehrer beurteilt die Leistung der Schüler.",
+        "Учитель оцінює успішність учнів."
+      ]
+    ]
+  },
+  {
+    "word": "bügeln",
+    "full": "",
+    "translation": "прасувати",
+    "forms": "Perfekt: er hat gebügelt · Präteritum: er bügelte",
+    "examples": [
+      [
+        "Ich bügle die Hemden.",
+        "Я прасую сорочки."
+      ]
+    ]
+  },
+  {
+    "word": "dienen",
+    "full": "",
+    "translation": "служити, слугувати",
+    "forms": "Perfekt: es hat gedient · Präteritum: es diente",
+    "examples": [
+      [
+        "Der Spaziergang dient der Erholung.",
+        "Прогулянка слугує для відпочинку."
+      ]
+    ]
+  },
+  {
+    "word": "sich erholen",
+    "full": "",
+    "translation": "відпочивати, відновлюватися",
+    "forms": "Perfekt: er hat sich erholt · Präteritum: er erholte sich",
+    "examples": [
+      [
+        "Im Urlaub erhole ich mich vom Stress.",
+        "У відпустці я відпочиваю від стресу."
+      ]
+    ]
+  },
+  {
+    "word": "ermöglichen",
+    "full": "",
+    "translation": "уможливлювати, давати змогу",
+    "forms": "Perfekt: er hat ermöglicht · Präteritum: er ermöglichte",
+    "examples": [
+      [
+        "Das Stipendium ermöglicht mir das Studium.",
+        "Стипендія дає мені змогу навчатися."
+      ]
+    ]
+  },
+  {
+    "word": "sich ernähren",
+    "full": "",
+    "translation": "харчуватися",
+    "forms": "Perfekt: er hat sich ernährt · Präteritum: er ernährte sich",
+    "examples": [
+      [
+        "Sie ernährt sich gesund.",
+        "Вона харчується здорово."
+      ]
+    ]
+  },
+  {
+    "word": "sich irren",
+    "full": "",
+    "translation": "помилятися",
+    "forms": "Perfekt: er hat sich geirrt · Präteritum: er irrte sich",
+    "examples": [
+      [
+        "Ich habe mich in der Adresse geirrt.",
+        "Я помилився з адресою."
+      ]
+    ]
+  },
+  {
+    "word": "servieren",
+    "full": "",
+    "translation": "подавати (страви)",
+    "forms": "Perfekt: er hat serviert · Präteritum: er servierte",
+    "examples": [
+      [
+        "Der Kellner serviert das Essen.",
+        "Офіціант подає їжу."
+      ]
+    ]
+  },
+  {
+    "word": "steigern",
+    "full": "",
+    "translation": "підвищувати, збільшувати",
+    "forms": "Perfekt: er hat gesteigert · Präteritum: er steigerte",
+    "examples": [
+      [
+        "Sport steigert die Leistungsfähigkeit.",
+        "Спорт підвищує працездатність."
+      ]
+    ]
+  },
+  {
+    "word": "tapezieren",
+    "full": "",
+    "translation": "клеїти шпалери",
+    "forms": "Perfekt: er hat tapeziert · Präteritum: er tapezierte",
+    "examples": [
+      [
+        "Wir tapezieren das Wohnzimmer.",
+        "Ми клеїмо шпалери у вітальні."
+      ]
+    ]
+  },
+  {
+    "word": "teilen",
+    "full": "",
+    "translation": "ділити, поділяти",
+    "forms": "Perfekt: er hat geteilt · Präteritum: er teilte",
+    "examples": [
+      [
+        "Wir teilen die Pizza.",
+        "Ми ділимо піцу."
+      ]
+    ]
+  },
+  {
+    "word": "verfeinern",
+    "full": "",
+    "translation": "покращувати смак, робити витонченішим",
+    "forms": "Perfekt: er hat verfeinert · Präteritum: er verfeinerte",
+    "examples": [
+      [
+        "Ich verfeinere die Soße mit Sahne.",
+        "Я покращую соус вершками."
+      ]
+    ]
+  },
+  {
+    "word": "wohnen",
+    "full": "",
+    "translation": "жити, мешкати",
+    "forms": "Perfekt: er hat gewohnt · Präteritum: er wohnte",
+    "examples": [
+      [
+        "Ich wohne in einer kleinen Wohnung.",
+        "Я живу в маленькій квартирі."
+      ]
+    ]
+  },
+  {
+    "word": "wünschen",
+    "full": "",
+    "translation": "бажати",
+    "forms": "Perfekt: er hat gewünscht · Präteritum: er wünschte",
+    "examples": [
+      [
+        "Ich wünsche dir alles Gute.",
+        "Я бажаю тобі всього найкращого."
+      ]
+    ]
+  },
+  {
+    "word": "zu*bereiten",
+    "full": "",
+    "translation": "готувати (страву)",
+    "forms": "Perfekt: er hat zubereitet · Präteritum: er bereitete zu",
+    "examples": [
+      [
+        "Er bereitet das Abendessen zu.",
+        "Він готує вечерю."
+      ]
+    ]
+  },
+  {
+    "word": "aus*sehen",
+    "full": "",
+    "translation": "виглядати",
+    "forms": "Perfekt: er hat ausgesehen · Präteritum: er sah aus",
+    "examples": [
+      [
+        "Du siehst heute gut aus.",
+        "Ти сьогодні гарно виглядаєш."
+      ]
+    ]
+  },
+  {
+    "word": "beschreiben",
+    "full": "",
+    "translation": "описувати",
+    "forms": "Perfekt: er hat beschrieben · Präteritum: er beschrieb",
+    "examples": [
+      [
+        "Beschreib mir bitte den Weg.",
+        "Опиши мені, будь ласка, дорогу."
+      ]
+    ]
+  },
+  {
+    "word": "ein*reiben",
+    "full": "",
+    "translation": "натирати, змащувати",
+    "forms": "Perfekt: er hat eingerieben · Präteritum: er rieb ein",
+    "examples": [
+      [
+        "Sie reibt die Haut mit Creme ein.",
+        "Вона натирає шкіру кремом."
+      ]
+    ]
+  },
+  {
+    "word": "entstehen",
+    "full": "",
+    "translation": "виникати, поставати",
+    "forms": "Perfekt: sie ist entstanden · Präteritum: sie entstand",
+    "examples": [
+      [
+        "So entsteht eine gefährliche Krankheit.",
+        "Так виникає небезпечна хвороба."
+      ]
+    ]
+  },
+  {
+    "word": "erkennen",
+    "full": "",
+    "translation": "розпізнавати, впізнавати",
+    "forms": "Perfekt: er hat erkannt · Präteritum: er erkannte",
+    "examples": [
+      [
+        "Ich habe dich sofort erkannt.",
+        "Я одразу тебе впізнав."
+      ]
+    ]
+  },
+  {
+    "word": "kriechen",
+    "full": "",
+    "translation": "повзти",
+    "forms": "Perfekt: sie ist gekrochen · Präteritum: sie kroch",
+    "examples": [
+      [
+        "Die Schlange kriecht durch das Gras.",
+        "Змія повзе крізь траву."
+      ]
+    ]
+  },
+  {
+    "word": "leiden",
+    "full": "",
+    "translation": "страждати",
+    "forms": "Perfekt: er hat gelitten · Präteritum: er litt",
+    "examples": [
+      [
+        "Er leidet unter großem Stress.",
+        "Він страждає від сильного стресу."
+      ]
+    ]
+  },
+  {
+    "word": "nach*weisen",
+    "full": "",
+    "translation": "доводити, підтверджувати (документально)",
+    "forms": "Perfekt: er hat nachgewiesen · Präteritum: er wies nach",
+    "examples": [
+      [
+        "Sie kann ihre Qualifikation nachweisen.",
+        "Вона може підтвердити свою кваліфікацію."
+      ]
+    ]
+  },
+  {
+    "word": "riechen",
+    "full": "",
+    "translation": "пахнути; нюхати",
+    "forms": "Perfekt: er hat gerochen · Präteritum: er roch",
+    "examples": [
+      [
+        "Die Blumen riechen wunderbar.",
+        "Квіти чудово пахнуть."
+      ]
+    ]
+  },
+  {
+    "word": "schlagen",
+    "full": "",
+    "translation": "бити, вдаряти",
+    "forms": "Perfekt: es hat geschlagen · Präteritum: es schlug",
+    "examples": [
+      [
+        "Vor Aufregung schlägt das Herz schneller.",
+        "Від хвилювання серце б'ється швидше."
+      ]
+    ]
+  },
+  {
+    "word": "springen",
+    "full": "",
+    "translation": "стрибати",
+    "forms": "Perfekt: er ist gesprungen · Präteritum: er sprang",
+    "examples": [
+      [
+        "Der Frosch springt ins Wasser.",
+        "Жаба стрибає у воду."
+      ]
+    ]
+  },
+  {
+    "word": "stechen",
+    "full": "",
+    "translation": "жалити, колоти",
+    "forms": "Perfekt: sie hat gestochen · Präteritum: sie stach",
+    "examples": [
+      [
+        "Die Mücke hat mich gestochen.",
+        "Комар мене вкусив."
+      ]
+    ]
+  },
+  {
+    "word": "übertragen",
+    "full": "",
+    "translation": "передавати (хворобу, трансляцію)",
+    "forms": "Perfekt: er hat übertragen · Präteritum: er übertrug",
+    "examples": [
+      [
+        "Die Krankheit wird durch Insekten übertragen.",
+        "Хвороба передається через комах."
+      ]
+    ]
+  },
+  {
+    "word": "beeinflussen",
+    "full": "",
+    "translation": "впливати",
+    "forms": "Perfekt: er hat beeinflusst · Präteritum: er beeinflusste",
+    "examples": [
+      [
+        "Das Wetter beeinflusst meine Stimmung.",
+        "Погода впливає на мій настрій."
+      ]
+    ]
+  },
+  {
+    "word": "behaupten",
+    "full": "",
+    "translation": "стверджувати",
+    "forms": "Perfekt: er hat behauptet · Präteritum: er behauptete",
+    "examples": [
+      [
+        "Er behauptet das Gegenteil.",
+        "Він стверджує протилежне."
+      ]
+    ]
+  },
+  {
+    "word": "bewältigen",
+    "full": "",
+    "translation": "долати, справлятися",
+    "forms": "Perfekt: er hat bewältigt · Präteritum: er bewältigte",
+    "examples": [
+      [
+        "Sie bewältigt ihren Ärger gut.",
+        "Вона добре справляється зі своїм гнівом."
+      ]
+    ]
+  },
+  {
+    "word": "entwickeln",
+    "full": "",
+    "translation": "розвивати, розробляти",
+    "forms": "Perfekt: er hat entwickelt · Präteritum: er entwickelte",
+    "examples": [
+      [
+        "Die Firma entwickelt neue Produkte.",
+        "Фірма розробляє нові продукти."
+      ]
+    ]
+  },
+  {
+    "word": "führen",
+    "full": "",
+    "translation": "вести",
+    "forms": "Perfekt: er hat geführt · Präteritum: er führte",
+    "examples": [
+      [
+        "Sie führen eine glückliche Ehe.",
+        "Вони живуть у щасливому шлюбі."
+      ]
+    ]
+  },
+  {
+    "word": "her*stellen",
+    "full": "",
+    "translation": "виготовляти; встановлювати (контакти)",
+    "forms": "Perfekt: er hat hergestellt · Präteritum: er stellte her",
+    "examples": [
+      [
+        "Die Fabrik stellt Autos her.",
+        "Фабрика виготовляє автомобілі."
+      ]
+    ]
+  },
+  {
+    "word": "krabbeln",
+    "full": "",
+    "translation": "повзати (комаха, немовля)",
+    "forms": "Perfekt: sie ist gekrabbelt · Präteritum: sie krabbelte",
+    "examples": [
+      [
+        "Die Spinne krabbelt an der Wand.",
+        "Павук повзе по стіні."
+      ]
+    ]
+  },
+  {
+    "word": "lauten",
+    "full": "",
+    "translation": "звучати, бути (про формулювання)",
+    "forms": "Perfekt: es hat gelautet · Präteritum: es lautete",
+    "examples": [
+      [
+        "Wie lautet das Ergebnis?",
+        "Який результат?"
+      ]
+    ]
+  },
+  {
+    "word": "lieben",
+    "full": "",
+    "translation": "любити, кохати",
+    "forms": "Perfekt: er hat geliebt · Präteritum: er liebte",
+    "examples": [
+      [
+        "Ich liebe dich.",
+        "Я тебе кохаю."
+      ]
+    ]
+  },
+  {
+    "word": "lindern",
+    "full": "",
+    "translation": "полегшувати (біль)",
+    "forms": "Perfekt: er hat gelindert · Präteritum: er linderte",
+    "examples": [
+      [
+        "Die Tablette lindert die Schmerzen.",
+        "Таблетка полегшує біль."
+      ]
+    ]
+  },
+  {
+    "word": "produzieren",
+    "full": "",
+    "translation": "виробляти",
+    "forms": "Perfekt: er hat produziert · Präteritum: er produzierte",
+    "examples": [
+      [
+        "Das Werk produziert Maschinen.",
+        "Завод виробляє машини."
+      ]
+    ]
+  },
+  {
+    "word": "schützen",
+    "full": "",
+    "translation": "захищати",
+    "forms": "Perfekt: er hat geschützt · Präteritum: er schützte",
+    "examples": [
+      [
+        "Die Creme schützt die Haut vor der Sonne.",
+        "Крем захищає шкіру від сонця."
+      ]
+    ]
+  },
+  {
+    "word": "suchen",
+    "full": "",
+    "translation": "шукати",
+    "forms": "Perfekt: er hat gesucht · Präteritum: er suchte",
+    "examples": [
+      [
+        "Ich suche einen neuen Partner.",
+        "Я шукаю нового партнера."
+      ]
+    ]
+  },
+  {
+    "word": "testen",
+    "full": "",
+    "translation": "тестувати, перевіряти",
+    "forms": "Perfekt: er hat getestet · Präteritum: er testete",
+    "examples": [
+      [
+        "Wir testen das neue Programm.",
+        "Ми тестуємо нову програму."
+      ]
+    ]
+  },
+  {
+    "word": "Ich hätte gern …",
+    "full": "",
+    "translation": "Я хотів би … (при замовленні)",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich nehme …",
+    "full": "",
+    "translation": "Я візьму … (замовлю)",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Könnte ich bitte noch … haben?",
+    "full": "",
+    "translation": "Можна мені ще, будь ласка, …?",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Haben Sie meine Bestellung vergessen?",
+    "full": "",
+    "translation": "Ви забули моє замовлення?",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das Essen ist kalt.",
+    "full": "",
+    "translation": "Їжа холодна.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Guten Appetit!",
+    "full": "",
+    "translation": "Смачного!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Prost!",
+    "full": "",
+    "translation": "Будьмо! (тост за напій)",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Zum Wohl!",
+    "full": "",
+    "translation": "За здоров'я! (тост)",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das Essen war hervorragend.",
+    "full": "",
+    "translation": "Їжа була чудова.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Wir möchten zahlen.",
+    "full": "",
+    "translation": "Ми хотіли б розрахуватися.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Wir hätten gern die Rechnung.",
+    "full": "",
+    "translation": "Ми б хотіли рахунок.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das gefällt mir gut.",
+    "full": "",
+    "translation": "Мені це подобається.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das hast du prima gemacht!",
+    "full": "",
+    "translation": "Ти це чудово зробив!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Mach weiter so!",
+    "full": "",
+    "translation": "Так тримати! / Продовжуй у тому ж дусі!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Das finde ich ganz toll.",
+    "full": "",
+    "translation": "Як на мене, це чудово.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Ich bin begeistert!",
+    "full": "",
+    "translation": "Я в захваті!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Vielleicht solltest du das nächste Mal …",
+    "full": "",
+    "translation": "Можливо, наступного разу тобі варто …",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Könntest du das nächste Mal bitte …?",
+    "full": "",
+    "translation": "Чи міг би ти наступного разу, будь ласка …?",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Was hast du denn gemacht?",
+    "full": "",
+    "translation": "Що ж ти накоїв?",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Hör sofort damit auf!",
+    "full": "",
+    "translation": "Негайно припини це!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Mach das nie wieder!",
+    "full": "",
+    "translation": "Ніколи більше так не роби!",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Bei Kopfschmerzen solltest du viel Wasser trinken.",
+    "full": "",
+    "translation": "При головному болю тобі варто пити багато води.",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "groß",
+    "full": "",
+    "translation": "високий; великий",
+    "forms": "",
+    "examples": [
+      [
+        "Mein Bruder ist sehr groß.",
+        "Мій брат дуже високий."
+      ]
+    ]
+  },
+  {
+    "word": "klein",
+    "full": "",
+    "translation": "маленький; низький",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist eher klein.",
+        "Вона радше низька."
+      ]
+    ]
+  },
+  {
+    "word": "dick",
+    "full": "",
+    "translation": "товстий",
+    "forms": "",
+    "examples": [
+      [
+        "Die Katze ist ziemlich dick.",
+        "Кіт доволі товстий."
+      ]
+    ]
+  },
+  {
+    "word": "dünn",
+    "full": "",
+    "translation": "худий; тонкий",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist groß und dünn.",
+        "Він високий і худий."
+      ]
+    ]
+  },
+  {
+    "word": "schlank",
+    "full": "",
+    "translation": "стрункий",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist schlank und sportlich.",
+        "Вона струнка і спортивна."
+      ]
+    ]
+  },
+  {
+    "word": "normal",
+    "full": "",
+    "translation": "звичайний, нормальний",
+    "forms": "",
+    "examples": [
+      [
+        "Er hat eine ganz normale Figur.",
+        "У нього цілком звичайна статура."
+      ]
+    ]
+  },
+  {
+    "word": "blond",
+    "full": "",
+    "translation": "білявий",
+    "forms": "",
+    "examples": [
+      [
+        "Das Mädchen hat blonde Haare.",
+        "У дівчинки біляве волосся."
+      ]
+    ]
+  },
+  {
+    "word": "dunkelhaarig",
+    "full": "",
+    "translation": "темноволосий",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist dunkelhaarig.",
+        "Він темноволосий."
+      ]
+    ]
+  },
+  {
+    "word": "rothaarig",
+    "full": "",
+    "translation": "рудий, рудоволосий",
+    "forms": "",
+    "examples": [
+      [
+        "Meine Freundin ist rothaarig.",
+        "Моя подруга руда."
+      ]
+    ]
+  },
+  {
+    "word": "hübsch",
+    "full": "",
+    "translation": "гарний, симпатичний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist sehr hübsch.",
+        "Вона дуже гарна."
+      ]
+    ]
+  },
+  {
+    "word": "sportlich",
+    "full": "",
+    "translation": "спортивний",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist jung und sportlich.",
+        "Він молодий і спортивний."
+      ]
+    ]
+  },
+  {
+    "word": "muskulös",
+    "full": "",
+    "translation": "мускулистий",
+    "forms": "",
+    "examples": [
+      [
+        "Der Sportler ist muskulös.",
+        "Спортсмен мускулистий."
+      ]
+    ]
+  },
+  {
+    "word": "lustig",
+    "full": "",
+    "translation": "веселий, смішний",
+    "forms": "",
+    "examples": [
+      [
+        "Mein Onkel ist sehr lustig.",
+        "Мій дядько дуже веселий."
+      ]
+    ]
+  },
+  {
+    "word": "aggressiv",
+    "full": "",
+    "translation": "агресивний",
+    "forms": "",
+    "examples": [
+      [
+        "Bei Stress wird er aggressiv.",
+        "У стресі він стає агресивним."
+      ]
+    ]
+  },
+  {
+    "word": "treu",
+    "full": "",
+    "translation": "вірний",
+    "forms": "",
+    "examples": [
+      [
+        "Ein Hund ist ein treuer Freund.",
+        "Собака — вірний друг."
+      ]
+    ]
+  },
+  {
+    "word": "ernst",
+    "full": "",
+    "translation": "серйозний",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist ein ernster Mensch.",
+        "Він серйозна людина."
+      ]
+    ]
+  },
+  {
+    "word": "dumm",
+    "full": "",
+    "translation": "дурний",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Frage ist nicht dumm.",
+        "Це питання не дурне."
+      ]
+    ]
+  },
+  {
+    "word": "klug",
+    "full": "",
+    "translation": "розумний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist ein kluges Kind.",
+        "Вона розумна дитина."
+      ]
+    ]
+  },
+  {
+    "word": "ruhig",
+    "full": "",
+    "translation": "спокійний",
+    "forms": "",
+    "examples": [
+      [
+        "Er bleibt immer ruhig.",
+        "Він завжди залишається спокійним."
+      ]
+    ]
+  },
+  {
+    "word": "lieb",
+    "full": "",
+    "translation": "милий, добрий",
+    "forms": "",
+    "examples": [
+      [
+        "Du bist wirklich lieb.",
+        "Ти справді милий."
+      ]
+    ]
+  },
+  {
+    "word": "ordentlich",
+    "full": "",
+    "translation": "охайний, акуратний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist sehr ordentlich.",
+        "Вона дуже охайна."
+      ]
+    ]
+  },
+  {
+    "word": "neugierig",
+    "full": "",
+    "translation": "допитливий",
+    "forms": "",
+    "examples": [
+      [
+        "Kinder sind von Natur aus neugierig.",
+        "Діти від природи допитливі."
+      ]
+    ]
+  },
+  {
+    "word": "kreativ",
+    "full": "",
+    "translation": "творчий, креативний",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist ein kreativer Künstler.",
+        "Він креативний митець."
+      ]
+    ]
+  },
+  {
+    "word": "chaotisch",
+    "full": "",
+    "translation": "хаотичний, безладний",
+    "forms": "",
+    "examples": [
+      [
+        "Sein Zimmer ist chaotisch.",
+        "Його кімната в безладі."
+      ]
+    ]
+  },
+  {
+    "word": "freundlich",
+    "full": "",
+    "translation": "привітний, доброзичливий",
+    "forms": "",
+    "examples": [
+      [
+        "Die Verkäuferin ist sehr freundlich.",
+        "Продавчиня дуже привітна."
+      ]
+    ]
+  },
+  {
+    "word": "hilfsbereit",
+    "full": "",
+    "translation": "готовий допомогти",
+    "forms": "",
+    "examples": [
+      [
+        "Mein Nachbar ist immer hilfsbereit.",
+        "Мій сусід завжди готовий допомогти."
+      ]
+    ]
+  },
+  {
+    "word": "egoistisch",
+    "full": "",
+    "translation": "егоїстичний",
+    "forms": "",
+    "examples": [
+      [
+        "Er denkt nur an sich, er ist egoistisch.",
+        "Він думає лише про себе, він егоїст."
+      ]
+    ]
+  },
+  {
+    "word": "geduldig",
+    "full": "",
+    "translation": "терплячий",
+    "forms": "",
+    "examples": [
+      [
+        "Ein Lehrer muss geduldig sein.",
+        "Учитель має бути терплячим."
+      ]
+    ]
+  },
+  {
+    "word": "optimistisch",
+    "full": "",
+    "translation": "оптимістичний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist immer optimistisch.",
+        "Вона завжди оптимістична."
+      ]
+    ]
+  },
+  {
+    "word": "pessimistisch",
+    "full": "",
+    "translation": "песимістичний",
+    "forms": "",
+    "examples": [
+      [
+        "Er sieht alles pessimistisch.",
+        "Він на все дивиться песимістично."
+      ]
+    ]
+  },
+  {
+    "word": "faul",
+    "full": "",
+    "translation": "лінивий",
+    "forms": "",
+    "examples": [
+      [
+        "Am Wochenende bin ich gern faul.",
+        "На вихідних я люблю полінуватися."
+      ]
+    ]
+  },
+  {
+    "word": "fleißig",
+    "full": "",
+    "translation": "старанний, працьовитий",
+    "forms": "",
+    "examples": [
+      [
+        "Sie ist eine fleißige Studentin.",
+        "Вона старанна студентка."
+      ]
+    ]
+  },
+  {
+    "word": "tolerant",
+    "full": "",
+    "translation": "толерантний",
+    "forms": "",
+    "examples": [
+      [
+        "Wir sollten tolerant sein.",
+        "Ми маємо бути толерантними."
+      ]
+    ]
+  },
+  {
+    "word": "aus*steigen",
+    "full": "",
+    "translation": "виходити (з транспорту)",
+    "forms": "Perfekt: er ist ausgestiegen · Präteritum: er stieg aus",
+    "examples": [
+      [
+        "Er steigt an der nächsten Haltestelle aus.",
+        "Він виходить на наступній зупинці."
+      ]
+    ]
+  },
+  {
+    "word": "ein*steigen",
+    "full": "",
+    "translation": "заходити (в транспорт)",
+    "forms": "Perfekt: er ist eingestiegen · Präteritum: er stieg ein",
+    "examples": [
+      [
+        "Wir steigen in den Zug ein.",
+        "Ми заходимо в потяг."
+      ]
+    ]
+  },
+  {
+    "word": "um*steigen",
+    "full": "",
+    "translation": "пересідати",
+    "forms": "Perfekt: er ist umgestiegen · Präteritum: er stieg um",
+    "examples": [
+      [
+        "In Köln steige ich um.",
+        "У Кельні я пересідаю."
+      ]
+    ]
+  },
+  {
+    "word": "frieren",
+    "full": "",
+    "translation": "мерзнути",
+    "forms": "Perfekt: er hat gefroren · Präteritum: er fror",
+    "examples": [
+      [
+        "Im Winter friere ich schnell.",
+        "Взимку я швидко мерзну."
+      ]
+    ]
+  },
+  {
+    "word": "geraten",
+    "full": "",
+    "translation": "потрапляти (у щось)",
+    "forms": "Perfekt: er ist geraten · Präteritum: er geriet",
+    "examples": [
+      [
+        "Er ist ins Moor geraten.",
+        "Він потрапив у болото."
+      ]
+    ]
+  },
+  {
+    "word": "mit*nehmen",
+    "full": "",
+    "translation": "брати із собою",
+    "forms": "Perfekt: er hat mitgenommen · Präteritum: er nahm mit",
+    "examples": [
+      [
+        "Nimm bitte den Schirm mit.",
+        "Візьми, будь ласка, парасольку із собою."
+      ]
+    ]
+  },
+  {
+    "word": "schweigen",
+    "full": "",
+    "translation": "мовчати",
+    "forms": "Perfekt: er hat geschwiegen · Präteritum: er schwieg",
+    "examples": [
+      [
+        "Er schwieg die ganze Zeit.",
+        "Він увесь час мовчав."
+      ]
+    ]
+  },
+  {
+    "word": "schwimmen",
+    "full": "",
+    "translation": "плавати",
+    "forms": "Perfekt: er ist geschwommen · Präteritum: er schwamm",
+    "examples": [
+      [
+        "Sie schwimmt jeden Morgen.",
+        "Вона плаває щоранку."
+      ]
+    ]
+  },
+  {
+    "word": "steigen",
+    "full": "",
+    "translation": "підніматися",
+    "forms": "Perfekt: er ist gestiegen · Präteritum: er stieg",
+    "examples": [
+      [
+        "Wir steigen auf den Berg.",
+        "Ми піднімаємось на гору."
+      ]
+    ]
+  },
+  {
+    "word": "verlassen",
+    "full": "",
+    "translation": "покидати, залишати",
+    "forms": "Perfekt: er hat verlassen · Präteritum: er verließ",
+    "examples": [
+      [
+        "Er verlässt früh das Haus.",
+        "Він рано виходить з дому."
+      ]
+    ]
+  },
+  {
+    "word": "bedeuten",
+    "full": "",
+    "translation": "означати",
+    "forms": "Perfekt: es hat bedeutet · Präteritum: es bedeutete",
+    "examples": [
+      [
+        "Was bedeutet dieses Wort?",
+        "Що означає це слово?"
+      ]
+    ]
+  },
+  {
+    "word": "buchen",
+    "full": "",
+    "translation": "бронювати",
+    "forms": "Perfekt: er hat gebucht · Präteritum: er buchte",
+    "examples": [
+      [
+        "Ich buche eine Reise nach Wien.",
+        "Я бронюю подорож до Відня."
+      ]
+    ]
+  },
+  {
+    "word": "glauben",
+    "full": "",
+    "translation": "вірити, вважати",
+    "forms": "Perfekt: er hat geglaubt · Präteritum: er glaubte",
+    "examples": [
+      [
+        "Ich glaube dir.",
+        "Я тобі вірю."
+      ]
+    ]
+  },
+  {
+    "word": "reisen",
+    "full": "",
+    "translation": "подорожувати",
+    "forms": "Perfekt: er ist gereist · Präteritum: er reiste",
+    "examples": [
+      [
+        "Sie reist gern nach Italien.",
+        "Вона любить подорожувати до Італії."
+      ]
+    ]
+  },
+  {
+    "word": "regieren",
+    "full": "",
+    "translation": "правити, керувати (країною)",
+    "forms": "Perfekt: er hat regiert · Präteritum: er regierte",
+    "examples": [
+      [
+        "Die Königin regiert das Land.",
+        "Королева править країною."
+      ]
+    ]
+  },
+  {
+    "word": "regnen",
+    "full": "",
+    "translation": "іти (про дощ)",
+    "forms": "Perfekt: es hat geregnet · Präteritum: es regnete",
+    "examples": [
+      [
+        "Heute regnet es den ganzen Tag.",
+        "Сьогодні цілий день іде дощ."
+      ]
+    ]
+  },
+  {
+    "word": "reservieren",
+    "full": "",
+    "translation": "бронювати, резервувати",
+    "forms": "Perfekt: er hat reserviert · Präteritum: er reservierte",
+    "examples": [
+      [
+        "Ich reserviere einen Tisch für zwei.",
+        "Я бронюю столик на двох."
+      ]
+    ]
+  },
+  {
+    "word": "schmecken",
+    "full": "",
+    "translation": "смакувати, бути на смак",
+    "forms": "Perfekt: er hat geschmeckt · Präteritum: er schmeckte",
+    "examples": [
+      [
+        "Das Essen schmeckt mir sehr gut.",
+        "Їжа мені дуже смакує."
+      ]
+    ]
+  },
+  {
+    "word": "schneien",
+    "full": "",
+    "translation": "іти (про сніг)",
+    "forms": "Perfekt: es hat geschneit · Präteritum: es schneite",
+    "examples": [
+      [
+        "Im Dezember schneit es oft.",
+        "У грудні часто йде сніг."
+      ]
+    ]
+  },
+  {
+    "word": "stürmen",
+    "full": "",
+    "translation": "штормити, дути (про бурю)",
+    "forms": "Perfekt: es hat gestürmt · Präteritum: es stürmte",
+    "examples": [
+      [
+        "Draußen stürmt es stark.",
+        "Надворі сильний вітер."
+      ]
+    ]
+  },
+  {
+    "word": "übernachten",
+    "full": "",
+    "translation": "ночувати",
+    "forms": "Perfekt: er hat übernachtet · Präteritum: er übernachtete",
+    "examples": [
+      [
+        "Wir übernachten in einem Hotel.",
+        "Ми ночуємо в готелі."
+      ]
+    ]
+  },
+  {
+    "word": "verfügen",
+    "full": "",
+    "translation": "мати в розпорядженні",
+    "forms": "Perfekt: er hat verfügt · Präteritum: er verfügte",
+    "examples": [
+      [
+        "Das Zimmer verfügt über eine Minibar.",
+        "У номері є міні-бар."
+      ]
+    ]
+  },
+  {
+    "word": "zeugen",
+    "full": "",
+    "translation": "зачинати (дитину); свідчити",
+    "forms": "Perfekt: er hat gezeugt · Präteritum: er zeugte",
+    "examples": [
+      [
+        "Sie haben ein Kind gezeugt.",
+        "Вони зачали дитину."
+      ]
+    ]
+  },
+  {
+    "word": "an*bieten",
+    "full": "",
+    "translation": "пропонувати",
+    "forms": "Perfekt: er hat angeboten · Präteritum: er bot an",
+    "examples": [
+      [
+        "Er bietet mir eine Tasse Kaffee an.",
+        "Він пропонує мені горнятко кави."
+      ]
+    ]
+  },
+  {
+    "word": "an*nehmen",
+    "full": "",
+    "translation": "приймати",
+    "forms": "Perfekt: er hat angenommen · Präteritum: er nahm an",
+    "examples": [
+      [
+        "Ich nehme das Angebot an.",
+        "Я приймаю пропозицію."
+      ]
+    ]
+  },
+  {
+    "word": "auf*geben",
+    "full": "",
+    "translation": "здавати; кидати (справу)",
+    "forms": "Perfekt: er hat aufgegeben · Präteritum: er gab auf",
+    "examples": [
+      [
+        "Er gibt eine Bestellung auf.",
+        "Він оформлює замовлення."
+      ]
+    ]
+  },
+  {
+    "word": "sich bewerben",
+    "full": "",
+    "translation": "подавати заявку (на роботу)",
+    "forms": "Perfekt: er hat sich beworben · Präteritum: er bewarb sich",
+    "examples": [
+      [
+        "Sie bewirbt sich um eine Stelle.",
+        "Вона подає заявку на посаду."
+      ]
+    ]
+  },
+  {
+    "word": "verbinden",
+    "full": "",
+    "translation": "з'єднувати",
+    "forms": "Perfekt: er hat verbunden · Präteritum: er verband",
+    "examples": [
+      [
+        "Ich verbinde Sie mit dem Chef.",
+        "Я з'єдную вас із начальником."
+      ]
+    ]
+  },
+  {
+    "word": "ab*lehnen",
+    "full": "",
+    "translation": "відхиляти, відмовляти",
+    "forms": "Perfekt: er hat abgelehnt · Präteritum: er lehnte ab",
+    "examples": [
+      [
+        "Er lehnt das Angebot ab.",
+        "Він відхиляє пропозицію."
+      ]
+    ]
+  },
+  {
+    "word": "beantworten",
+    "full": "",
+    "translation": "відповідати (на щось)",
+    "forms": "Perfekt: er hat beantwortet · Präteritum: er beantwortete",
+    "examples": [
+      [
+        "Sie beantwortet die E-Mail.",
+        "Вона відповідає на електронний лист."
+      ]
+    ]
+  },
+  {
+    "word": "beenden",
+    "full": "",
+    "translation": "завершувати",
+    "forms": "Perfekt: er hat beendet · Präteritum: er beendete",
+    "examples": [
+      [
+        "Wir beenden die Arbeit um fünf.",
+        "Ми завершуємо роботу о п'ятій."
+      ]
+    ]
+  },
+  {
+    "word": "buchstabieren",
+    "full": "",
+    "translation": "вимовляти по літерах",
+    "forms": "Perfekt: er hat buchstabiert · Präteritum: er buchstabierte",
+    "examples": [
+      [
+        "Buchstabieren Sie bitte Ihren Namen.",
+        "Продиктуйте, будь ласка, своє ім'я по літерах."
+      ]
+    ]
+  },
+  {
+    "word": "erwarten",
+    "full": "",
+    "translation": "очікувати",
+    "forms": "Perfekt: er hat erwartet · Präteritum: er erwartete",
+    "examples": [
+      [
+        "Wir erwarten Gäste.",
+        "Ми чекаємо гостей."
+      ]
+    ]
+  },
+  {
+    "word": "kündigen",
+    "full": "",
+    "translation": "звільнятися; розривати договір",
+    "forms": "Perfekt: er hat gekündigt · Präteritum: er kündigte",
+    "examples": [
+      [
+        "Er kündigt seinen Job.",
+        "Він звільняється з роботи."
+      ]
+    ]
+  },
+  {
+    "word": "liefern",
+    "full": "",
+    "translation": "постачати, доставляти",
+    "forms": "Perfekt: er hat geliefert · Präteritum: er lieferte",
+    "examples": [
+      [
+        "Die Firma liefert die Produkte schnell.",
+        "Фірма швидко доставляє товари."
+      ]
+    ]
+  },
+  {
+    "word": "passen",
+    "full": "",
+    "translation": "підходити, пасувати",
+    "forms": "Perfekt: es hat gepasst · Präteritum: es passte",
+    "examples": [
+      [
+        "Der Termin passt mir gut.",
+        "Цей час мені підходить."
+      ]
+    ]
+  },
+  {
+    "word": "präsentieren",
+    "full": "",
+    "translation": "презентувати",
+    "forms": "Perfekt: er hat präsentiert · Präteritum: er präsentierte",
+    "examples": [
+      [
+        "Er präsentiert ein neues Produkt.",
+        "Він презентує новий продукт."
+      ]
+    ]
+  },
+  {
+    "word": "reden",
+    "full": "",
+    "translation": "говорити, розмовляти",
+    "forms": "Perfekt: er hat geredet · Präteritum: er redete",
+    "examples": [
+      [
+        "Wir reden über die Arbeit.",
+        "Ми говоримо про роботу."
+      ]
+    ]
+  },
+  {
+    "word": "sagen",
+    "full": "",
+    "translation": "казати",
+    "forms": "Perfekt: er hat gesagt · Präteritum: er sagte",
+    "examples": [
+      [
+        "Sag mir bitte die Wahrheit.",
+        "Скажи мені, будь ласка, правду."
+      ]
+    ]
+  },
+  {
+    "word": "senden",
+    "full": "",
+    "translation": "надсилати",
+    "forms": "Perfekt: er hat gesendet · Präteritum: er sendete",
+    "examples": [
+      [
+        "Ich sende dir die E-Mail.",
+        "Я надсилаю тобі електронний лист."
+      ]
+    ]
+  },
+  {
+    "word": "sich verabschieden",
+    "full": "",
+    "translation": "прощатися",
+    "forms": "Perfekt: er hat sich verabschiedet · Präteritum: er verabschiedete sich",
+    "examples": [
+      [
+        "Er verabschiedet sich von den Gästen.",
+        "Він прощається з гостями."
+      ]
+    ]
+  },
+  {
+    "word": "vereinbaren",
+    "full": "",
+    "translation": "домовлятися (про щось)",
+    "forms": "Perfekt: er hat vereinbart · Präteritum: er vereinbarte",
+    "examples": [
+      [
+        "Wir vereinbaren einen Termin.",
+        "Ми домовляємось про зустріч."
+      ]
+    ]
+  },
+  {
+    "word": "vor*stellen",
+    "full": "",
+    "translation": "представляти",
+    "forms": "Perfekt: er hat vorgestellt · Präteritum: er stellte vor",
+    "examples": [
+      [
+        "Er stellt das Produkt vor.",
+        "Він представляє продукт."
+      ]
+    ]
+  },
+  {
+    "word": "warten",
+    "full": "",
+    "translation": "чекати",
+    "forms": "Perfekt: er hat gewartet · Präteritum: er wartete",
+    "examples": [
+      [
+        "Ich warte auf den Bus.",
+        "Я чекаю на автобус."
+      ]
+    ]
+  },
+  {
+    "word": "weiter*leiten",
+    "full": "",
+    "translation": "пересилати (далі)",
+    "forms": "Perfekt: er hat weitergeleitet · Präteritum: er leitete weiter",
+    "examples": [
+      [
+        "Ich leite die E-Mail weiter.",
+        "Я пересилаю електронний лист."
+      ]
+    ]
+  },
+  {
+    "word": "zu*stimmen",
+    "full": "",
+    "translation": "погоджуватися",
+    "forms": "Perfekt: er hat zugestimmt · Präteritum: er stimmte zu",
+    "examples": [
+      [
+        "Er stimmt dem Vorschlag zu.",
+        "Він погоджується з пропозицією."
+      ]
+    ]
+  },
+  {
+    "word": "ändern",
+    "full": "",
+    "translation": "змінювати(ся)",
+    "forms": "Perfekt: sie hat sich geändert · Präteritum: sie änderte sich",
+    "examples": [
+      [
+        "Die Zeiten ändern sich.",
+        "Часи змінюються."
+      ]
+    ]
+  },
+  {
+    "word": "an*probieren",
+    "full": "",
+    "translation": "приміряти",
+    "forms": "Perfekt: er hat anprobiert · Präteritum: er probierte an",
+    "examples": [
+      [
+        "Ich probiere die Schuhe an.",
+        "Я приміряю туфлі."
+      ]
+    ]
+  },
+  {
+    "word": "aus*füllen",
+    "full": "",
+    "translation": "заповнювати (бланк)",
+    "forms": "Perfekt: er hat ausgefüllt · Präteritum: er füllte aus",
+    "examples": [
+      [
+        "Füllen Sie bitte das Formular aus.",
+        "Заповніть, будь ласка, бланк."
+      ]
+    ]
+  },
+  {
+    "word": "belegen",
+    "full": "",
+    "translation": "займати (місце)",
+    "forms": "Perfekt: er hat belegt · Präteritum: er belegte",
+    "examples": [
+      [
+        "Er belegt den ersten Platz.",
+        "Він посідає перше місце."
+      ]
+    ]
+  },
+  {
+    "word": "bestellen",
+    "full": "",
+    "translation": "замовляти",
+    "forms": "Perfekt: er hat bestellt · Präteritum: er bestellte",
+    "examples": [
+      [
+        "Ich bestelle einen Kaffee.",
+        "Я замовляю каву."
+      ]
+    ]
+  },
+  {
+    "word": "ein*zahlen",
+    "full": "",
+    "translation": "вносити (гроші)",
+    "forms": "Perfekt: er hat eingezahlt · Präteritum: er zahlte ein",
+    "examples": [
+      [
+        "Er zahlt Geld auf das Konto ein.",
+        "Він вносить гроші на рахунок."
+      ]
+    ]
+  },
+  {
+    "word": "erleben",
+    "full": "",
+    "translation": "переживати, зазнавати",
+    "forms": "Perfekt: er hat erlebt · Präteritum: er erlebte",
+    "examples": [
+      [
+        "Im Urlaub erlebt man viel.",
+        "У відпустці багато переживаєш."
+      ]
+    ]
+  },
+  {
+    "word": "ersteigern",
+    "full": "",
+    "translation": "купувати на аукціоні",
+    "forms": "Perfekt: er hat ersteigert · Präteritum: er ersteigerte",
+    "examples": [
+      [
+        "Er ersteigert ein altes Bild.",
+        "Він купує на аукціоні стару картину."
+      ]
+    ]
+  },
+  {
+    "word": "feiern",
+    "full": "",
+    "translation": "святкувати",
+    "forms": "Perfekt: er hat gefeiert · Präteritum: er feierte",
+    "examples": [
+      [
+        "Wir feiern seinen Geburtstag.",
+        "Ми святкуємо його день народження."
+      ]
+    ]
+  },
+  {
+    "word": "folgen",
+    "full": "",
+    "translation": "слідувати, іти за",
+    "forms": "Perfekt: er ist gefolgt · Präteritum: er folgte",
+    "examples": [
+      [
+        "Er folgt auf Platz zwei.",
+        "Він іде на другому місці."
+      ]
+    ]
+  },
+  {
+    "word": "gehören",
+    "full": "",
+    "translation": "належати",
+    "forms": "Perfekt: sie hat gehört · Präteritum: sie gehörte",
+    "examples": [
+      [
+        "Wien gehört zu den teuren Städten.",
+        "Відень належить до дорогих міст."
+      ]
+    ]
+  },
+  {
+    "word": "gründen",
+    "full": "",
+    "translation": "засновувати",
+    "forms": "Perfekt: er hat gegründet · Präteritum: er gründete",
+    "examples": [
+      [
+        "Sie gründet eine Firma.",
+        "Вона засновує фірму."
+      ]
+    ]
+  },
+  {
+    "word": "kosten",
+    "full": "",
+    "translation": "коштувати",
+    "forms": "Perfekt: es hat gekostet · Präteritum: es kostete",
+    "examples": [
+      [
+        "Wie viel kostet das Buch?",
+        "Скільки коштує книжка?"
+      ]
+    ]
+  },
+  {
+    "word": "nutzen",
+    "full": "",
+    "translation": "користуватися, використовувати",
+    "forms": "Perfekt: er hat genutzt · Präteritum: er nutzte",
+    "examples": [
+      [
+        "Ich nutze das Internet täglich.",
+        "Я користуюсь інтернетом щодня."
+      ]
+    ]
+  },
+  {
+    "word": "passieren",
+    "full": "",
+    "translation": "траплятися, ставатися",
+    "forms": "Perfekt: es ist passiert · Präteritum: es passierte",
+    "examples": [
+      [
+        "Was ist hier passiert?",
+        "Що тут сталося?"
+      ]
+    ]
+  },
+  {
+    "word": "schenken",
+    "full": "",
+    "translation": "дарувати",
+    "forms": "Perfekt: er hat geschenkt · Präteritum: er schenkte",
+    "examples": [
+      [
+        "Ich schenke ihr Blumen.",
+        "Я дарую їй квіти."
+      ]
+    ]
+  },
+  {
+    "word": "verschenken",
+    "full": "",
+    "translation": "роздаровувати",
+    "forms": "Perfekt: er hat verschenkt · Präteritum: er verschenkte",
+    "examples": [
+      [
+        "Er verschenkt seine alten Bücher.",
+        "Він роздаровує свої старі книжки."
+      ]
+    ]
+  },
+  {
+    "word": "sparen",
+    "full": "",
+    "translation": "заощаджувати",
+    "forms": "Perfekt: er hat gespart · Präteritum: er sparte",
+    "examples": [
+      [
+        "Wir sparen Geld für den Urlaub.",
+        "Ми заощаджуємо гроші на відпустку."
+      ]
+    ]
+  },
+  {
+    "word": "spenden",
+    "full": "",
+    "translation": "жертвувати (кошти)",
+    "forms": "Perfekt: er hat gespendet · Präteritum: er spendete",
+    "examples": [
+      [
+        "Sie spendet Geld für Kinder.",
+        "Вона жертвує гроші для дітей."
+      ]
+    ]
+  },
+  {
+    "word": "zählen",
+    "full": "",
+    "translation": "рахувати; належати",
+    "forms": "Perfekt: sie hat gezählt · Präteritum: sie zählte",
+    "examples": [
+      [
+        "München zählt zu den teuren Städten.",
+        "Мюнхен належить до дорогих міст."
+      ]
+    ]
+  },
+  {
+    "word": "ab*heben",
+    "full": "",
+    "translation": "знімати (гроші)",
+    "forms": "Perfekt: er hat abgehoben · Präteritum: er hob ab",
+    "examples": [
+      [
+        "Ich hebe Geld am Automaten ab.",
+        "Я знімаю гроші в банкоматі."
+      ]
+    ]
+  },
+  {
+    "word": "betragen",
+    "full": "",
+    "translation": "становити (суму)",
+    "forms": "Perfekt: er hat betragen · Präteritum: er betrug",
+    "examples": [
+      [
+        "Der Gewinn beträgt tausend Euro.",
+        "Виграш становить тисячу євро."
+      ]
+    ]
+  },
+  {
+    "word": "sich entscheiden",
+    "full": "",
+    "translation": "вирішувати, робити вибір",
+    "forms": "Perfekt: er hat sich entschieden · Präteritum: er entschied sich",
+    "examples": [
+      [
+        "Er entscheidet sich für das rote Auto.",
+        "Він обирає червону машину."
+      ]
+    ]
+  },
+  {
+    "word": "gelten",
+    "full": "",
+    "translation": "вважатися, бути дійсним",
+    "forms": "Perfekt: er hat gegolten · Präteritum: er galt",
+    "examples": [
+      [
+        "Er gilt als geizig.",
+        "Він вважається скупим."
+      ]
+    ]
+  },
+  {
+    "word": "tun",
+    "full": "",
+    "translation": "робити",
+    "forms": "Perfekt: er hat getan · Präteritum: er tat",
+    "examples": [
+      [
+        "Was kann ich für dich tun?",
+        "Що я можу для тебе зробити?"
+      ]
+    ]
+  },
+  {
+    "word": "verbieten",
+    "full": "",
+    "translation": "забороняти",
+    "forms": "Perfekt: er hat verboten · Präteritum: er verbot",
+    "examples": [
+      [
+        "Der Arzt verbietet ihm das Rauchen.",
+        "Лікар забороняє йому палити."
+      ]
+    ]
+  },
+  {
+    "word": "vergleichen",
+    "full": "",
+    "translation": "порівнювати",
+    "forms": "Perfekt: er hat verglichen · Präteritum: er verglich",
+    "examples": [
+      [
+        "Ich vergleiche die Preise.",
+        "Я порівнюю ціни."
+      ]
+    ]
+  },
+  {
+    "word": "Einkommen",
+    "full": "das Einkommen, -",
+    "translation": "дохід",
+    "forms": "",
+    "examples": [
+      [
+        "Sein Einkommen ist gestiegen.",
+        "Його дохід зріс."
+      ]
+    ]
+  },
+  {
+    "word": "Bruttoeinkommen",
+    "full": "das Bruttoeinkommen, -",
+    "translation": "валовий дохід (брутто)",
+    "forms": "",
+    "examples": [
+      [
+        "Das Bruttoeinkommen ist höher als das Nettoeinkommen.",
+        "Валовий дохід вищий за чистий."
+      ]
+    ]
+  },
+  {
+    "word": "Nettoeinkommen",
+    "full": "das Nettoeinkommen, -",
+    "translation": "чистий дохід (нетто)",
+    "forms": "",
+    "examples": [
+      [
+        "Vom Nettoeinkommen zahlt man die Miete.",
+        "З чистого доходу платять оренду."
+      ]
+    ]
+  },
+  {
+    "word": "Gehalt",
+    "full": "das Gehalt, Gehälter",
+    "translation": "зарплата",
+    "forms": "",
+    "examples": [
+      [
+        "Sie bekommt ein gutes Gehalt.",
+        "Вона отримує гарну зарплату."
+      ]
+    ]
+  },
+  {
+    "word": "Steuer",
+    "full": "die Steuer, -n",
+    "translation": "податок",
+    "forms": "",
+    "examples": [
+      [
+        "Jeder muss Steuern zahlen.",
+        "Кожен має платити податки."
+      ]
+    ]
+  },
+  {
+    "word": "Sozialversicherung",
+    "full": "die Sozialversicherung, -en",
+    "translation": "соціальне страхування",
+    "forms": "",
+    "examples": [
+      [
+        "Die Sozialversicherung ist in Deutschland Pflicht.",
+        "Соціальне страхування у Німеччині обов'язкове."
+      ]
+    ]
+  },
+  {
+    "word": "Nahrungsmittel",
+    "full": "das Nahrungsmittel, -",
+    "translation": "продукт харчування",
+    "forms": "",
+    "examples": [
+      [
+        "Nahrungsmittel werden teurer.",
+        "Продукти харчування дорожчають."
+      ]
+    ]
+  },
+  {
+    "word": "Getränk",
+    "full": "das Getränk, -e",
+    "translation": "напій",
+    "forms": "",
+    "examples": [
+      [
+        "Kalte Getränke stehen im Kühlschrank.",
+        "Холодні напої стоять у холодильнику."
+      ]
+    ]
+  },
+  {
+    "word": "Kleidung",
+    "full": "die Kleidung",
+    "translation": "одяг",
+    "forms": "",
+    "examples": [
+      [
+        "Für Kleidung gebe ich viel Geld aus.",
+        "На одяг я витрачаю багато грошей."
+      ]
+    ]
+  },
+  {
+    "word": "Miete",
+    "full": "die Miete, -n",
+    "translation": "оренда (плата за житло)",
+    "forms": "",
+    "examples": [
+      [
+        "Die Miete ist sehr hoch.",
+        "Оренда дуже висока."
+      ]
+    ]
+  },
+  {
+    "word": "Energie",
+    "full": "die Energie, -n",
+    "translation": "енергія",
+    "forms": "",
+    "examples": [
+      [
+        "Energie wird immer teurer.",
+        "Енергія дедалі дорожчає."
+      ]
+    ]
+  },
+  {
+    "word": "Verkehr",
+    "full": "der Verkehr",
+    "translation": "транспорт; дорожній рух",
+    "forms": "",
+    "examples": [
+      [
+        "Der Verkehr in der Stadt ist stark.",
+        "Рух у місті інтенсивний."
+      ]
+    ]
+  },
+  {
+    "word": "Haushaltsgerät",
+    "full": "das Haushaltsgerät, -e",
+    "translation": "побутовий прилад",
+    "forms": "",
+    "examples": [
+      [
+        "Ein Kühlschrank ist ein Haushaltsgerät.",
+        "Холодильник — це побутовий прилад."
+      ]
+    ]
+  },
+  {
+    "word": "Möbel",
+    "full": "die Möbel (Pl.)",
+    "translation": "меблі",
+    "forms": "",
+    "examples": [
+      [
+        "Die Möbel im Wohnzimmer sind neu.",
+        "Меблі у вітальні нові."
+      ]
+    ]
+  },
+  {
+    "word": "Freizeit",
+    "full": "die Freizeit",
+    "translation": "вільний час",
+    "forms": "",
+    "examples": [
+      [
+        "In meiner Freizeit lese ich gern.",
+        "У вільний час я люблю читати."
+      ]
+    ]
+  },
+  {
+    "word": "Gesundheit",
+    "full": "die Gesundheit",
+    "translation": "здоров'я",
+    "forms": "",
+    "examples": [
+      [
+        "Gesundheit ist das Wichtigste.",
+        "Здоров'я — найважливіше."
+      ]
+    ]
+  },
+  {
+    "word": "Kommunikation",
+    "full": "die Kommunikation",
+    "translation": "комунікація, спілкування",
+    "forms": "",
+    "examples": [
+      [
+        "Kommunikation ist im Beruf wichtig.",
+        "Комунікація важлива в роботі."
+      ]
+    ]
+  },
+  {
+    "word": "Bildung",
+    "full": "die Bildung",
+    "translation": "освіта",
+    "forms": "",
+    "examples": [
+      [
+        "Bildung eröffnet neue Chancen.",
+        "Освіта відкриває нові можливості."
+      ]
+    ]
+  },
+  {
+    "word": "aus*wählen",
+    "full": "",
+    "translation": "обирати, вибирати",
+    "forms": "Perfekt: er hat ausgewählt · Präteritum: er wählte aus",
+    "examples": [
+      [
+        "Ich wähle einen Film aus.",
+        "Я обираю фільм."
+      ]
+    ]
+  },
+  {
+    "word": "beobachten",
+    "full": "",
+    "translation": "спостерігати",
+    "forms": "Perfekt: er hat beobachtet · Präteritum: er beobachtete",
+    "examples": [
+      [
+        "Die Polizei beobachtet den Mann.",
+        "Поліція спостерігає за чоловіком."
+      ]
+    ]
+  },
+  {
+    "word": "erzählen",
+    "full": "",
+    "translation": "розповідати",
+    "forms": "Perfekt: er hat erzählt · Präteritum: er erzählte",
+    "examples": [
+      [
+        "Erzähl mir eine Geschichte.",
+        "Розкажи мені історію."
+      ]
+    ]
+  },
+  {
+    "word": "unterrichten",
+    "full": "",
+    "translation": "викладати, навчати",
+    "forms": "Perfekt: er hat unterrichtet · Präteritum: er unterrichtete",
+    "examples": [
+      [
+        "Sie unterrichtet Deutsch.",
+        "Вона викладає німецьку."
+      ]
+    ]
+  },
+  {
+    "word": "verdienen",
+    "full": "",
+    "translation": "заробляти",
+    "forms": "Perfekt: er hat verdient · Präteritum: er verdiente",
+    "examples": [
+      [
+        "Er verdient gutes Geld.",
+        "Він заробляє добрі гроші."
+      ]
+    ]
+  },
+  {
+    "word": "verspielen",
+    "full": "",
+    "translation": "програвати (гроші)",
+    "forms": "Perfekt: er hat verspielt · Präteritum: er verspielte",
+    "examples": [
+      [
+        "Er hat sein ganzes Geld verspielt.",
+        "Він програв усі свої гроші."
+      ]
+    ]
+  },
+  {
+    "word": "verpassen",
+    "full": "",
+    "translation": "пропускати, проґавити",
+    "forms": "Perfekt: er hat verpasst · Präteritum: er verpasste",
+    "examples": [
+      [
+        "Ich habe den Zug verpasst.",
+        "Я пропустив потяг."
+      ]
+    ]
+  },
+  {
+    "word": "verwöhnen",
+    "full": "",
+    "translation": "балувати, пестити",
+    "forms": "Perfekt: er hat verwöhnt · Präteritum: er verwöhnte",
+    "examples": [
+      [
+        "Sie verwöhnt ihre Gäste.",
+        "Вона балує своїх гостей."
+      ]
+    ]
+  },
+  {
+    "word": "an*rufen",
+    "full": "",
+    "translation": "телефонувати",
+    "forms": "Perfekt: er hat angerufen · Präteritum: er rief an",
+    "examples": [
+      [
+        "Ich rufe dich morgen an.",
+        "Я подзвоню тобі завтра."
+      ]
+    ]
+  },
+  {
+    "word": "ein*laden",
+    "full": "",
+    "translation": "запрошувати",
+    "forms": "Perfekt: er hat eingeladen · Präteritum: er lud ein",
+    "examples": [
+      [
+        "Wir laden Freunde zum Essen ein.",
+        "Ми запрошуємо друзів на вечерю."
+      ]
+    ]
+  },
+  {
+    "word": "empfehlen",
+    "full": "",
+    "translation": "рекомендувати",
+    "forms": "Perfekt: er hat empfohlen · Präteritum: er empfahl",
+    "examples": [
+      [
+        "Ich empfehle dieses Restaurant.",
+        "Я рекомендую цей ресторан."
+      ]
+    ]
+  },
+  {
+    "word": "laufen",
+    "full": "",
+    "translation": "бігти; іти (про фільм)",
+    "forms": "Perfekt: er ist gelaufen · Präteritum: er lief",
+    "examples": [
+      [
+        "Der Film läuft im Kino.",
+        "Фільм іде в кіно."
+      ]
+    ]
+  },
+  {
+    "word": "liegen",
+    "full": "",
+    "translation": "лежати",
+    "forms": "Perfekt: er hat gelegen · Präteritum: er lag",
+    "examples": [
+      [
+        "Ich liege gern in der Sonne.",
+        "Я люблю лежати на сонці."
+      ]
+    ]
+  },
+  {
+    "word": "treiben",
+    "full": "",
+    "translation": "займатися (спортом)",
+    "forms": "Perfekt: er hat getrieben · Präteritum: er trieb",
+    "examples": [
+      [
+        "Er treibt jeden Tag Sport.",
+        "Він щодня займається спортом."
+      ]
+    ]
+  },
+  {
+    "word": "an*sehen",
+    "full": "",
+    "translation": "дивитися, розглядати",
+    "forms": "Perfekt: er hat angesehen · Präteritum: er sah an",
+    "examples": [
+      [
+        "Wir sehen uns einen Film an.",
+        "Ми дивимось фільм."
+      ]
+    ]
+  },
+  {
+    "word": "sterben",
+    "full": "",
+    "translation": "помирати",
+    "forms": "Perfekt: er ist gestorben · Präteritum: er starb",
+    "examples": [
+      [
+        "Sein Großvater ist letztes Jahr gestorben.",
+        "Його дідусь помер торік."
+      ]
+    ]
+  },
+  {
+    "word": "unternehmen",
+    "full": "",
+    "translation": "робити, вживати (заходів)",
+    "forms": "Perfekt: er hat unternommen · Präteritum: er unternahm",
+    "examples": [
+      [
+        "Am Wochenende unternehmen wir etwas.",
+        "На вихідних ми чимось займаємось."
+      ]
+    ]
+  },
+  {
+    "word": "verbringen",
+    "full": "",
+    "translation": "проводити (час)",
+    "forms": "Perfekt: er hat verbracht · Präteritum: er verbrachte",
+    "examples": [
+      [
+        "Ich verbringe den Urlaub am Meer.",
+        "Я проводжу відпустку біля моря."
+      ]
+    ]
+  },
+  {
+    "word": "verlieren",
+    "full": "",
+    "translation": "втрачати; програвати",
+    "forms": "Perfekt: er hat verloren · Präteritum: er verlor",
+    "examples": [
+      [
+        "Er verliert das Interesse an dem Spiel.",
+        "Він втрачає інтерес до гри."
+      ]
+    ]
+  },
+  {
+    "word": "dürfen",
+    "full": "",
+    "translation": "могти (мати дозвіл)",
+    "forms": "Perfekt: er hat gedurft · Präteritum: er durfte",
+    "examples": [
+      [
+        "Hier darf man nicht rauchen.",
+        "Тут не можна палити."
+      ]
+    ]
+  },
+  {
+    "word": "können",
+    "full": "",
+    "translation": "могти, вміти",
+    "forms": "Perfekt: er hat gekonnt · Präteritum: er konnte",
+    "examples": [
+      [
+        "Sie kann gut schwimmen.",
+        "Вона добре вміє плавати."
+      ]
+    ]
+  },
+  {
+    "word": "mögen",
+    "full": "",
+    "translation": "любити, подобатися",
+    "forms": "Perfekt: er hat gemocht · Präteritum: er mochte",
+    "examples": [
+      [
+        "Ich mag keinen Kaffee.",
+        "Я не люблю каву."
+      ]
+    ]
+  },
+  {
+    "word": "müssen",
+    "full": "",
+    "translation": "мусити, бути змушеним",
+    "forms": "Perfekt: er hat gemusst · Präteritum: er musste",
+    "examples": [
+      [
+        "Ich muss jetzt gehen.",
+        "Я мушу зараз іти."
+      ]
+    ]
+  },
+  {
+    "word": "sollen",
+    "full": "",
+    "translation": "мати (повинність), мусити",
+    "forms": "Perfekt: er hat gesollt · Präteritum: er sollte",
+    "examples": [
+      [
+        "Du sollst mehr schlafen.",
+        "Тобі варто більше спати."
+      ]
+    ]
+  },
+  {
+    "word": "wollen",
+    "full": "",
+    "translation": "хотіти",
+    "forms": "Perfekt: er hat gewollt · Präteritum: er wollte",
+    "examples": [
+      [
+        "Er will Arzt werden.",
+        "Він хоче стати лікарем."
+      ]
+    ]
+  },
+  {
+    "word": "auf*klären",
+    "full": "",
+    "translation": "розкривати (злочин)",
+    "forms": "Perfekt: er hat aufgeklärt · Präteritum: er klärte auf",
+    "examples": [
+      [
+        "Die Polizei klärt das Verbrechen auf.",
+        "Поліція розкриває злочин."
+      ]
+    ]
+  },
+  {
+    "word": "ein*brechen",
+    "full": "",
+    "translation": "вламуватися, вчиняти крадіжку зі зломом",
+    "forms": "Perfekt: er ist eingebrochen · Präteritum: er brach ein",
+    "examples": [
+      [
+        "Diebe brechen in das Geschäft ein.",
+        "Злодії вламуються в магазин."
+      ]
+    ]
+  },
+  {
+    "word": "fest*nehmen",
+    "full": "",
+    "translation": "затримувати, заарештовувати",
+    "forms": "Perfekt: er hat festgenommen · Präteritum: er nahm fest",
+    "examples": [
+      [
+        "Die Polizei nimmt den Täter fest.",
+        "Поліція затримує злочинця."
+      ]
+    ]
+  },
+  {
+    "word": "jagen",
+    "full": "",
+    "translation": "полювати, переслідувати",
+    "forms": "Perfekt: er hat gejagt · Präteritum: er jagte",
+    "examples": [
+      [
+        "Der Polizist jagt den Dieb.",
+        "Поліцейський переслідує злодія."
+      ]
+    ]
+  },
+  {
+    "word": "sinken",
+    "full": "",
+    "translation": "знижуватися, падати",
+    "forms": "Perfekt: sie ist gesunken · Präteritum: sie sank",
+    "examples": [
+      [
+        "Die Verbrecherrate sinkt.",
+        "Рівень злочинності знижується."
+      ]
+    ]
+  },
+  {
+    "word": "stehlen",
+    "full": "",
+    "translation": "красти",
+    "forms": "Perfekt: er hat gestohlen · Präteritum: er stahl",
+    "examples": [
+      [
+        "Jemand hat meinen Ring gestohlen.",
+        "Хтось украв мій перстень."
+      ]
+    ]
+  },
+  {
+    "word": "verhaften",
+    "full": "",
+    "translation": "заарештовувати",
+    "forms": "Perfekt: er hat verhaftet · Präteritum: er verhaftete",
+    "examples": [
+      [
+        "Die Polizei verhaftet den Täter.",
+        "Поліція заарештовує злочинця."
+      ]
+    ]
+  },
+  {
+    "word": "verschwinden",
+    "full": "",
+    "translation": "зникати",
+    "forms": "Perfekt: er ist verschwunden · Präteritum: er verschwand",
+    "examples": [
+      [
+        "Das Geld ist plötzlich verschwunden.",
+        "Гроші раптово зникли."
+      ]
+    ]
+  },
+  {
+    "word": "sammeln",
+    "full": "",
+    "translation": "збирати, колекціонувати",
+    "forms": "Perfekt: er hat gesammelt · Präteritum: er sammelte",
+    "examples": [
+      [
+        "Er sammelt alte Münzen.",
+        "Він колекціонує старі монети."
+      ]
+    ]
+  },
+  {
+    "word": "wandern",
+    "full": "",
+    "translation": "мандрувати пішки",
+    "forms": "Perfekt: er ist gewandert · Präteritum: er wanderte",
+    "examples": [
+      [
+        "Am Wochenende wandern wir in den Bergen.",
+        "На вихідних ми ходимо в гори."
+      ]
+    ]
+  },
+  {
+    "word": "komponieren",
+    "full": "",
+    "translation": "компонувати (музику)",
+    "forms": "Perfekt: er hat komponiert · Präteritum: er komponierte",
+    "examples": [
+      [
+        "Er komponiert schöne Musikstücke.",
+        "Він компонує гарні музичні твори."
+      ]
+    ]
+  },
+  {
+    "word": "malen",
+    "full": "",
+    "translation": "малювати (фарбами)",
+    "forms": "Perfekt: er hat gemalt · Präteritum: er malte",
+    "examples": [
+      [
+        "Das Kind malt ein Bild.",
+        "Дитина малює картину."
+      ]
+    ]
+  },
+  {
+    "word": "zeichnen",
+    "full": "",
+    "translation": "малювати (олівцем), креслити",
+    "forms": "Perfekt: er hat gezeichnet · Präteritum: er zeichnete",
+    "examples": [
+      [
+        "Sie zeichnet gern Tiere.",
+        "Вона любить малювати тварин."
+      ]
+    ]
+  },
+  {
+    "word": "surfen",
+    "full": "",
+    "translation": "сидіти в інтернеті; серфити",
+    "forms": "Perfekt: er hat gesurft · Präteritum: er surfte",
+    "examples": [
+      [
+        "Ich surfe abends im Internet.",
+        "Увечері я сиджу в інтернеті."
+      ]
+    ]
+  },
+  {
+    "word": "frühstücken",
+    "full": "",
+    "translation": "снідати",
+    "forms": "Perfekt: er hat gefrühstückt · Präteritum: er frühstückte",
+    "examples": [
+      [
+        "Ich frühstücke um sieben Uhr.",
+        "Я снідаю о сьомій годині."
+      ]
+    ]
+  },
+  {
+    "word": "begrüßen",
+    "full": "",
+    "translation": "вітати (когось)",
+    "forms": "Perfekt: er hat begrüßt · Präteritum: er begrüßte",
+    "examples": [
+      [
+        "Er begrüßt seine Kollegen.",
+        "Він вітається з колегами."
+      ]
+    ]
+  },
+  {
+    "word": "fotografieren",
+    "full": "",
+    "translation": "фотографувати",
+    "forms": "Perfekt: er hat fotografiert · Präteritum: er fotografierte",
+    "examples": [
+      [
+        "Sie fotografiert die Landschaft.",
+        "Вона фотографує краєвид."
+      ]
+    ]
+  },
+  {
+    "word": "krank",
+    "full": "",
+    "translation": "хворий",
+    "forms": "",
+    "examples": [
+      [
+        "Der kranke Mann geht zum Arzt.",
+        "Хворий чоловік іде до лікаря."
+      ]
+    ]
+  },
+  {
+    "word": "Beruf",
+    "full": "der Beruf, -e",
+    "translation": "професія",
+    "forms": "",
+    "examples": [
+      [
+        "Welchen Beruf möchtest du später ausüben?",
+        "Яку професію ти хотів би опанувати в майбутньому?"
+      ]
+    ]
+  },
+  {
+    "word": "Tätigkeit",
+    "full": "die Tätigkeit, -en",
+    "translation": "діяльність; заняття",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Tätigkeit macht mir viel Spaß.",
+        "Це заняття приносить мені багато задоволення."
+      ]
+    ]
+  },
+  {
+    "word": "Mensch",
+    "full": "der Mensch, -en",
+    "translation": "людина",
+    "forms": "",
+    "examples": [
+      [
+        "Jeder Mensch braucht Erholung.",
+        "Кожній людині потрібен відпочинок."
+      ]
+    ]
+  },
+  {
+    "word": "behandeln",
+    "full": "",
+    "translation": "лікувати; поводитися з",
+    "forms": "Perfekt: er hat behandelt · Präteritum: er behandelte",
+    "examples": [
+      [
+        "Der Arzt behandelt den kranken Patienten.",
+        "Лікар лікує хворого пацієнта."
+      ]
+    ]
+  },
+  {
+    "word": "pflegen",
+    "full": "",
+    "translation": "доглядати",
+    "forms": "Perfekt: er hat gepflegt · Präteritum: er pflegte",
+    "examples": [
+      [
+        "Die Pflegerin pflegt ältere Menschen.",
+        "Доглядальниця доглядає літніх людей."
+      ]
+    ]
+  },
+  {
+    "word": "versorgen",
+    "full": "",
+    "translation": "забезпечувати; доглядати",
+    "forms": "Perfekt: er hat versorgt · Präteritum: er versorgte",
+    "examples": [
+      [
+        "Im Krankenhaus versorgt sie die Patienten.",
+        "У лікарні вона доглядає пацієнтів."
+      ]
+    ]
+  },
+  {
+    "word": "Verbrecher",
+    "full": "der Verbrecher, -",
+    "translation": "злочинець",
+    "forms": "",
+    "examples": [
+      [
+        "Die Polizei sucht den Verbrecher.",
+        "Поліція шукає злочинця."
+      ]
+    ]
+  },
+  {
+    "word": "verhören",
+    "full": "",
+    "translation": "допитувати",
+    "forms": "Perfekt: er hat verhört · Präteritum: er verhörte",
+    "examples": [
+      [
+        "Die Polizei verhört den Verdächtigen.",
+        "Поліція допитує підозрюваного."
+      ]
+    ]
+  },
+  {
+    "word": "vertreten",
+    "full": "",
+    "translation": "представляти; заміщати",
+    "forms": "Perfekt: er hat vertreten · Präteritum: er vertrat",
+    "examples": [
+      [
+        "Die Anwältin vertritt ihren Mandanten vor Gericht.",
+        "Адвокатка представляє свого клієнта в суді."
+      ]
+    ]
+  },
+  {
+    "word": "Gericht",
+    "full": "das Gericht, -e",
+    "translation": "суд",
+    "forms": "",
+    "examples": [
+      [
+        "Der Anwalt vertritt seinen Mandanten vor Gericht.",
+        "Адвокат представляє свого клієнта в суді."
+      ]
+    ]
+  },
+  {
+    "word": "gläubig",
+    "full": "",
+    "translation": "віруючий",
+    "forms": "",
+    "examples": [
+      [
+        "Seine Großeltern sind gläubig.",
+        "Його дідусь і бабуся — віруючі."
+      ]
+    ]
+  },
+  {
+    "word": "betreuen",
+    "full": "",
+    "translation": "опікуватися; супроводжувати",
+    "forms": "Perfekt: er hat betreut · Präteritum: er betreute",
+    "examples": [
+      [
+        "Sie betreut die Gäste während der Reise.",
+        "Вона супроводжує гостей під час подорожі."
+      ]
+    ]
+  },
+  {
+    "word": "Predigt",
+    "full": "die Predigt, -en",
+    "translation": "проповідь",
+    "forms": "",
+    "examples": [
+      [
+        "Der Pfarrer hält am Sonntag eine Predigt.",
+        "Священник виголошує проповідь у неділю."
+      ]
+    ]
+  },
+  {
+    "word": "Universität",
+    "full": "die Universität, -en",
+    "translation": "університет",
+    "forms": "",
+    "examples": [
+      [
+        "Sie studiert an einer Universität in Berlin.",
+        "Вона навчається в університеті в Берліні."
+      ]
+    ]
+  },
+  {
+    "word": "lehren",
+    "full": "",
+    "translation": "навчати; викладати",
+    "forms": "Perfekt: er hat gelehrt · Präteritum: er lehrte",
+    "examples": [
+      [
+        "Er lehrt Deutsch an der Universität.",
+        "Він викладає німецьку в університеті."
+      ]
+    ]
+  },
+  {
+    "word": "forschen",
+    "full": "",
+    "translation": "досліджувати",
+    "forms": "Perfekt: er hat geforscht · Präteritum: er forschte",
+    "examples": [
+      [
+        "Die Wissenschaftlerin forscht an einer neuen Methode.",
+        "Науковиця досліджує новий метод."
+      ]
+    ]
+  },
+  {
+    "word": "Maschine",
+    "full": "die Maschine, -n",
+    "translation": "машина; механізм",
+    "forms": "",
+    "examples": [
+      [
+        "Der Ingenieur konstruiert eine neue Maschine.",
+        "Інженер конструює нову машину."
+      ]
+    ]
+  },
+  {
+    "word": "Verkehrssystem",
+    "full": "das Verkehrssystem, -e",
+    "translation": "транспортна система",
+    "forms": "",
+    "examples": [
+      [
+        "Die Stadt modernisiert ihr Verkehrssystem.",
+        "Місто модернізує свою транспортну систему."
+      ]
+    ]
+  },
+  {
+    "word": "Baustein",
+    "full": "der Baustein, -e",
+    "translation": "складова; будівельний блок",
+    "forms": "",
+    "examples": [
+      [
+        "Atome sind Bausteine der Materie.",
+        "Атоми є складовими матерії."
+      ]
+    ]
+  },
+  {
+    "word": "Materie",
+    "full": "die Materie",
+    "translation": "матерія",
+    "forms": "",
+    "examples": [
+      [
+        "Die Physik untersucht die Struktur der Materie.",
+        "Фізика досліджує структуру матерії."
+      ]
+    ]
+  },
+  {
+    "word": "konstruieren",
+    "full": "",
+    "translation": "конструювати",
+    "forms": "Perfekt: er hat konstruiert · Präteritum: er konstruierte",
+    "examples": [
+      [
+        "Der Ingenieur konstruiert eine Maschine.",
+        "Інженер конструює машину."
+      ]
+    ]
+  },
+  {
+    "word": "Interesse",
+    "full": "das Interesse, -n",
+    "translation": "інтерес",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma vertritt die Interessen ihrer Kunden.",
+        "Компанія представляє інтереси своїх клієнтів."
+      ]
+    ]
+  },
+  {
+    "word": "Land",
+    "full": "das Land, Länder",
+    "translation": "країна; земля",
+    "forms": "",
+    "examples": [
+      [
+        "Er vertritt die Interessen seines Landes.",
+        "Він представляє інтереси своєї країни."
+      ]
+    ]
+  },
+  {
+    "word": "verhandeln",
+    "full": "",
+    "translation": "вести переговори",
+    "forms": "Perfekt: er hat verhandelt · Präteritum: er verhandelte",
+    "examples": [
+      [
+        "Die Firmen verhandeln über den Preis.",
+        "Компанії ведуть переговори про ціну."
+      ]
+    ]
+  },
+  {
+    "word": "Plan",
+    "full": "der Plan, Pläne",
+    "translation": "план",
+    "forms": "",
+    "examples": [
+      [
+        "Wir müssen unseren Plan noch umsetzen.",
+        "Нам ще треба реалізувати наш план."
+      ]
+    ]
+  },
+  {
+    "word": "um*setzen",
+    "full": "",
+    "translation": "реалізовувати; втілювати",
+    "forms": "Perfekt: er hat umgesetzt · Präteritum: er setzte um",
+    "examples": [
+      [
+        "Wir setzen den neuen Plan nächste Woche um.",
+        "Наступного тижня ми реалізуємо новий план."
+      ]
+    ]
+  },
+  {
+    "word": "Olympische Spiele",
+    "full": "die Olympischen Spiele (Pl.)",
+    "translation": "Олімпійські ігри",
+    "forms": "",
+    "examples": [
+      [
+        "Sie nimmt an den Olympischen Spielen teil.",
+        "Вона бере участь в Олімпійських іграх."
+      ]
+    ]
+  },
+  {
+    "word": "Weltmeisterschaft",
+    "full": "die Weltmeisterschaft, -en",
+    "translation": "чемпіонат світу",
+    "forms": "",
+    "examples": [
+      [
+        "Die Mannschaft nimmt an der Weltmeisterschaft teil.",
+        "Команда бере участь у чемпіонаті світу."
+      ]
+    ]
+  },
+  {
+    "word": "Softwareprogramm",
+    "full": "das Softwareprogramm, -e",
+    "translation": "програмне забезпечення; програма",
+    "forms": "",
+    "examples": [
+      [
+        "Er entwickelt ein neues Softwareprogramm.",
+        "Він розробляє нову програму."
+      ]
+    ]
+  },
+  {
+    "word": "Computerspiel",
+    "full": "das Computerspiel, -e",
+    "translation": "комп'ютерна гра",
+    "forms": "",
+    "examples": [
+      [
+        "Dieses Computerspiel ist sehr beliebt.",
+        "Ця комп'ютерна гра дуже популярна."
+      ]
+    ]
+  },
+  {
+    "word": "neu",
+    "full": "",
+    "translation": "новий",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma entwickelt ein neues Produkt.",
+        "Компанія розробляє новий продукт."
+      ]
+    ]
+  },
+  {
+    "word": "recherchieren",
+    "full": "",
+    "translation": "шукати й перевіряти інформацію",
+    "forms": "Perfekt: er hat recherchiert · Präteritum: er recherchierte",
+    "examples": [
+      [
+        "Die Journalistin recherchiert für einen Artikel.",
+        "Журналістка збирає інформацію для статті."
+      ]
+    ]
+  },
+  {
+    "word": "Artikel",
+    "full": "der Artikel, -",
+    "translation": "стаття",
+    "forms": "",
+    "examples": [
+      [
+        "Die Journalistin schreibt einen Artikel.",
+        "Журналістка пише статтю."
+      ]
+    ]
+  },
+  {
+    "word": "Schüler",
+    "full": "der Schüler, -",
+    "translation": "учень",
+    "forms": "",
+    "examples": [
+      [
+        "Der Lehrer unterrichtet zwanzig Schüler.",
+        "Учитель навчає двадцять учнів."
+      ]
+    ]
+  },
+  {
+    "word": "Aufgabe",
+    "full": "die Aufgabe, -n",
+    "translation": "завдання; обов'язок",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Aufgabe gehört zu meiner Arbeit.",
+        "Це завдання належить до моєї роботи."
+      ]
+    ]
+  },
+  {
+    "word": "Wahl",
+    "full": "die Wahl, -en",
+    "translation": "вибори; вибір",
+    "forms": "",
+    "examples": [
+      [
+        "Nach der Wahl will die Partei ihre Pläne umsetzen.",
+        "Після виборів партія хоче реалізувати свої плани."
+      ]
+    ]
+  },
+  {
+    "word": "Reiseleiter",
+    "full": "der Reiseleiter, -",
+    "translation": "екскурсовод; керівник туристичної групи",
+    "forms": "",
+    "examples": [
+      [
+        "Der Reiseleiter spricht mehrere Sprachen.",
+        "Екскурсовод розмовляє кількома мовами."
+      ]
+    ]
+  },
+  {
+    "word": "Innenarchitektin",
+    "full": "die Innenarchitektin, -nen",
+    "translation": "дизайнерка інтер'єру",
+    "forms": "",
+    "examples": [
+      [
+        "Die Innenarchitektin plant moderne Büros.",
+        "Дизайнерка інтер'єру проєктує сучасні офіси."
+      ]
+    ]
+  },
+  {
+    "word": "Managerin",
+    "full": "die Managerin, -nen",
+    "translation": "менеджерка; керівниця",
+    "forms": "",
+    "examples": [
+      [
+        "Die Managerin betreut wichtige Kunden.",
+        "Менеджерка працює з важливими клієнтами."
+      ]
+    ]
+  },
+  {
+    "word": "Informatiker",
+    "full": "der Informatiker, -",
+    "translation": "інформатик; IT-фахівець",
+    "forms": "",
+    "examples": [
+      [
+        "Der Informatiker entwickelt neue Software.",
+        "IT-фахівець розробляє нове програмне забезпечення."
+      ]
+    ]
+  },
+  {
+    "word": "Computer",
+    "full": "der Computer, -",
+    "translation": "комп'ютер",
+    "forms": "",
+    "examples": [
+      [
+        "Ich arbeite jeden Tag am Computer.",
+        "Я щодня працюю за комп'ютером."
+      ]
+    ]
+  },
+  {
+    "word": "arbeiten",
+    "full": "",
+    "translation": "працювати",
+    "forms": "Perfekt: er hat gearbeitet · Präteritum: er arbeitete",
+    "examples": [
+      [
+        "Ich arbeite seit zwei Jahren in dieser Firma.",
+        "Я працюю в цій компанії вже два роки."
+      ]
+    ]
+  },
+  {
+    "word": "haben",
+    "full": "",
+    "translation": "мати",
+    "forms": "Perfekt: er hat gehabt · Präteritum: er hatte",
+    "examples": [
+      [
+        "Sie hat heute viel Arbeit.",
+        "Сьогодні в неї багато роботи."
+      ]
+    ]
+  },
+  {
+    "word": "brauchen",
+    "full": "",
+    "translation": "потребувати",
+    "forms": "Perfekt: er hat gebraucht · Präteritum: er brauchte",
+    "examples": [
+      [
+        "Für diese Stelle braucht man Erfahrung.",
+        "Для цієї посади потрібен досвід."
+      ]
+    ]
+  },
+  {
+    "word": "Kunde",
+    "full": "der Kunde, -n",
+    "translation": "клієнт; покупець",
+    "forms": "",
+    "examples": [
+      [
+        "Die Mitarbeiterin berät einen Kunden.",
+        "Працівниця консультує клієнта."
+      ]
+    ]
+  },
+  {
+    "word": "Rechnung",
+    "full": "die Rechnung, -en",
+    "translation": "рахунок",
+    "forms": "",
+    "examples": [
+      [
+        "Die Buchhalterin schreibt eine Rechnung.",
+        "Бухгалтерка виписує рахунок."
+      ]
+    ]
+  },
+  {
+    "word": "früh",
+    "full": "",
+    "translation": "рано; ранній",
+    "forms": "",
+    "examples": [
+      [
+        "Ich stehe jeden Tag früh auf.",
+        "Я щодня рано встаю."
+      ]
+    ]
+  },
+  {
+    "word": "Dienstreise",
+    "full": "die Dienstreise, -n",
+    "translation": "службове відрядження",
+    "forms": "",
+    "examples": [
+      [
+        "Nächste Woche mache ich eine Dienstreise.",
+        "Наступного тижня я їду у службове відрядження."
+      ]
+    ]
+  },
+  {
+    "word": "machen",
+    "full": "",
+    "translation": "робити",
+    "forms": "Perfekt: er hat gemacht · Präteritum: er machte",
+    "examples": [
+      [
+        "Er macht oft Dienstreisen.",
+        "Він часто їздить у службові відрядження."
+      ]
+    ]
+  },
+  {
+    "word": "Fähigkeit",
+    "full": "die Fähigkeit, -en",
+    "translation": "здібність; навичка",
+    "forms": "",
+    "examples": [
+      [
+        "Kommunikation ist eine wichtige Fähigkeit.",
+        "Комунікація є важливою навичкою."
+      ]
+    ]
+  },
+  {
+    "word": "gut",
+    "full": "",
+    "translation": "добрий; добре",
+    "forms": "",
+    "examples": [
+      [
+        "Gute Sprachkenntnisse sind für diese Stelle wichtig.",
+        "Для цієї посади важливе добре знання мов."
+      ]
+    ]
+  },
+  {
+    "word": "hoch",
+    "full": "",
+    "translation": "високий",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma zahlt ein hohes Gehalt.",
+        "Компанія платить високу зарплату."
+      ]
+    ]
+  },
+  {
+    "word": "niedrig",
+    "full": "",
+    "translation": "низький",
+    "forms": "",
+    "examples": [
+      [
+        "Die Preise sind hier relativ niedrig.",
+        "Ціни тут порівняно низькі."
+      ]
+    ]
+  },
+  {
+    "word": "Sprache",
+    "full": "die Sprache, -n",
+    "translation": "мова",
+    "forms": "",
+    "examples": [
+      [
+        "Sie spricht drei Sprachen.",
+        "Вона розмовляє трьома мовами."
+      ]
+    ]
+  },
+  {
+    "word": "um*gehen",
+    "full": "",
+    "translation": "поводитися; обходитися",
+    "forms": "Perfekt: er ist umgegangen · Präteritum: er ging um",
+    "examples": [
+      [
+        "Sie geht freundlich mit den Kunden um.",
+        "Вона привітно поводиться з клієнтами."
+      ]
+    ]
+  },
+  {
+    "word": "Sprachkenntnis",
+    "full": "die Sprachkenntnis, -se",
+    "translation": "знання мови",
+    "forms": "",
+    "examples": [
+      [
+        "Gute Sprachkenntnisse sind für diesen Beruf wichtig.",
+        "Для цієї професії важливе добре знання мов."
+      ]
+    ]
+  },
+  {
+    "word": "Organisationstalent",
+    "full": "das Organisationstalent, -e",
+    "translation": "організаторські здібності",
+    "forms": "",
+    "examples": [
+      [
+        "Für diese Stelle braucht man Organisationstalent.",
+        "Для цієї посади потрібні організаторські здібності."
+      ]
+    ]
+  },
+  {
+    "word": "Menschenkenntnis",
+    "full": "die Menschenkenntnis, -se",
+    "translation": "знання людей; уміння розбиратися в людях",
+    "forms": "",
+    "examples": [
+      [
+        "Eine Managerin braucht gute Menschenkenntnis.",
+        "Менеджерці треба добре розбиратися в людях."
+      ]
+    ]
+  },
+  {
+    "word": "Nerv",
+    "full": "der Nerv, -en",
+    "translation": "нерв",
+    "forms": "",
+    "examples": [
+      [
+        "In diesem Beruf braucht man gute Nerven.",
+        "У цій професії потрібні міцні нерви."
+      ]
+    ]
+  },
+  {
+    "word": "Computerkenntnis",
+    "full": "die Computerkenntnis, -se",
+    "translation": "знання комп'ютера",
+    "forms": "",
+    "examples": [
+      [
+        "Für die Büroarbeit braucht man Computerkenntnisse.",
+        "Для офісної роботи потрібні знання комп'ютера."
+      ]
+    ]
+  },
+  {
+    "word": "zuverlässig",
+    "full": "",
+    "translation": "надійний",
+    "forms": "",
+    "examples": [
+      [
+        "Unsere neue Kollegin ist sehr zuverlässig.",
+        "Наша нова колега дуже надійна."
+      ]
+    ]
+  },
+  {
+    "word": "kommunikativ",
+    "full": "",
+    "translation": "комунікабельний",
+    "forms": "",
+    "examples": [
+      [
+        "Für diesen Beruf muss man kommunikativ sein.",
+        "Для цієї професії треба бути комунікабельним."
+      ]
+    ]
+  },
+  {
+    "word": "kontaktfreudig",
+    "full": "",
+    "translation": "товариський; відкритий до спілкування",
+    "forms": "",
+    "examples": [
+      [
+        "Der Reiseleiter ist freundlich und kontaktfreudig.",
+        "Екскурсовод привітний і товариський."
+      ]
+    ]
+  },
+  {
+    "word": "autoritär",
+    "full": "",
+    "translation": "авторитарний",
+    "forms": "",
+    "examples": [
+      [
+        "Der Chef wirkt manchmal sehr autoritär.",
+        "Керівник іноді поводиться дуже авторитарно."
+      ]
+    ]
+  },
+  {
+    "word": "gewissenhaft",
+    "full": "",
+    "translation": "сумлінний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie erledigt ihre Aufgaben sehr gewissenhaft.",
+        "Вона виконує свої завдання дуже сумлінно."
+      ]
+    ]
+  },
+  {
+    "word": "pünktlich",
+    "full": "",
+    "translation": "пунктуальний; вчасно",
+    "forms": "",
+    "examples": [
+      [
+        "Bitte kommen Sie pünktlich zum Termin.",
+        "Будь ласка, прийдіть на зустріч вчасно."
+      ]
+    ]
+  },
+  {
+    "word": "konsequent",
+    "full": "",
+    "translation": "послідовний",
+    "forms": "",
+    "examples": [
+      [
+        "Die Managerin handelt ruhig und konsequent.",
+        "Керівниця діє спокійно й послідовно."
+      ]
+    ]
+  },
+  {
+    "word": "attraktiv",
+    "full": "",
+    "translation": "привабливий",
+    "forms": "",
+    "examples": [
+      [
+        "Die Stelle bietet attraktive Arbeitsbedingungen.",
+        "Посада пропонує привабливі умови праці."
+      ]
+    ]
+  },
+  {
+    "word": "lernfähig",
+    "full": "",
+    "translation": "здатний до навчання",
+    "forms": "",
+    "examples": [
+      [
+        "Neue Mitarbeiter sollten flexibel und lernfähig sein.",
+        "Нові працівники мають бути гнучкими та здатними до навчання."
+      ]
+    ]
+  },
+  {
+    "word": "überzeugend",
+    "full": "",
+    "translation": "переконливий",
+    "forms": "",
+    "examples": [
+      [
+        "Seine Präsentation war kurz und überzeugend.",
+        "Його презентація була короткою й переконливою."
+      ]
+    ]
+  },
+  {
+    "word": "gestern",
+    "full": "",
+    "translation": "учора",
+    "forms": "",
+    "examples": [
+      [
+        "Gestern hatte ich ein Vorstellungsgespräch.",
+        "Учора в мене була співбесіда."
+      ]
+    ]
+  },
+  {
+    "word": "vorhin",
+    "full": "",
+    "translation": "щойно; трохи раніше",
+    "forms": "",
+    "examples": [
+      [
+        "Frau Klein hat vorhin angerufen.",
+        "Пані Кляйн щойно телефонувала."
+      ]
+    ]
+  },
+  {
+    "word": "heute",
+    "full": "",
+    "translation": "сьогодні",
+    "forms": "",
+    "examples": [
+      [
+        "Heute arbeite ich von zu Hause.",
+        "Сьогодні я працюю з дому."
+      ]
+    ]
+  },
+  {
+    "word": "morgen",
+    "full": "",
+    "translation": "завтра",
+    "forms": "",
+    "examples": [
+      [
+        "Morgen beginnt mein neuer Kurs.",
+        "Завтра починається мій новий курс."
+      ]
+    ]
+  },
+  {
+    "word": "früher",
+    "full": "",
+    "translation": "раніше; колись",
+    "forms": "",
+    "examples": [
+      [
+        "Früher arbeitete er als Lehrer.",
+        "Раніше він працював учителем."
+      ]
+    ]
+  },
+  {
+    "word": "damals",
+    "full": "",
+    "translation": "тоді; у ті часи",
+    "forms": "",
+    "examples": [
+      [
+        "Damals wohnte ich noch in Hamburg.",
+        "Тоді я ще жив у Гамбурзі."
+      ]
+    ]
+  },
+  {
+    "word": "bald",
+    "full": "",
+    "translation": "незабаром",
+    "forms": "",
+    "examples": [
+      [
+        "Wir sehen uns bald wieder.",
+        "Незабаром ми знову побачимося."
+      ]
+    ]
+  },
+  {
+    "word": "momentan",
+    "full": "",
+    "translation": "зараз; наразі",
+    "forms": "",
+    "examples": [
+      [
+        "Momentan habe ich sehr viel Arbeit.",
+        "Зараз у мене дуже багато роботи."
+      ]
+    ]
+  },
+  {
+    "word": "demnächst",
+    "full": "",
+    "translation": "найближчим часом",
+    "forms": "",
+    "examples": [
+      [
+        "Die Ausstellung wird demnächst eröffnet.",
+        "Виставку відкриють найближчим часом."
+      ]
+    ]
+  },
+  {
+    "word": "heutzutage",
+    "full": "",
+    "translation": "нині; у наш час",
+    "forms": "",
+    "examples": [
+      [
+        "Heutzutage arbeiten viele Menschen online.",
+        "Нині багато людей працюють онлайн."
+      ]
+    ]
+  },
+  {
+    "word": "jetzt",
+    "full": "",
+    "translation": "зараз",
+    "forms": "",
+    "examples": [
+      [
+        "Ich muss jetzt zum Termin gehen.",
+        "Мені зараз треба йти на зустріч."
+      ]
+    ]
+  },
+  {
+    "word": "nun",
+    "full": "",
+    "translation": "тепер",
+    "forms": "",
+    "examples": [
+      [
+        "Nun können wir mit der Arbeit beginnen.",
+        "Тепер ми можемо почати роботу."
+      ]
+    ]
+  },
+  {
+    "word": "künftig",
+    "full": "",
+    "translation": "надалі; у майбутньому",
+    "forms": "",
+    "examples": [
+      [
+        "Künftig möchte sie weniger Überstunden machen.",
+        "Надалі вона хоче менше працювати понаднормово."
+      ]
+    ]
+  },
+  {
+    "word": "gegenwärtig",
+    "full": "",
+    "translation": "нині; наразі",
+    "forms": "",
+    "examples": [
+      [
+        "Das Museum ist gegenwärtig geschlossen.",
+        "Музей наразі зачинений."
+      ]
+    ]
+  },
+  {
+    "word": "nachher",
+    "full": "",
+    "translation": "потім; пізніше",
+    "forms": "",
+    "examples": [
+      [
+        "Ich rufe dich nachher zurück.",
+        "Я передзвоню тобі пізніше."
+      ]
+    ]
+  },
+  {
+    "word": "später",
+    "full": "",
+    "translation": "пізніше",
+    "forms": "",
+    "examples": [
+      [
+        "Wir sprechen später über das Problem.",
+        "Ми поговоримо про проблему пізніше."
+      ]
+    ]
+  },
+  {
+    "word": "neulich",
+    "full": "",
+    "translation": "нещодавно",
+    "forms": "",
+    "examples": [
+      [
+        "Neulich habe ich einen interessanten Artikel gelesen.",
+        "Нещодавно я прочитав цікаву статтю."
+      ]
+    ]
+  },
+  {
+    "word": "kürzlich",
+    "full": "",
+    "translation": "нещодавно",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma hat kürzlich ein neues Büro eröffnet.",
+        "Компанія нещодавно відкрила новий офіс."
+      ]
+    ]
+  },
+  {
+    "word": "gleich",
+    "full": "",
+    "translation": "зараз; одразу",
+    "forms": "",
+    "examples": [
+      [
+        "Ich komme gleich zurück.",
+        "Я зараз повернуся."
+      ]
+    ]
+  },
+  {
+    "word": "sofort",
+    "full": "",
+    "translation": "негайно",
+    "forms": "",
+    "examples": [
+      [
+        "Bitte schicken Sie mir die Rechnung sofort.",
+        "Будь ласка, надішліть мені рахунок негайно."
+      ]
+    ]
+  },
+  {
+    "word": "einst",
+    "full": "",
+    "translation": "колись",
+    "forms": "",
+    "examples": [
+      [
+        "Einst war dieses Gebäude eine Fabrik.",
+        "Колись ця будівля була фабрикою."
+      ]
+    ]
+  },
+  {
+    "word": "Arbeitsbedingung",
+    "full": "die Arbeitsbedingung, -en",
+    "translation": "умова праці",
+    "forms": "",
+    "examples": [
+      [
+        "Flexible Arbeitszeiten sind gute Arbeitsbedingungen.",
+        "Гнучкий графік є хорошою умовою праці."
+      ]
+    ]
+  },
+  {
+    "word": "viel",
+    "full": "",
+    "translation": "багато",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat heute viel Arbeit.",
+        "Сьогодні в неї багато роботи."
+      ]
+    ]
+  },
+  {
+    "word": "wenig",
+    "full": "",
+    "translation": "мало",
+    "forms": "",
+    "examples": [
+      [
+        "In diesem Monat habe ich wenig Freizeit.",
+        "Цього місяця в мене мало вільного часу."
+      ]
+    ]
+  },
+  {
+    "word": "Geld",
+    "full": "das Geld, Gelder",
+    "translation": "гроші",
+    "forms": "",
+    "examples": [
+      [
+        "Er verdient genug Geld.",
+        "Він заробляє достатньо грошей."
+      ]
+    ]
+  },
+  {
+    "word": "flexibel",
+    "full": "",
+    "translation": "гнучкий",
+    "forms": "",
+    "examples": [
+      [
+        "Meine Arbeitszeit ist flexibel.",
+        "Мій робочий час гнучкий."
+      ]
+    ]
+  },
+  {
+    "word": "fest",
+    "full": "",
+    "translation": "постійний; фіксований",
+    "forms": "",
+    "examples": [
+      [
+        "Er hat eine feste Arbeitszeit.",
+        "Він має фіксований робочий час."
+      ]
+    ]
+  },
+  {
+    "word": "Arbeitszeit",
+    "full": "die Arbeitszeit, -en",
+    "translation": "робочий час",
+    "forms": "",
+    "examples": [
+      [
+        "Meine Arbeitszeit beginnt um acht Uhr.",
+        "Мій робочий час починається о восьмій."
+      ]
+    ]
+  },
+  {
+    "word": "selbstständig",
+    "full": "",
+    "translation": "самостійний; самозайнятий",
+    "forms": "",
+    "examples": [
+      [
+        "Sie arbeitet selbstständig als Designerin.",
+        "Вона працює як самозайнята дизайнерка."
+      ]
+    ]
+  },
+  {
+    "word": "unbefristet",
+    "full": "",
+    "translation": "безстроковий",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat einen unbefristeten Arbeitsvertrag.",
+        "Вона має безстроковий трудовий договір."
+      ]
+    ]
+  },
+  {
+    "word": "befristet",
+    "full": "",
+    "translation": "строковий; обмежений у часі",
+    "forms": "",
+    "examples": [
+      [
+        "Sein Vertrag ist auf ein Jahr befristet.",
+        "Його договір укладено на один рік."
+      ]
+    ]
+  },
+  {
+    "word": "Arbeitsvertrag",
+    "full": "der Arbeitsvertrag, Arbeitsverträge",
+    "translation": "трудовий договір",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat einen unbefristeten Arbeitsvertrag.",
+        "Вона має безстроковий трудовий договір."
+      ]
+    ]
+  },
+  {
+    "word": "Überstunde",
+    "full": "die Überstunde, -n",
+    "translation": "понаднормова година",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Woche muss ich Überstunden machen.",
+        "Цього тижня я мушу працювати понаднормово."
+      ]
+    ]
+  },
+  {
+    "word": "Karrieremöglichkeit",
+    "full": "die Karrieremöglichkeit, -en",
+    "translation": "можливість кар'єрного зростання",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma bietet gute Karrieremöglichkeiten.",
+        "Компанія пропонує хороші можливості кар'єрного зростання."
+      ]
+    ]
+  },
+  {
+    "word": "abwechslungsreich",
+    "full": "",
+    "translation": "різноманітний",
+    "forms": "",
+    "examples": [
+      [
+        "Die Arbeit ist interessant und abwechslungsreich.",
+        "Робота цікава й різноманітна."
+      ]
+    ]
+  },
+  {
+    "word": "Arbeit",
+    "full": "die Arbeit, -en",
+    "translation": "робота; праця",
+    "forms": "",
+    "examples": [
+      [
+        "Ich suche eine abwechslungsreiche Arbeit.",
+        "Я шукаю різноманітну роботу."
+      ]
+    ]
+  },
+  {
+    "word": "Arbeitgeber",
+    "full": "der Arbeitgeber, -",
+    "translation": "роботодавець",
+    "forms": "",
+    "examples": [
+      [
+        "Der Arbeitgeber erlaubt flexible Arbeitszeiten.",
+        "Роботодавець дозволяє гнучкий графік."
+      ]
+    ]
+  },
+  {
+    "word": "erlauben",
+    "full": "",
+    "translation": "дозволяти",
+    "forms": "Perfekt: er hat erlaubt · Präteritum: er erlaubte",
+    "examples": [
+      [
+        "Der Arbeitgeber erlaubt flexible Arbeitszeiten.",
+        "Роботодавець дозволяє гнучкий графік."
+      ]
+    ]
+  },
+  {
+    "word": "privat",
+    "full": "",
+    "translation": "приватний; особистий",
+    "forms": "",
+    "examples": [
+      [
+        "Die private Nutzung des Internets ist erlaubt.",
+        "Приватне користування інтернетом дозволене."
+      ]
+    ]
+  },
+  {
+    "word": "Nutzung",
+    "full": "die Nutzung, -en",
+    "translation": "використання",
+    "forms": "",
+    "examples": [
+      [
+        "Die private Nutzung des Internets ist erlaubt.",
+        "Приватне використання інтернету дозволене."
+      ]
+    ]
+  },
+  {
+    "word": "Internet",
+    "full": "das Internet",
+    "translation": "інтернет",
+    "forms": "",
+    "examples": [
+      [
+        "Im Büro nutzen wir oft das Internet.",
+        "В офісі ми часто користуємося інтернетом."
+      ]
+    ]
+  },
+  {
+    "word": "E-Mail",
+    "full": "die E-Mail, -s",
+    "translation": "електронний лист",
+    "forms": "",
+    "examples": [
+      [
+        "Ich schreibe dem Kunden eine E-Mail.",
+        "Я пишу клієнтові електронного листа."
+      ]
+    ]
+  },
+  {
+    "word": "Kontakt",
+    "full": "der Kontakt, -e",
+    "translation": "контакт; зв'язок",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat täglich Kontakt mit Kunden.",
+        "Вона щодня контактує з клієнтами."
+      ]
+    ]
+  },
+  {
+    "word": "Umgangsform",
+    "full": "die Umgangsform, -en",
+    "translation": "форма поведінки; манера спілкування",
+    "forms": "",
+    "examples": [
+      [
+        "Höfliche Umgangsformen sind im Beruf wichtig.",
+        "Ввічливі манери важливі на роботі."
+      ]
+    ]
+  },
+  {
+    "word": "Büro",
+    "full": "das Büro, -s",
+    "translation": "офіс",
+    "forms": "",
+    "examples": [
+      [
+        "Unser Büro liegt im zweiten Stock.",
+        "Наш офіс розташований на другому поверсі."
+      ]
+    ]
+  },
+  {
+    "word": "Telefon",
+    "full": "das Telefon, -e",
+    "translation": "телефон",
+    "forms": "",
+    "examples": [
+      [
+        "Am Telefon spreche ich langsam und deutlich.",
+        "Телефоном я говорю повільно й чітко."
+      ]
+    ]
+  },
+  {
+    "word": "zurück*rufen",
+    "full": "",
+    "translation": "передзвонювати",
+    "forms": "Perfekt: er hat zurückgerufen · Präteritum: er rief zurück",
+    "examples": [
+      [
+        "Ich rufe Sie am Nachmittag zurück.",
+        "Я передзвоню вам після обіду."
+      ]
+    ]
+  },
+  {
+    "word": "telefonieren",
+    "full": "",
+    "translation": "телефонувати; розмовляти телефоном",
+    "forms": "Perfekt: er hat telefoniert · Präteritum: er telefonierte",
+    "examples": [
+      [
+        "Sie telefoniert gerade mit einem Kunden.",
+        "Вона зараз розмовляє телефоном із клієнтом."
+      ]
+    ]
+  },
+  {
+    "word": "Telefongespräch",
+    "full": "das Telefongespräch, -e",
+    "translation": "телефонна розмова",
+    "forms": "",
+    "examples": [
+      [
+        "Sie führt gerade ein Telefongespräch.",
+        "Вона зараз веде телефонну розмову."
+      ]
+    ]
+  },
+  {
+    "word": "Name",
+    "full": "der Name, -n",
+    "translation": "ім'я; назва",
+    "forms": "",
+    "examples": [
+      [
+        "Können Sie bitte Ihren Namen nennen?",
+        "Назвіть, будь ласка, своє ім'я."
+      ]
+    ]
+  },
+  {
+    "word": "Nachricht",
+    "full": "die Nachricht, -en",
+    "translation": "повідомлення; новина",
+    "forms": "",
+    "examples": [
+      [
+        "Ich hinterlasse Ihnen eine Nachricht.",
+        "Я залишу вам повідомлення."
+      ]
+    ]
+  },
+  {
+    "word": "hinterlassen",
+    "full": "",
+    "translation": "залишати",
+    "forms": "Perfekt: er hat hinterlassen · Präteritum: er hinterließ",
+    "examples": [
+      [
+        "Möchten Sie eine Nachricht hinterlassen?",
+        "Бажаєте залишити повідомлення?"
+      ]
+    ]
+  },
+  {
+    "word": "aus*richten",
+    "full": "",
+    "translation": "передавати повідомлення",
+    "forms": "Perfekt: er hat ausgerichtet · Präteritum: er richtete aus",
+    "examples": [
+      [
+        "Ich richte Herrn Weber Ihre Nachricht aus.",
+        "Я передам панові Веберу ваше повідомлення."
+      ]
+    ]
+  },
+  {
+    "word": "Termin",
+    "full": "der Termin, -e",
+    "translation": "зустріч; призначений час",
+    "forms": "",
+    "examples": [
+      [
+        "Wir haben morgen einen Termin.",
+        "Завтра в нас призначена зустріч."
+      ]
+    ]
+  },
+  {
+    "word": "verschieben",
+    "full": "",
+    "translation": "переносити; відкладати",
+    "forms": "Perfekt: er hat verschoben · Präteritum: er verschob",
+    "examples": [
+      [
+        "Wir müssen den Termin auf Montag verschieben.",
+        "Ми мусимо перенести зустріч на понеділок."
+      ]
+    ]
+  },
+  {
+    "word": "ab*sagen",
+    "full": "",
+    "translation": "скасовувати; відмовляти",
+    "forms": "Perfekt: er hat abgesagt · Präteritum: er sagte ab",
+    "examples": [
+      [
+        "Sie sagt den Termin wegen Krankheit ab.",
+        "Вона скасовує зустріч через хворобу."
+      ]
+    ]
+  },
+  {
+    "word": "Terminvorschlag",
+    "full": "der Terminvorschlag, Terminvorschläge",
+    "translation": "пропозиція часу зустрічі",
+    "forms": "",
+    "examples": [
+      [
+        "Der Kunde macht einen neuen Terminvorschlag.",
+        "Клієнт пропонує новий час зустрічі."
+      ]
+    ]
+  },
+  {
+    "word": "Benehmen",
+    "full": "das Benehmen",
+    "translation": "поведінка; манери",
+    "forms": "",
+    "examples": [
+      [
+        "Gutes Benehmen ist im Geschäftsleben wichtig.",
+        "Гарні манери важливі в діловому житті."
+      ]
+    ]
+  },
+  {
+    "word": "wichtig",
+    "full": "",
+    "translation": "важливий",
+    "forms": "",
+    "examples": [
+      [
+        "Pünktlichkeit ist im Berufsleben wichtig.",
+        "Пунктуальність важлива у професійному житті."
+      ]
+    ]
+  },
+  {
+    "word": "Pünktlichkeit",
+    "full": "die Pünktlichkeit",
+    "translation": "пунктуальність",
+    "forms": "",
+    "examples": [
+      [
+        "Pünktlichkeit ist bei uns sehr wichtig.",
+        "Пунктуальність у нас дуже важлива."
+      ]
+    ]
+  },
+  {
+    "word": "Höflichkeit",
+    "full": "die Höflichkeit",
+    "translation": "ввічливість",
+    "forms": "",
+    "examples": [
+      [
+        "Höflichkeit gehört zu gutem Benehmen.",
+        "Ввічливість належить до гарних манер."
+      ]
+    ]
+  },
+  {
+    "word": "König",
+    "full": "der König, -e",
+    "translation": "король",
+    "forms": "",
+    "examples": [
+      [
+        "Pünktlichkeit ist die Höflichkeit der Könige.",
+        "Пунктуальність є ввічливістю королів."
+      ]
+    ]
+  },
+  {
+    "word": "Begrüßung",
+    "full": "die Begrüßung, -en",
+    "translation": "привітання",
+    "forms": "",
+    "examples": [
+      [
+        "Zur Begrüßung geben wir uns die Hand.",
+        "Під час привітання ми тиснемо одне одному руки."
+      ]
+    ]
+  },
+  {
+    "word": "Hand",
+    "full": "die Hand, Hände",
+    "translation": "рука; кисть",
+    "forms": "",
+    "examples": [
+      [
+        "Er gibt mir zur Begrüßung die Hand.",
+        "Він подає мені руку на знак привітання."
+      ]
+    ]
+  },
+  {
+    "word": "Handschlag",
+    "full": "der Handschlag, Handschläge",
+    "translation": "рукостискання",
+    "forms": "",
+    "examples": [
+      [
+        "Die Begrüßung erfolgt mit einem Handschlag.",
+        "Привітання відбувається рукостисканням."
+      ]
+    ]
+  },
+  {
+    "word": "formell",
+    "full": "",
+    "translation": "формальний",
+    "forms": "",
+    "examples": [
+      [
+        "Der Brief ist in einem formellen Stil geschrieben.",
+        "Лист написаний у формальному стилі."
+      ]
+    ]
+  },
+  {
+    "word": "informell",
+    "full": "",
+    "translation": "неформальний",
+    "forms": "",
+    "examples": [
+      [
+        "Unter Kollegen ist der Umgang oft informell.",
+        "Серед колег спілкування часто неформальне."
+      ]
+    ]
+  },
+  {
+    "word": "tragen",
+    "full": "",
+    "translation": "носити; нести",
+    "forms": "Perfekt: er hat getragen · Präteritum: er trug",
+    "examples": [
+      [
+        "Im Büro trägt er einen Anzug.",
+        "В офісі він носить костюм."
+      ]
+    ]
+  },
+  {
+    "word": "duzen",
+    "full": "",
+    "translation": "звертатися на «ти»",
+    "forms": "Perfekt: er hat geduzt · Präteritum: er duzte",
+    "examples": [
+      [
+        "In unserer Firma duzen sich alle.",
+        "У нашій компанії всі звертаються одне до одного на «ти»."
+      ]
+    ]
+  },
+  {
+    "word": "siezen",
+    "full": "",
+    "translation": "звертатися на «Ви»",
+    "forms": "Perfekt: er hat gesiezt · Präteritum: er siezte",
+    "examples": [
+      [
+        "Unbekannte Kunden sollte man zuerst siezen.",
+        "До незнайомих клієнтів спершу слід звертатися на «Ви»."
+      ]
+    ]
+  },
+  {
+    "word": "Visitenkarte",
+    "full": "die Visitenkarte, -n",
+    "translation": "візитівка",
+    "forms": "",
+    "examples": [
+      [
+        "Sie überreicht dem Kunden ihre Visitenkarte.",
+        "Вона передає клієнтові свою візитівку."
+      ]
+    ]
+  },
+  {
+    "word": "überreichen",
+    "full": "",
+    "translation": "вручати; передавати",
+    "forms": "Perfekt: er hat überreicht · Präteritum: er überreichte",
+    "examples": [
+      [
+        "Sie überreicht dem Gast ihre Visitenkarte.",
+        "Вона вручає гостеві свою візитівку."
+      ]
+    ]
+  },
+  {
+    "word": "Restaurant",
+    "full": "das Restaurant, -s",
+    "translation": "ресторан",
+    "forms": "",
+    "examples": [
+      [
+        "Im Restaurant geben wir Trinkgeld.",
+        "У ресторані ми залишаємо чайові."
+      ]
+    ]
+  },
+  {
+    "word": "Trinkgeld",
+    "full": "das Trinkgeld, Trinkgelder",
+    "translation": "чайові",
+    "forms": "",
+    "examples": [
+      [
+        "Der Kellner bekommt fünf Euro Trinkgeld.",
+        "Офіціант отримує п'ять євро чайових."
+      ]
+    ]
+  },
+  {
+    "word": "Gesprächsthema",
+    "full": "das Gesprächsthema, Gesprächsthemen",
+    "translation": "тема розмови",
+    "forms": "",
+    "examples": [
+      [
+        "Politik ist manchmal ein schwieriges Gesprächsthema.",
+        "Політика іноді є складною темою для розмови."
+      ]
+    ]
+  },
+  {
+    "word": "Politik",
+    "full": "die Politik",
+    "translation": "політика",
+    "forms": "",
+    "examples": [
+      [
+        "Beim Essen meiden sie das Thema Politik.",
+        "За їжею вони уникають теми політики."
+      ]
+    ]
+  },
+  {
+    "word": "meiden",
+    "full": "",
+    "translation": "уникати",
+    "forms": "Perfekt: er hat gemieden · Präteritum: er mied",
+    "examples": [
+      [
+        "Beim Geschäftsessen meidet er das Thema Politik.",
+        "Під час ділової вечері він уникає теми політики."
+      ]
+    ]
+  },
+  {
+    "word": "Geschäftsleben",
+    "full": "das Geschäftsleben",
+    "translation": "ділове життя",
+    "forms": "",
+    "examples": [
+      [
+        "Gute Kontakte sind im Geschäftsleben wichtig.",
+        "Хороші контакти важливі в діловому житті."
+      ]
+    ]
+  },
+  {
+    "word": "empfinden",
+    "full": "",
+    "translation": "відчувати; сприймати",
+    "forms": "Perfekt: er hat empfunden · Präteritum: er empfand",
+    "examples": [
+      [
+        "Viele Menschen empfinden das Bild als traurig.",
+        "Багато людей сприймають цю картину як сумну."
+      ]
+    ]
+  },
+  {
+    "word": "leihen",
+    "full": "",
+    "translation": "позичати",
+    "forms": "Perfekt: er hat geliehen · Präteritum: er lieh",
+    "examples": [
+      [
+        "Kannst du mir dein Wörterbuch leihen?",
+        "Можеш позичити мені свій словник?"
+      ]
+    ]
+  },
+  {
+    "word": "werden",
+    "full": "",
+    "translation": "ставати",
+    "forms": "Perfekt: er ist geworden · Präteritum: er wurde",
+    "examples": [
+      [
+        "Das Werk wurde schnell berühmt.",
+        "Твір швидко став відомим."
+      ]
+    ]
+  },
+  {
+    "word": "ausgeschlafen",
+    "full": "",
+    "translation": "добре виспаний",
+    "forms": "",
+    "examples": [
+      [
+        "Nach acht Stunden Schlaf bin ich ausgeschlafen.",
+        "Після восьми годин сну я добре виспався."
+      ]
+    ]
+  },
+  {
+    "word": "Zeichen",
+    "full": "das Zeichen, -",
+    "translation": "знак; ознака",
+    "forms": "",
+    "examples": [
+      [
+        "Das ist ein Zeichen für seinen Erfolg.",
+        "Це ознака його успіху."
+      ]
+    ]
+  },
+  {
+    "word": "Wortschatz",
+    "full": "der Wortschatz, Wortschätze",
+    "translation": "словниковий запас",
+    "forms": "",
+    "examples": [
+      [
+        "Lesen erweitert den Wortschatz.",
+        "Читання розширює словниковий запас."
+      ]
+    ]
+  },
+  {
+    "word": "nirgendwo",
+    "full": "",
+    "translation": "ніде",
+    "forms": "",
+    "examples": [
+      [
+        "Ich kann meine Visitenkarte nirgendwo finden.",
+        "Я ніде не можу знайти свою візитівку."
+      ]
+    ]
+  },
+  {
+    "word": "dazu*zählen",
+    "full": "",
+    "translation": "зараховувати до; додавати до переліку",
+    "forms": "Perfekt: er hat dazugezählt · Präteritum: er zählte dazu",
+    "examples": [
+      [
+        "Ich zähle auch Pünktlichkeit dazu.",
+        "Я також зараховую сюди пунктуальність."
+      ]
+    ]
+  },
+  {
+    "word": "dazu*gehören",
+    "full": "",
+    "translation": "належати до цього; бути складовою",
+    "forms": "Perfekt: er hat dazugehört · Präteritum: er gehörte dazu",
+    "examples": [
+      [
+        "Gute Vorbereitung gehört für mich dazu.",
+        "Для мене добра підготовка є невіддільною складовою."
+      ]
+    ]
+  },
+  {
+    "word": "fest*stellen",
+    "full": "",
+    "translation": "встановлювати; констатувати",
+    "forms": "Perfekt: er hat festgestellt · Präteritum: er stellte fest",
+    "examples": [
+      [
+        "Die Firma stellt einen höheren Umsatz fest.",
+        "Компанія констатує вищий оборот."
+      ]
+    ]
+  },
+  {
+    "word": "Erfolg",
+    "full": "der Erfolg, -e",
+    "translation": "успіх",
+    "forms": "",
+    "examples": [
+      [
+        "Das Projekt war ein großer Erfolg.",
+        "Проєкт мав великий успіх."
+      ]
+    ]
+  },
+  {
+    "word": "Zeitgenosse",
+    "full": "der Zeitgenosse, -n",
+    "translation": "сучасник",
+    "forms": "",
+    "examples": [
+      [
+        "Der Künstler war ein Zeitgenosse Goethes.",
+        "Митець був сучасником Ґете."
+      ]
+    ]
+  },
+  {
+    "word": "Kunst",
+    "full": "die Kunst, Künste",
+    "translation": "мистецтво",
+    "forms": "",
+    "examples": [
+      [
+        "Sie interessiert sich für moderne Kunst.",
+        "Вона цікавиться сучасним мистецтвом."
+      ]
+    ]
+  },
+  {
+    "word": "Künstler",
+    "full": "der Künstler, -",
+    "translation": "митець; художник",
+    "forms": "",
+    "examples": [
+      [
+        "Der Künstler eröffnet heute seine Ausstellung.",
+        "Митець сьогодні відкриває свою виставку."
+      ]
+    ]
+  },
+  {
+    "word": "mitten",
+    "full": "",
+    "translation": "посеред",
+    "forms": "",
+    "examples": [
+      [
+        "Das Haus steht mitten im Wald.",
+        "Будинок стоїть посеред лісу."
+      ]
+    ]
+  },
+  {
+    "word": "Wald",
+    "full": "der Wald, Wälder",
+    "translation": "ліс",
+    "forms": "",
+    "examples": [
+      [
+        "Wir wandern mitten im Wald.",
+        "Ми йдемо пішки посеред лісу."
+      ]
+    ]
+  },
+  {
+    "word": "Umsatz",
+    "full": "der Umsatz, Umsätze",
+    "translation": "оборот; виторг",
+    "forms": "",
+    "examples": [
+      [
+        "Der Umsatz der Firma steigt.",
+        "Оборот компанії зростає."
+      ]
+    ]
+  },
+  {
+    "word": "verkaufen",
+    "full": "",
+    "translation": "продавати",
+    "forms": "Perfekt: er hat verkauft · Präteritum: er verkaufte",
+    "examples": [
+      [
+        "Der Künstler verkauft sein neues Werk.",
+        "Митець продає свій новий твір."
+      ]
+    ]
+  },
+  {
+    "word": "Hai",
+    "full": "der Hai, -e",
+    "translation": "акула",
+    "forms": "",
+    "examples": [
+      [
+        "Ein Hai schwimmt im Meer.",
+        "Акула плаває в морі."
+      ]
+    ]
+  },
+  {
+    "word": "Werk",
+    "full": "das Werk, -e",
+    "translation": "твір; робота",
+    "forms": "",
+    "examples": [
+      [
+        "Dieses Werk machte den Künstler berühmt.",
+        "Цей твір зробив митця відомим."
+      ]
+    ]
+  },
+  {
+    "word": "erzielen",
+    "full": "",
+    "translation": "досягати; отримувати",
+    "forms": "Perfekt: er hat erzielt · Präteritum: er erzielte",
+    "examples": [
+      [
+        "Das Bild erzielte einen hohen Preis.",
+        "Картина була продана за високу ціну."
+      ]
+    ]
+  },
+  {
+    "word": "allerdings",
+    "full": "",
+    "translation": "щоправда; однак",
+    "forms": "",
+    "examples": [
+      [
+        "Das Bild ist schön, allerdings sehr teuer.",
+        "Картина гарна, щоправда, дуже дорога."
+      ]
+    ]
+  },
+  {
+    "word": "echt",
+    "full": "",
+    "translation": "справжній; справді",
+    "forms": "",
+    "examples": [
+      [
+        "Ist das ein echter Picasso?",
+        "Це справжній Пікассо?"
+      ]
+    ]
+  },
+  {
+    "word": "Bild",
+    "full": "das Bild, -er",
+    "translation": "картина; зображення",
+    "forms": "",
+    "examples": [
+      [
+        "Das Bild hängt im Museum.",
+        "Картина висить у музеї."
+      ]
+    ]
+  },
+  {
+    "word": "einsam",
+    "full": "",
+    "translation": "самотній",
+    "forms": "",
+    "examples": [
+      [
+        "Auf dem Bild wirkt die Person sehr einsam.",
+        "На картині людина виглядає дуже самотньою."
+      ]
+    ]
+  },
+  {
+    "word": "Gefühl",
+    "full": "das Gefühl, -e",
+    "translation": "почуття; відчуття",
+    "forms": "",
+    "examples": [
+      [
+        "Das Bild weckt ein starkes Gefühl.",
+        "Картина викликає сильне почуття."
+      ]
+    ]
+  },
+  {
+    "word": "Nachfrage",
+    "full": "die Nachfrage, -n",
+    "translation": "попит; запит",
+    "forms": "",
+    "examples": [
+      [
+        "Die Nachfrage nach dem Produkt steigt.",
+        "Попит на товар зростає."
+      ]
+    ]
+  },
+  {
+    "word": "erobern",
+    "full": "",
+    "translation": "завойовувати; підкорювати",
+    "forms": "Perfekt: er hat erobert · Präteritum: er eroberte",
+    "examples": [
+      [
+        "Seine Bilder eroberten den internationalen Markt.",
+        "Його картини підкорили міжнародний ринок."
+      ]
+    ]
+  },
+  {
+    "word": "zurzeit",
+    "full": "",
+    "translation": "зараз; наразі",
+    "forms": "",
+    "examples": [
+      [
+        "Zurzeit zeigt das Museum moderne Kunst.",
+        "Зараз музей показує сучасне мистецтво."
+      ]
+    ]
+  },
+  {
+    "word": "durchschnittlich",
+    "full": "",
+    "translation": "у середньому; середній",
+    "forms": "",
+    "examples": [
+      [
+        "Die Mitarbeiter arbeiten durchschnittlich acht Stunden täglich.",
+        "Працівники працюють у середньому вісім годин на день."
+      ]
+    ]
+  },
+  {
+    "word": "Durchschnitt",
+    "full": "der Durchschnitt, -e",
+    "translation": "середнє значення; середній показник",
+    "forms": "",
+    "examples": [
+      [
+        "Im Durchschnitt arbeiten wir acht Stunden.",
+        "У середньому ми працюємо вісім годин."
+      ]
+    ]
+  },
+  {
+    "word": "explodieren",
+    "full": "",
+    "translation": "вибухати; різко зростати",
+    "forms": "Perfekt: er ist explodiert · Präteritum: er explodierte",
+    "examples": [
+      [
+        "Die Nachfrage nach seinen Werken explodierte.",
+        "Попит на його твори різко зріс."
+      ]
+    ]
+  },
+  {
+    "word": "stagnieren",
+    "full": "",
+    "translation": "перебувати в застої; не змінюватися",
+    "forms": "Perfekt: er hat stagniert · Präteritum: er stagnierte",
+    "examples": [
+      [
+        "Der Umsatz stagnierte im letzten Jahr.",
+        "Минулого року оборот не змінювався."
+      ]
+    ]
+  },
+  {
+    "word": "köstlich",
+    "full": "",
+    "translation": "дуже смачний",
+    "forms": "",
+    "examples": [
+      [
+        "Die Suppe schmeckt köstlich.",
+        "Суп дуже смачний."
+      ]
+    ]
+  },
+  {
+    "word": "lecker",
+    "full": "",
+    "translation": "смачний",
+    "forms": "",
+    "examples": [
+      [
+        "Das Essen im Restaurant war sehr lecker.",
+        "Їжа в ресторані була дуже смачною."
+      ]
+    ]
+  },
+  {
+    "word": "Eröffnung",
+    "full": "die Eröffnung, -en",
+    "translation": "відкриття",
+    "forms": "",
+    "examples": [
+      [
+        "Die Eröffnung der Ausstellung ist am Freitag.",
+        "Відкриття виставки відбудеться у п'ятницю."
+      ]
+    ]
+  },
+  {
+    "word": "Verabschiedung",
+    "full": "die Verabschiedung, -en",
+    "translation": "прощання",
+    "forms": "",
+    "examples": [
+      [
+        "Bei der Verabschiedung gab er ihr die Hand.",
+        "Під час прощання він потиснув їй руку."
+      ]
+    ]
+  },
+  {
+    "word": "Liebe",
+    "full": "die Liebe",
+    "translation": "любов",
+    "forms": "",
+    "examples": [
+      [
+        "Das Kunstwerk erzählt von der Liebe.",
+        "Мистецький твір розповідає про любов."
+      ]
+    ]
+  },
+  {
+    "word": "Leben",
+    "full": "das Leben, -",
+    "translation": "життя",
+    "forms": "",
+    "examples": [
+      [
+        "Kunst spielt in ihrem Leben eine wichtige Rolle.",
+        "Мистецтво відіграє важливу роль у її житті."
+      ]
+    ]
+  },
+  {
+    "word": "verarbeiten",
+    "full": "",
+    "translation": "опрацьовувати; переробляти",
+    "forms": "Perfekt: er hat verarbeitet · Präteritum: er verarbeitete",
+    "examples": [
+      [
+        "Der Künstler verarbeitet persönliche Erfahrungen in seinen Werken.",
+        "Митець опрацьовує особистий досвід у своїх творах."
+      ]
+    ]
+  },
+  {
+    "word": "Kunstwerk",
+    "full": "das Kunstwerk, -e",
+    "translation": "мистецький твір",
+    "forms": "",
+    "examples": [
+      [
+        "Das Museum zeigt ein berühmtes Kunstwerk.",
+        "Музей показує відомий мистецький твір."
+      ]
+    ]
+  },
+  {
+    "word": "Dezember",
+    "full": "der Dezember, -",
+    "translation": "грудень",
+    "forms": "",
+    "examples": [
+      [
+        "Die Ausstellung beginnt am zweiten Dezember.",
+        "Виставка починається другого грудня."
+      ]
+    ]
+  },
+  {
+    "word": "wahr",
+    "full": "",
+    "translation": "правдивий; справжній",
+    "forms": "",
+    "examples": [
+      [
+        "Die Geschichte ist wirklich wahr.",
+        "Ця історія справді правдива."
+      ]
+    ]
+  },
+  {
+    "word": "Berührung",
+    "full": "die Berührung, -en",
+    "translation": "дотик; контакт",
+    "forms": "",
+    "examples": [
+      [
+        "Eine leichte Berührung genügte.",
+        "Легкого дотику було достатньо."
+      ]
+    ]
+  },
+  {
+    "word": "berühren",
+    "full": "",
+    "translation": "торкатися; зворушувати",
+    "forms": "Perfekt: er hat berührt · Präteritum: er berührte",
+    "examples": [
+      [
+        "Dieses Bild berührt viele Menschen.",
+        "Ця картина зворушує багатьох людей."
+      ]
+    ]
+  },
+  {
+    "word": "Wechsel",
+    "full": "der Wechsel, -",
+    "translation": "зміна; перехід",
+    "forms": "",
+    "examples": [
+      [
+        "Der Wechsel zwischen Licht und Schatten wirkt spannend.",
+        "Зміна світла й тіні виглядає захопливо."
+      ]
+    ]
+  },
+  {
+    "word": "Wirkung",
+    "full": "die Wirkung, -en",
+    "translation": "вплив; дія; ефект",
+    "forms": "",
+    "examples": [
+      [
+        "Die Farben haben eine beruhigende Wirkung.",
+        "Кольори мають заспокійливий ефект."
+      ]
+    ]
+  },
+  {
+    "word": "Alltagsgegenstand",
+    "full": "der Alltagsgegenstand, Alltagsgegenstände",
+    "translation": "предмет повсякденного вжитку",
+    "forms": "",
+    "examples": [
+      [
+        "Der Künstler verwendet Alltagsgegenstände.",
+        "Митець використовує предмети повсякденного вжитку."
+      ]
+    ]
+  },
+  {
+    "word": "vielfältig",
+    "full": "",
+    "translation": "різноманітний",
+    "forms": "",
+    "examples": [
+      [
+        "Die Aufgaben in diesem Beruf sind vielfältig.",
+        "Завдання в цій професії різноманітні."
+      ]
+    ]
+  },
+  {
+    "word": "Zusammenhang",
+    "full": "der Zusammenhang, Zusammenhänge",
+    "translation": "зв'язок; контекст",
+    "forms": "",
+    "examples": [
+      [
+        "Ich verstehe den Zusammenhang jetzt besser.",
+        "Тепер я краще розумію зв'язок."
+      ]
+    ]
+  },
+  {
+    "word": "deutlich",
+    "full": "",
+    "translation": "чіткий; чітко",
+    "forms": "",
+    "examples": [
+      [
+        "Bitte sprechen Sie langsam und deutlich.",
+        "Будь ласка, говоріть повільно й чітко."
+      ]
+    ]
+  },
+  {
+    "word": "Umgang",
+    "full": "der Umgang, Umgänge",
+    "translation": "поводження; спілкування",
+    "forms": "",
+    "examples": [
+      [
+        "Der Umgang mit Kunden erfordert Geduld.",
+        "Спілкування з клієнтами вимагає терпіння."
+      ]
+    ]
+  },
+  {
+    "word": "Bevölkerung",
+    "full": "die Bevölkerung, -en",
+    "translation": "населення",
+    "forms": "",
+    "examples": [
+      [
+        "Die Bevölkerung der Stadt wächst.",
+        "Населення міста зростає."
+      ]
+    ]
+  },
+  {
+    "word": "Einwohner",
+    "full": "der Einwohner, -",
+    "translation": "мешканець",
+    "forms": "",
+    "examples": [
+      [
+        "Die Stadt hat eine Million Einwohner.",
+        "Місто має мільйон мешканців."
+      ]
+    ]
+  },
+  {
+    "word": "Vergleich",
+    "full": "der Vergleich, -e",
+    "translation": "порівняння",
+    "forms": "",
+    "examples": [
+      [
+        "Im Vergleich zum Vorjahr ist der Umsatz höher.",
+        "Порівняно з минулим роком оборот вищий."
+      ]
+    ]
+  },
+  {
+    "word": "Überraschung",
+    "full": "die Überraschung, -en",
+    "translation": "несподіванка; сюрприз",
+    "forms": "",
+    "examples": [
+      [
+        "Die Nachricht war eine große Überraschung.",
+        "Повідомлення стало великою несподіванкою."
+      ]
+    ]
+  },
+  {
+    "word": "Pfarrer",
+    "full": "der Pfarrer, -",
+    "translation": "священник; пастор",
+    "forms": "",
+    "examples": [
+      [
+        "Der Pfarrer betreut die Gemeinde.",
+        "Священник опікується громадою."
+      ]
+    ]
+  },
+  {
+    "word": "Geist",
+    "full": "der Geist, -er",
+    "translation": "дух; розум",
+    "forms": "",
+    "examples": [
+      [
+        "Der Geist des Künstlers lebt in seinen Werken weiter.",
+        "Дух митця продовжує жити в його творах."
+      ]
+    ]
+  },
+  {
+    "word": "Gewissen",
+    "full": "das Gewissen, -",
+    "translation": "совість",
+    "forms": "",
+    "examples": [
+      [
+        "Er hat ein schlechtes Gewissen.",
+        "Його мучить совість."
+      ]
+    ]
+  },
+  {
+    "word": "Freizeitausgleich",
+    "full": "der Freizeitausgleich",
+    "translation": "компенсація вільним часом",
+    "forms": "",
+    "examples": [
+      [
+        "Für Überstunden bekomme ich Freizeitausgleich.",
+        "За понаднормову роботу я отримую компенсацію вільним часом."
+      ]
+    ]
+  },
+  {
+    "word": "Frist",
+    "full": "die Frist, -en",
+    "translation": "строк; термін",
+    "forms": "",
+    "examples": [
+      [
+        "Die Frist endet am Freitag.",
+        "Термін спливає у п'ятницю."
+      ]
+    ]
+  },
+  {
+    "word": "Einschränkung",
+    "full": "die Einschränkung, -en",
+    "translation": "обмеження",
+    "forms": "",
+    "examples": [
+      [
+        "Diese Regel ist eine große Einschränkung.",
+        "Це правило є значним обмеженням."
+      ]
+    ]
+  },
+  {
+    "word": "Gefahr",
+    "full": "die Gefahr, -en",
+    "translation": "небезпека",
+    "forms": "",
+    "examples": [
+      [
+        "Die Straße ist eine Gefahr für Kinder.",
+        "Ця дорога становить небезпеку для дітей."
+      ]
+    ]
+  },
+  {
+    "word": "Zuckerersatz",
+    "full": "der Zuckerersatz",
+    "translation": "замінник цукру",
+    "forms": "",
+    "examples": [
+      [
+        "Stevia wird als Zuckerersatz verwendet.",
+        "Стевію використовують як замінник цукру."
+      ]
+    ]
+  },
+  {
+    "word": "Rat",
+    "full": "der Rat",
+    "translation": "порада",
+    "forms": "",
+    "examples": [
+      [
+        "Kannst du mir einen Rat geben?",
+        "Можеш дати мені пораду?"
+      ]
+    ]
+  },
+  {
+    "word": "landen",
+    "full": "",
+    "translation": "приземлятися; опинятися",
+    "forms": "Perfekt: er ist gelandet · Präteritum: er landete",
+    "examples": [
+      [
+        "Das Kunstwerk landete in einem Museum.",
+        "Мистецький твір опинився в музеї."
+      ]
+    ]
+  },
+  {
+    "word": "sich äußern",
+    "full": "",
+    "translation": "висловлюватися",
+    "forms": "Perfekt: er hat sich geäußert · Präteritum: er äußerte sich",
+    "examples": [
+      [
+        "Der Künstler äußert sich zur Wirkung seiner Werke.",
+        "Митець висловлюється про вплив своїх творів."
+      ]
+    ]
+  },
+  {
+    "word": "kaufen",
+    "full": "",
+    "translation": "купувати",
+    "forms": "Perfekt: er hat gekauft · Präteritum: er kaufte",
+    "examples": [
+      [
+        "Sie kauft ein Bild für ihr Büro.",
+        "Вона купує картину для свого офісу."
+      ]
+    ]
+  },
+  {
+    "word": "erwerben",
+    "full": "",
+    "translation": "придбавати",
+    "forms": "Perfekt: er hat erworben · Präteritum: er erwarb",
+    "examples": [
+      [
+        "Das Museum erwarb das Werk im letzten Jahr.",
+        "Музей придбав цей твір минулого року."
+      ]
+    ]
+  },
+  {
+    "word": "veräußern",
+    "full": "",
+    "translation": "відчужувати; продавати",
+    "forms": "Perfekt: er hat veräußert · Präteritum: er veräußerte",
+    "examples": [
+      [
+        "Der Sammler veräußerte das Bild bei einer Auktion.",
+        "Колекціонер продав картину на аукціоні."
+      ]
+    ]
+  },
+  {
+    "word": "vor*schlagen",
+    "full": "",
+    "translation": "пропонувати",
+    "forms": "Perfekt: er hat vorgeschlagen · Präteritum: er schlug vor",
+    "examples": [
+      [
+        "Ich schlage einen neuen Termin vor.",
+        "Я пропоную новий час зустрічі."
+      ]
+    ]
+  },
+  {
+    "word": "unterbreiten",
+    "full": "",
+    "translation": "подавати; висувати пропозицію",
+    "forms": "Perfekt: er hat unterbreitet · Präteritum: er unterbreitete",
+    "examples": [
+      [
+        "Die Firma unterbreitet uns ein gutes Angebot.",
+        "Компанія робить нам вигідну пропозицію."
+      ]
+    ]
+  },
+  {
+    "word": "verbessern",
+    "full": "",
+    "translation": "покращувати",
+    "forms": "Perfekt: er hat verbessert · Präteritum: er verbesserte",
+    "examples": [
+      [
+        "Wir möchten die Arbeitsbedingungen verbessern.",
+        "Ми хочемо покращити умови праці."
+      ]
+    ]
+  },
+  {
+    "word": "überzeugen",
+    "full": "",
+    "translation": "переконувати",
+    "forms": "Perfekt: er hat überzeugt · Präteritum: er überzeugte",
+    "examples": [
+      [
+        "Sein Vorschlag überzeugt die ganze Gruppe.",
+        "Його пропозиція переконує всю групу."
+      ]
+    ]
+  },
+  {
+    "word": "auf*passen",
+    "full": "",
+    "translation": "бути уважним; пильнувати",
+    "forms": "Perfekt: er hat aufgepasst · Präteritum: er passte auf",
+    "examples": [
+      [
+        "Pass bitte auf die Kinder auf!",
+        "Будь ласка, доглянь за дітьми!"
+      ]
+    ]
+  },
+  {
+    "word": "beseitigen",
+    "full": "",
+    "translation": "усувати",
+    "forms": "Perfekt: er hat beseitigt · Präteritum: er beseitigte",
+    "examples": [
+      [
+        "Die Techniker beseitigen den Fehler.",
+        "Техніки усувають помилку."
+      ]
+    ]
+  },
+  {
+    "word": "ersetzen",
+    "full": "",
+    "translation": "замінювати",
+    "forms": "Perfekt: er hat ersetzt · Präteritum: er ersetzte",
+    "examples": [
+      [
+        "Wir ersetzen Zucker durch Honig.",
+        "Ми замінюємо цукор медом."
+      ]
+    ]
+  },
+  {
+    "word": "dazu",
+    "full": "",
+    "translation": "до цього; для цього",
+    "forms": "",
+    "examples": [
+      [
+        "Dazu brauche ich noch mehr Informationen.",
+        "Для цього мені потрібна додаткова інформація."
+      ]
+    ]
+  },
+  {
+    "word": "eigen",
+    "full": "",
+    "translation": "власний",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat ihr eigenes Büro.",
+        "Вона має власний офіс."
+      ]
+    ]
+  },
+  {
+    "word": "angesehen",
+    "full": "",
+    "translation": "шанований; авторитетний",
+    "forms": "",
+    "examples": [
+      [
+        "Er ist ein angesehener Künstler.",
+        "Він шанований митець."
+      ]
+    ]
+  },
+  {
+    "word": "inwieweit",
+    "full": "",
+    "translation": "наскільки; якою мірою",
+    "forms": "",
+    "examples": [
+      [
+        "Inwieweit beeinflusst Kunst unser Leben?",
+        "Якою мірою мистецтво впливає на наше життя?"
+      ]
+    ]
+  },
+  {
+    "word": "beliebt",
+    "full": "",
+    "translation": "популярний; улюблений",
+    "forms": "",
+    "examples": [
+      [
+        "Dieses Restaurant ist bei Touristen sehr beliebt.",
+        "Цей ресторан дуже популярний серед туристів."
+      ]
+    ]
+  },
+  {
+    "word": "sinnlos",
+    "full": "",
+    "translation": "безглуздий; беззмістовний",
+    "forms": "",
+    "examples": [
+      [
+        "Ohne Vorbereitung ist die Diskussion sinnlos.",
+        "Без підготовки ця дискусія безглузда."
+      ]
+    ]
+  },
+  {
+    "word": "gefährlich",
+    "full": "",
+    "translation": "небезпечний",
+    "forms": "",
+    "examples": [
+      [
+        "Dieser Weg ist bei Nacht gefährlich.",
+        "Ця дорога небезпечна вночі."
+      ]
+    ]
+  },
+  {
+    "word": "unser",
+    "full": "",
+    "translation": "наш",
+    "forms": "",
+    "examples": [
+      [
+        "Unser Büro liegt im Stadtzentrum.",
+        "Наш офіс розташований у центрі міста."
+      ]
+    ]
+  },
+  {
+    "word": "Anleitung",
+    "full": "die Anleitung, -en",
+    "translation": "інструкція; керівництво",
+    "forms": "",
+    "examples": [
+      [
+        "Die Arbeit wird unter Anleitung gemacht.",
+        "Роботу виконують під керівництвом."
+      ]
+    ]
+  },
+  {
+    "word": "Vorschlag",
+    "full": "der Vorschlag, Vorschläge",
+    "translation": "пропозиція",
+    "forms": "",
+    "examples": [
+      [
+        "Ich möchte einen Vorschlag machen.",
+        "Я хочу зробити пропозицію."
+      ]
+    ]
+  },
+  {
+    "word": "Unterschied",
+    "full": "der Unterschied, -e",
+    "translation": "різниця; відмінність",
+    "forms": "",
+    "examples": [
+      [
+        "Was ist der Unterschied zwischen den Verben?",
+        "У чому різниця між цими дієсловами?"
+      ]
+    ]
+  },
+  {
+    "word": "viele Dienstreisen machen",
+    "full": "",
+    "translation": "часто їздити у службові відрядження",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "keine Dienstreisen machen",
+    "full": "",
+    "translation": "не їздити у службові відрядження",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "flexible Arbeitszeiten",
+    "full": "",
+    "translation": "гнучкий графік роботи",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "feste Arbeitszeiten",
+    "full": "",
+    "translation": "фіксований графік роботи",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "hohes Gehalt",
+    "full": "",
+    "translation": "висока заробітна плата",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "niedriges Gehalt",
+    "full": "",
+    "translation": "низька заробітна плата",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "nette Kollegen",
+    "full": "",
+    "translation": "приємні колеги",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "unfreundliche Kollegen",
+    "full": "",
+    "translation": "непривітні колеги",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "soziale Sicherheit",
+    "full": "",
+    "translation": "соціальна захищеність",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "soziale Unsicherheit",
+    "full": "",
+    "translation": "соціальна незахищеність",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "abwechslungsreiche Arbeit",
+    "full": "",
+    "translation": "різноманітна робота",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "langweilige Arbeit",
+    "full": "",
+    "translation": "нудна робота",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "gute Karrieremöglichkeiten",
+    "full": "",
+    "translation": "хороші можливості кар’єрного зростання",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "schlechte Karrieremöglichkeiten",
+    "full": "",
+    "translation": "погані можливості кар’єрного зростання",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "selbstständig arbeiten",
+    "full": "",
+    "translation": "працювати самостійно",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "unter Anleitung arbeiten",
+    "full": "",
+    "translation": "працювати під керівництвом",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "im Team arbeiten",
+    "full": "",
+    "translation": "працювати в команді",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "allein arbeiten",
+    "full": "",
+    "translation": "працювати самому",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "viele Überstunden machen",
+    "full": "",
+    "translation": "багато працювати понаднормово",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "die Arbeitszeit genau einhalten",
+    "full": "",
+    "translation": "точно дотримуватися робочого часу",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen unbefristeten Arbeitsvertrag haben",
+    "full": "",
+    "translation": "мати безстроковий трудовий договір",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen befristeten Arbeitsvertrag haben",
+    "full": "",
+    "translation": "мати строковий трудовий договір",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "vorbei*kommen",
+    "full": "",
+    "translation": "заходити; заїжджати",
+    "forms": "Perfekt: er ist vorbeigekommen · Präteritum: er kam vorbei",
+    "examples": [
+      [
+        "Komm doch morgen bei mir vorbei!",
+        "Заходь до мене завтра!"
+      ]
+    ]
+  },
+  {
+    "word": "besuchen",
+    "full": "",
+    "translation": "відвідувати",
+    "forms": "Perfekt: er hat besucht · Präteritum: er besuchte",
+    "examples": [
+      [
+        "Wir besuchen am Wochenende unsere Freunde.",
+        "На вихідних ми відвідуємо друзів."
+      ]
+    ]
+  },
+  {
+    "word": "erreichen",
+    "full": "",
+    "translation": "досягати; зв’язуватися",
+    "forms": "Perfekt: er hat erreicht · Präteritum: er erreichte",
+    "examples": [
+      [
+        "Sie können Herrn Klein telefonisch erreichen.",
+        "Ви можете зв’язатися з паном Кляйном телефоном."
+      ]
+    ]
+  },
+  {
+    "word": "zeigen",
+    "full": "",
+    "translation": "показувати",
+    "forms": "Perfekt: er hat gezeigt · Präteritum: er zeigte",
+    "examples": [
+      [
+        "Können Sie mir bitte den Weg zeigen?",
+        "Покажіть мені, будь ласка, дорогу."
+      ]
+    ]
+  },
+  {
+    "word": "jemanden verbinden",
+    "full": "",
+    "translation": "з’єднати когось телефоном",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "nach dem Namen fragen",
+    "full": "",
+    "translation": "запитати ім’я",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "jemandem eine Nachricht hinterlassen",
+    "full": "",
+    "translation": "залишити комусь повідомлення",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "etwas aus*richten",
+    "full": "",
+    "translation": "передати щось",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "nach dem Grund des Anrufes fragen",
+    "full": "",
+    "translation": "запитати про причину дзвінка",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen Termin vereinbaren",
+    "full": "",
+    "translation": "домовитися про зустріч",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen Terminvorschlag machen",
+    "full": "",
+    "translation": "запропонувати час зустрічі",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "auf einen Vorschlag reagieren",
+    "full": "",
+    "translation": "відреагувати на пропозицію",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen Termin ab*sagen",
+    "full": "",
+    "translation": "скасувати зустріч",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen Termin verschieben",
+    "full": "",
+    "translation": "перенести зустріч",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "das Gespräch beenden",
+    "full": "",
+    "translation": "завершити розмову",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "Arbeitsplatz",
+    "full": "der Arbeitsplatz, Arbeitsplätze",
+    "translation": "робоче місце",
+    "forms": "",
+    "examples": [
+      [
+        "Mein Arbeitsplatz ist direkt am Fenster.",
+        "Моє робоче місце розташоване біля вікна."
+      ]
+    ]
+  },
+  {
+    "word": "Firma",
+    "full": "die Firma, -en",
+    "translation": "фірма; компанія",
+    "forms": "",
+    "examples": [
+      [
+        "Sie arbeitet bei einer internationalen Firma.",
+        "Вона працює в міжнародній компанії."
+      ]
+    ]
+  },
+  {
+    "word": "Grund",
+    "full": "der Grund, Gründe",
+    "translation": "причина; підстава",
+    "forms": "",
+    "examples": [
+      [
+        "Was ist der Grund für Ihren Anruf?",
+        "Яка причина вашого дзвінка?"
+      ]
+    ]
+  },
+  {
+    "word": "Raucher",
+    "full": "der Raucher, -",
+    "translation": "курець",
+    "forms": "",
+    "examples": [
+      [
+        "Raucher dürfen hier nicht rauchen.",
+        "Курцям тут не дозволено курити."
+      ]
+    ]
+  },
+  {
+    "word": "Nichtraucher",
+    "full": "der Nichtraucher, -",
+    "translation": "некурець",
+    "forms": "",
+    "examples": [
+      [
+        "Dieses Hotel hat Zimmer für Nichtraucher.",
+        "У цьому готелі є номери для некурців."
+      ]
+    ]
+  },
+  {
+    "word": "Schaden",
+    "full": "der Schaden, Schäden",
+    "translation": "шкода; збиток",
+    "forms": "",
+    "examples": [
+      [
+        "Der Sturm hat großen Schaden verursacht.",
+        "Буря завдала великої шкоди."
+      ]
+    ]
+  },
+  {
+    "word": "Chance",
+    "full": "die Chance, -n",
+    "translation": "шанс; можливість",
+    "forms": "",
+    "examples": [
+      [
+        "Sie hat gute Chancen auf die Stelle.",
+        "Вона має хороші шанси отримати цю посаду."
+      ]
+    ]
+  },
+  {
+    "word": "Mitarbeiter",
+    "full": "der Mitarbeiter, -",
+    "translation": "працівник; співробітник",
+    "forms": "",
+    "examples": [
+      [
+        "Die Firma beschäftigt hundert Mitarbeiter.",
+        "Компанія має сто працівників."
+      ]
+    ]
+  },
+  {
+    "word": "Gewicht",
+    "full": "das Gewicht, -e",
+    "translation": "вага",
+    "forms": "",
+    "examples": [
+      [
+        "Das Gewicht des Pakets beträgt fünf Kilo.",
+        "Вага посилки становить п’ять кілограмів."
+      ]
+    ]
+  },
+  {
+    "word": "Jahresviertel",
+    "full": "das Jahresviertel, -",
+    "translation": "квартал; чверть року",
+    "forms": "",
+    "examples": [
+      [
+        "Im ersten Jahresviertel ist der Umsatz gestiegen.",
+        "У першому кварталі оборот зріс."
+      ]
+    ]
+  },
+  {
+    "word": "überlegen",
+    "full": "",
+    "translation": "обмірковувати; роздумувати",
+    "forms": "Perfekt: er hat überlegt · Präteritum: er überlegte",
+    "examples": [
+      [
+        "Ich muss mir den Vorschlag noch überlegen.",
+        "Мені ще треба обміркувати цю пропозицію."
+      ]
+    ]
+  },
+  {
+    "word": "nach*denken",
+    "full": "",
+    "translation": "розмірковувати",
+    "forms": "Perfekt: er hat nachgedacht · Präteritum: er dachte nach",
+    "examples": [
+      [
+        "Ich denke über deinen Vorschlag nach.",
+        "Я розмірковую над твоєю пропозицією."
+      ]
+    ]
+  },
+  {
+    "word": "ein*führen",
+    "full": "",
+    "translation": "запроваджувати; вводити",
+    "forms": "Perfekt: er hat eingeführt · Präteritum: er führte ein",
+    "examples": [
+      [
+        "Die Firma führt flexible Arbeitszeiten ein.",
+        "Компанія запроваджує гнучкий графік."
+      ]
+    ]
+  },
+  {
+    "word": "melden",
+    "full": "",
+    "translation": "повідомляти; реєструвати",
+    "forms": "Perfekt: er hat gemeldet · Präteritum: er meldete",
+    "examples": [
+      [
+        "Bitte melden Sie den Schaden sofort.",
+        "Будь ласка, негайно повідомте про пошкодження."
+      ]
+    ]
+  },
+  {
+    "word": "ein*atmen",
+    "full": "",
+    "translation": "вдихати",
+    "forms": "Perfekt: er hat eingeatmet · Präteritum: er atmete ein",
+    "examples": [
+      [
+        "Atmen Sie langsam ein und aus.",
+        "Повільно вдихайте та видихайте."
+      ]
+    ]
+  },
+  {
+    "word": "sich gewöhnen",
+    "full": "",
+    "translation": "звикати",
+    "forms": "Perfekt: er hat sich gewöhnt · Präteritum: er gewöhnte sich",
+    "examples": [
+      [
+        "Ich gewöhne mich langsam an die neue Arbeit.",
+        "Я поступово звикаю до нової роботи."
+      ]
+    ]
+  },
+  {
+    "word": "sich an*melden",
+    "full": "",
+    "translation": "реєструватися",
+    "forms": "Perfekt: er hat sich angemeldet · Präteritum: er meldete sich an",
+    "examples": [
+      [
+        "Sie meldet sich für den Deutschkurs an.",
+        "Вона реєструється на курс німецької мови."
+      ]
+    ]
+  },
+  {
+    "word": "übertreiben",
+    "full": "",
+    "translation": "перебільшувати",
+    "forms": "Perfekt: er hat übertrieben · Präteritum: er übertrieb",
+    "examples": [
+      [
+        "Du übertreibst, so schlimm ist es nicht.",
+        "Ти перебільшуєш, усе не так погано."
+      ]
+    ]
+  },
+  {
+    "word": "wiegen",
+    "full": "",
+    "translation": "важити; зважувати",
+    "forms": "Perfekt: er hat gewogen · Präteritum: er wog",
+    "examples": [
+      [
+        "Das Paket wiegt drei Kilo.",
+        "Посилка важить три кілограми."
+      ]
+    ]
+  },
+  {
+    "word": "übernehmen",
+    "full": "",
+    "translation": "перебирати; брати на себе",
+    "forms": "Perfekt: er hat übernommen · Präteritum: er übernahm",
+    "examples": [
+      [
+        "Ich übernehme diese Aufgabe.",
+        "Я беру це завдання на себе."
+      ]
+    ]
+  },
+  {
+    "word": "schädlich",
+    "full": "",
+    "translation": "шкідливий",
+    "forms": "",
+    "examples": [
+      [
+        "Rauchen ist schädlich für die Gesundheit.",
+        "Куріння шкідливе для здоров’я."
+      ]
+    ]
+  },
+  {
+    "word": "überwiegend",
+    "full": "",
+    "translation": "переважно",
+    "forms": "",
+    "examples": [
+      [
+        "Die Mitarbeiter arbeiten überwiegend im Büro.",
+        "Працівники працюють переважно в офісі."
+      ]
+    ]
+  },
+  {
+    "word": "gering",
+    "full": "",
+    "translation": "незначний; низький",
+    "forms": "",
+    "examples": [
+      [
+        "Der Schaden ist zum Glück gering.",
+        "На щастя, збиток незначний."
+      ]
+    ]
+  },
+  {
+    "word": "unbegrenzt",
+    "full": "",
+    "translation": "необмежений",
+    "forms": "",
+    "examples": [
+      [
+        "Der Zugang zum Internet ist unbegrenzt.",
+        "Доступ до інтернету необмежений."
+      ]
+    ]
+  },
+  {
+    "word": "in geringem Umfang",
+    "full": "",
+    "translation": "у незначному обсязі",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "meistens",
+    "full": "",
+    "translation": "здебільшого; найчастіше",
+    "forms": "",
+    "examples": [
+      [
+        "Meistens fahre ich mit dem Bus zur Arbeit.",
+        "Найчастіше я їжджу на роботу автобусом."
+      ]
+    ]
+  },
+  {
+    "word": "am meisten",
+    "full": "",
+    "translation": "найбільше; найбільш",
+    "forms": "",
+    "examples": [
+      [
+        "Am meisten gefällt mir die flexible Arbeitszeit.",
+        "Найбільше мені подобається гнучкий графік."
+      ]
+    ]
+  },
+  {
+    "word": "schon",
+    "full": "",
+    "translation": "вже",
+    "forms": "",
+    "examples": [
+      [
+        "Ich habe den Bericht schon gelesen.",
+        "Я вже прочитав звіт."
+      ]
+    ]
+  },
+  {
+    "word": "bereits",
+    "full": "",
+    "translation": "вже",
+    "forms": "",
+    "examples": [
+      [
+        "Der Termin wurde bereits vereinbart.",
+        "Зустріч уже узгоджено."
+      ]
+    ]
+  },
+  {
+    "word": "ganz schön hässlich",
+    "full": "",
+    "translation": "доволі-таки потворний",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "am Arbeitsplatz",
+    "full": "",
+    "translation": "на робочому місці",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "ein weiterer Grund",
+    "full": "",
+    "translation": "ще одна причина",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "dafür",
+    "full": "",
+    "translation": "за це; для цього",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "für das",
+    "full": "",
+    "translation": "за це; для цього",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "für etwas gedacht sein",
+    "full": "",
+    "translation": "бути призначеним для чогось",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "sich an etwas gewöhnen",
+    "full": "",
+    "translation": "звикати до чогось",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "an etwas gewöhnt sein",
+    "full": "",
+    "translation": "бути звиклим до чогось",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "einen Vorschlag machen",
+    "full": "",
+    "translation": "зробити пропозицію",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "zu erledigen sein",
+    "full": "",
+    "translation": "підлягати виконанню",
+    "forms": "",
+    "examples": []
+  },
+  {
+    "word": "etwas zu erledigen haben",
+    "full": "",
+    "translation": "мати щось зробити",
+    "forms": "",
+    "examples": []
+  }
+]

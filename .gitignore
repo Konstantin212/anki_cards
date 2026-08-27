@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Private source material and local processing state
+/Words/*
+!/Words/.gitkeep
+/backups/
+/image_import_state.json
+
+# Temporary import files and obsolete local export
+/anki_deutsch_candidates.json
+/deutsch.csv
+/Deutsch_Begegnungen_A2_B1.apkg
+*.tmp
+
+# Local research notes
+/ANKI_INTEGRATION_RESEARCH_*.md
+/BUSINESS_ANALYSIS*.md
+/BUSINESS_PROMPT.md
