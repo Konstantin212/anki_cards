@@ -34,10 +34,70 @@ FIELDS = ["Word", "Full", "Translation", "Forms",
 
 TTS_VOICE = "com.google.android.tts-de-DE-language"  # explicit AnkiDroid/Google voice
 
+# AnkiWeb's web reviewer does not implement {{tts}}: it prints the raw
+# "[anki:tts ...]word[/anki:tts]" marker as text. TTS_JS detects that leftover
+# marker and replaces it with a Web Speech API play button. Native clients strip
+# the marker before rendering, so there the script finds nothing and does nothing
+# (no double audio). Desktop Anki has no speechSynthesis at all -> early return.
+TTS_JS = r"""
+<script>
+(function () {
+  var MARK = /^\[anki:tts([^\]]*)\]([\s\S]*)\[\/anki:tts\]$/;
+
+  function speak(text, lang) {
+    try {
+      var s = window.speechSynthesis;
+      s.cancel();
+      var u = new SpeechSynthesisUtterance(text);
+      u.lang = lang;
+      u.rate = 0.9;
+      var voices = s.getVoices() || [];
+      for (var i = 0; i < voices.length; i++) {
+        if (voices[i].lang && voices[i].lang.toLowerCase().indexOf(lang.toLowerCase()) === 0) {
+          u.voice = voices[i];
+          break;
+        }
+      }
+      s.speak(u);
+    } catch (e) {}
+  }
+
+  function build(el) {
+    var m = MARK.exec((el.textContent || "").trim());
+    if (!m) return null;                       // native client already handled it
+    var text = m[2].trim();
+    el.textContent = "";
+    if (!text) return null;                    // empty field, e.g. missing ExampleDE1
+    var lang = (/lang=([A-Za-z_-]+)/.exec(m[1]) || [0, "de_DE"])[1].replace("_", "-");
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "ttsbtn";
+    b.textContent = "\u25B6";
+    b.setAttribute("aria-label", text);
+    b.addEventListener("click", function (ev) { ev.preventDefault(); speak(text, lang); });
+    el.appendChild(b);
+    return function () { speak(text, lang); };
+  }
+
+  if (!("speechSynthesis" in window)) return;
+  var first = null;
+  var els = document.querySelectorAll(".tts");
+  for (var i = 0; i < els.length; i++) {
+    var play = build(els[i]);
+    if (play && !first) first = play;
+  }
+  // Autoplay attempt. Mobile browsers require a prior user gesture on the page;
+  // if it is blocked the button above stays as the manual fallback.
+  if (first) first();
+})();
+</script>
+""".strip()
+
 FRONT = """
 <div class="word">{{Word}}</div>
-{{tts de_DE voices=%(v)s:WordClean}}
-""".strip() % {"v": TTS_VOICE}
+<div class="tts">{{tts de_DE voices=%(v)s:WordClean}}</div>
+%(js)s
+""".strip() % {"v": TTS_VOICE, "js": TTS_JS}
 
 BACK = """
 <div class="word">{{Word}}</div>
@@ -47,8 +107,9 @@ BACK = """
 {{#Forms}}<div class="forms">{{Forms}}</div>{{/Forms}}
 {{#ExampleDE1}}<div class="example"><div class="de">{{ExampleDE1}}</div><div class="ua">{{ExampleUA1}}</div></div>{{/ExampleDE1}}
 {{#ExampleDE2}}<div class="example"><div class="de">{{ExampleDE2}}</div><div class="ua">{{ExampleUA2}}</div></div>{{/ExampleDE2}}
-{{tts de_DE voices=%(v)s:ExampleDE1}}
-""".strip() % {"v": TTS_VOICE}
+<div class="tts">{{tts de_DE voices=%(v)s:ExampleDE1}}</div>
+%(js)s
+""".strip() % {"v": TTS_VOICE, "js": TTS_JS}
 
 CSS = """
 .card {
@@ -71,6 +132,13 @@ CSS = """
 .nightMode .example .ua { color: #9aa0a6; }
 hr#answer { margin: 16px 0; border: none; border-top: 1px solid #cbd5e0; }
 .nightMode hr#answer { border-top: 1px solid #3c4043; }
+.tts { margin-top: 12px; }
+.ttsbtn {
+  font: inherit; font-size: 15px; line-height: 1;
+  padding: 7px 15px; border-radius: 999px; cursor: pointer;
+  border: 1px solid #cbd5e0; background: #f7fafc; color: #202124;
+}
+.nightMode .ttsbtn { border-color: #3c4043; background: #303134; color: #e8eaed; }
 """
 
 model = genanki.Model(
